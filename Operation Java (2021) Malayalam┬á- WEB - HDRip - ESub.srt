@@ -1,0 +1,11908 @@
+﻿1
+00:01:04,560 --> 00:01:07,203
+'The number you have
+dialled is currently busy.'
+
+2
+00:01:07,283 --> 00:01:09,030
+'Please try later.'
+
+3
+00:01:09,354 --> 00:01:12,036
+'The number you have
+dialled is currently busy.'
+
+4
+00:01:12,116 --> 00:01:14,879
+'Please try later.'
+
+5
+00:01:15,289 --> 00:01:19,030
+'The number you have
+dialled is currently busy.'
+
+6
+00:01:19,110 --> 00:01:22,229
+'Please try later.'
+
+7
+00:01:37,636 --> 00:01:40,440
+'The number you have
+dialled is currently busy.'
+
+8
+00:01:56,507 --> 00:01:59,591
+'The person you are calling
+is speaking to someone else.'
+
+9
+00:01:59,671 --> 00:02:02,446
+'You can wait or call again later.'
+
+10
+00:02:02,712 --> 00:02:06,444
+'The person you are calling
+is speaking to someone else.'
+
+11
+00:02:06,524 --> 00:02:08,477
+'You can wait or call again later.'
+
+12
+00:02:08,557 --> 00:02:13,084
+'The person you are calling
+is speaking to someone else.'
+
+13
+00:02:13,164 --> 00:02:17,692
+'You can wait or call again later.'
+
+14
+00:02:29,741 --> 00:02:32,649
+'The person you are calling
+is speaking to someone else.'
+
+15
+00:02:32,729 --> 00:02:35,503
+'You can wait or call again later.'
+
+16
+00:02:35,989 --> 00:02:39,697
+'The person you are calling
+is speaking to someone else.'
+
+17
+00:02:39,777 --> 00:02:41,556
+'You can wait or call again later.'
+
+18
+00:02:41,636 --> 00:02:46,292
+'The person you are calling
+is speaking to someone else.'
+
+19
+00:02:46,372 --> 00:02:51,060
+'You can wait or call again later.'
+
+20
+00:02:52,238 --> 00:02:53,405
+Sir.
+
+21
+00:02:54,280 --> 00:02:55,488
+What's the problem?
+
+22
+00:02:55,821 --> 00:02:57,446
+Who is she talking to
+at this hour?
+
+23
+00:03:00,453 --> 00:03:02,408
+What is it? Open up, sir.
+
+24
+00:03:02,488 --> 00:03:04,321
+Ratheesh, don't make me tense.
+
+25
+00:03:04,738 --> 00:03:06,325
+You can't imagine how worried I'm.
+
+26
+00:03:06,942 --> 00:03:08,821
+I can understand only if
+you tell me why you're worried.
+
+27
+00:03:09,488 --> 00:03:11,116
+Any problem with your wife?
+
+28
+00:03:11,196 --> 00:03:12,738
+Are you guys fighting
+over something?
+
+29
+00:03:19,796 --> 00:03:21,075
+'Hi Sweetheart, what's up?'
+
+30
+00:03:21,155 --> 00:03:22,866
+How long have I been calling you?
+- 'Sorry, I didn't see your call.'
+
+31
+00:03:22,946 --> 00:03:25,825
+To whom were you talking?
+- 'I... From Oman...'
+
+32
+00:03:25,905 --> 00:03:27,241
+At 2.00 am, midnight, huh?
+
+33
+00:03:27,780 --> 00:03:29,803
+'Sweetheart...I'm...'
+- How could you do this to me?
+
+34
+00:03:29,883 --> 00:03:30,956
+'What have I done to you, honey?'
+
+35
+00:03:31,036 --> 00:03:33,988
+Did you forget, I bought you
+a very costly I-phone?
+
+36
+00:03:34,571 --> 00:03:37,158
+Since then, you're always online
+either on Facebook,
+
+37
+00:03:37,238 --> 00:03:39,200
+or WhatsApp.
+I never get you on call.
+
+38
+00:03:39,280 --> 00:03:41,030
+'Why do you sound like
+a male chauvinist?'
+
+39
+00:03:41,392 --> 00:03:44,575
+'Dear, when you go to work, I must
+pass my time, isn't it?'
+
+40
+00:03:44,836 --> 00:03:47,374
+Listen Raji, don't try to
+make a fool out of me.
+
+41
+00:03:47,454 --> 00:03:49,002
+'Jaison, you better
+speak decently.'
+
+42
+00:03:49,082 --> 00:03:50,823
+Don't say anything more.
+- 'I will say.'
+
+43
+00:03:50,903 --> 00:03:52,033
+You must be available
+whenever I call you.
+
+44
+00:03:52,113 --> 00:03:53,450
+'If you try to control me,
+I will talk back for sure.'
+
+45
+00:03:53,530 --> 00:03:56,613
+You're messing with a cop.
+- 'So what if you're a cop?'
+
+46
+00:03:56,821 --> 00:03:57,821
+Hello.
+
+47
+00:03:58,292 --> 00:03:59,405
+Hello.
+
+48
+00:04:00,672 --> 00:04:01,783
+How dare she hang up my call?
+- Sir.
+
+49
+00:04:01,935 --> 00:04:03,533
+You should not be so
+nasty to your wife.
+
+50
+00:04:03,750 --> 00:04:04,738
+Too bad.
+
+51
+00:04:07,110 --> 00:04:08,217
+Whose wife, you mean?
+
+52
+00:04:08,297 --> 00:04:09,240
+Isn't she your wife?
+
+53
+00:04:09,320 --> 00:04:10,375
+Are you crazy?
+
+54
+00:04:10,455 --> 00:04:13,238
+She is just a woman I met
+at the station eight months ago.
+
+55
+00:04:13,655 --> 00:04:14,848
+I'm just having fun with
+her, that's all.
+
+56
+00:04:22,363 --> 00:04:24,241
+And now, she acts like
+a faithful wife.
+
+57
+00:04:24,321 --> 00:04:26,658
+She's talking to her husband
+in Oman, now at 2.00 am.
+
+58
+00:04:27,651 --> 00:04:28,941
+It just turned my mood off.
+
+59
+00:04:32,991 --> 00:04:34,071
+Buddy…
+
+60
+00:04:34,363 --> 00:04:35,613
+That thing, right?
+
+61
+00:04:37,502 --> 00:04:38,741
+What is its name? Er...
+
+62
+00:04:38,914 --> 00:04:40,405
+G-spot?
+- Yeah, G-spot.
+
+63
+00:04:41,205 --> 00:04:42,238
+What did you just say?
+
+64
+00:04:42,696 --> 00:04:44,321
+Hey, give me the internet thing.
+
+65
+00:04:45,155 --> 00:04:47,071
+It's 'Hotspot'.
+- Yeah, that 'Pot' itself.
+
+66
+00:04:50,704 --> 00:04:51,863
+See if it has come.
+
+67
+00:04:52,613 --> 00:04:53,950
+What's the password?
+
+68
+00:04:54,130 --> 00:04:55,158
+Aatukalamma.
+
+69
+00:04:55,386 --> 00:04:56,280
+What?
+
+70
+00:04:57,129 --> 00:04:58,410
+Aatukaalamma.
+
+71
+00:04:58,490 --> 00:05:00,488
+What a crappy password,
+Ratheesh?
+
+72
+00:05:00,959 --> 00:05:02,038
+My wife created it for me, sir.
+
+73
+00:05:05,210 --> 00:05:06,107
+Hurray!
+
+74
+00:05:07,053 --> 00:05:08,613
+Look at this.
+- What is it?
+
+75
+00:05:09,516 --> 00:05:10,745
+Is it okay?
+
+76
+00:05:11,696 --> 00:05:12,925
+Wow!
+
+77
+00:05:14,405 --> 00:05:16,988
+Sir, do you have the seventh clip?
+- Which one?
+
+78
+00:05:17,216 --> 00:05:18,450
+That of Solar Girl?
+
+79
+00:05:18,700 --> 00:05:20,036
+No, I have a new one.
+
+80
+00:05:20,116 --> 00:05:21,863
+Sunny Leon.
+See if you like it.
+
+81
+00:05:22,336 --> 00:05:24,405
+Wow! It's HD.
+
+82
+00:05:24,622 --> 00:05:27,280
+Sir, send it to me, please.
+- See the video clarity.
+
+83
+00:05:28,303 --> 00:05:29,363
+What is it?
+- Please send it to me.
+
+84
+00:05:29,715 --> 00:05:30,738
+You want it?
+- Yes.
+
+85
+00:05:30,938 --> 00:05:32,200
+I can send it to you if you want.
+
+86
+00:05:32,280 --> 00:05:34,280
+But don't utter my name if my wife
+catches you red-handed.
+
+87
+00:05:34,807 --> 00:05:36,658
+Sir, do you think anyone would
+tell your name to his wife?
+
+88
+00:05:36,738 --> 00:05:38,071
+What are you saying?
+
+89
+00:05:38,465 --> 00:05:39,783
+Oh, shit, the storage space
+is too less.
+
+90
+00:05:39,863 --> 00:05:41,325
+Yes, it's rotating.
+- I have sent it.
+
+91
+00:05:41,405 --> 00:05:43,488
+Huh, it's rotating, it's rotating.
+
+92
+00:05:48,826 --> 00:05:50,321
+Sir.
+- Pick the call.
+
+93
+00:05:56,446 --> 00:05:58,153
+'Hello, Ratheesh sir.'
+- Hello, sir.
+
+94
+00:05:58,405 --> 00:05:59,533
+'Have you reached the spot?'
+
+95
+00:05:59,613 --> 00:06:02,950
+'We are here at the street café,
+behind the BSNL quarters.'
+
+96
+00:06:03,030 --> 00:06:05,491
+'We're on the road to the right
+of the same BSNL quarters.'
+
+97
+00:06:05,571 --> 00:06:06,575
+'Shall we get in, sir?'
+
+98
+00:06:06,655 --> 00:06:08,575
+But sir isn't it raining
+heavily outside?
+
+99
+00:06:08,655 --> 00:06:10,071
+'Do we have
+to bother with the rain?'
+
+100
+00:06:10,155 --> 00:06:11,530
+'He's online now.'
+
+101
+00:06:11,780 --> 00:06:13,283
+'If we enter now, we can
+catch him right away.'
+
+102
+00:06:13,363 --> 00:06:14,571
+Yeah, we're coming, sir.
+
+103
+00:07:11,994 --> 00:07:15,328
+Sir, it's
+the fourth house from here.
+
+104
+00:07:15,727 --> 00:07:17,661
+Sir, follow us.
+
+105
+00:07:19,130 --> 00:07:21,606
+[Indistinct background voice over]
+
+106
+00:07:23,390 --> 00:07:26,287
+[Indistinct background voice over]
+
+107
+00:07:27,616 --> 00:07:30,589
+[Indistinct background voice over]
+
+108
+00:07:33,174 --> 00:07:38,039
+[Indistinct background voice over]
+
+109
+00:07:38,946 --> 00:07:41,887
+[Indistinct background voice over]
+
+110
+00:07:45,411 --> 00:07:46,373
+Hello.
+
+111
+00:07:46,453 --> 00:07:47,453
+Hello.
+
+112
+00:07:49,183 --> 00:07:51,286
+Hey, sir asked you to
+meet him upstairs.
+
+113
+00:07:51,366 --> 00:07:52,869
+Okay.
+- Go, quick.
+
+114
+00:07:53,878 --> 00:07:58,635
+[Indistinct chatter]
+
+115
+00:07:59,286 --> 00:08:00,623
+Sir.
+- What is it?
+
+116
+00:08:00,703 --> 00:08:02,206
+Aneesh sir, from the Cyber cell
+called me here.
+
+117
+00:08:02,286 --> 00:08:03,681
+What time?
+- 'Sir, any updates?'
+
+118
+00:08:03,761 --> 00:08:04,996
+Yes, the report will be
+submitted today evening.
+
+119
+00:08:05,076 --> 00:08:07,411
+We have informed FEFKA and
+Producer's association.
+
+120
+00:08:07,638 --> 00:08:09,123
+We just need a few updates
+from the Piracy squad.
+
+121
+00:08:09,203 --> 00:08:10,914
+'Sir, please give us
+the news first.' - Okay.
+
+122
+00:08:10,994 --> 00:08:12,184
+'It's for airing an exclusive news.'
+
+123
+00:08:12,264 --> 00:08:13,893
+Venu, there's a press conference
+in the evening.
+
+124
+00:08:13,973 --> 00:08:14,931
+'I firmly believe in you and...'
+
+125
+00:08:15,011 --> 00:08:16,581
+Let's discuss the rest
+of things there.
+
+126
+00:08:16,661 --> 00:08:18,024
+'I just need a byte for scrolling.'
+- You hang up.
+
+127
+00:08:18,104 --> 00:08:20,119
+I'll call you back. Okay.
+- 'Sir, please... our TRP...'
+
+128
+00:08:23,705 --> 00:08:26,292
+Ramanathan, everyone, including
+you and I know that,
+
+129
+00:08:26,372 --> 00:08:28,423
+the video that has gone
+viral on social media,
+
+130
+00:08:28,503 --> 00:08:31,703
+in the name of your
+wife, Janaki, is fake.
+
+131
+00:08:32,558 --> 00:08:34,058
+She is a Srikankan lady.
+
+132
+00:08:34,349 --> 00:08:35,572
+Do you still need a Cyber- forensic,
+
+133
+00:08:35,652 --> 00:08:36,933
+report when things
+are crystal clear?
+
+134
+00:08:37,599 --> 00:08:38,933
+We need it, sir.
+
+135
+00:08:40,695 --> 00:08:42,965
+Then, give me a request in writing.
+- Here it is.
+
+136
+00:08:55,058 --> 00:08:56,686
+We will forward this to
+Thiruvananthapuram.
+
+137
+00:08:56,766 --> 00:08:58,599
+They will send us
+a report on this.
+
+138
+00:08:58,679 --> 00:08:59,856
+We can file a writ in
+the court after,
+
+139
+00:08:59,936 --> 00:09:01,612
+receiving the Cyber-forensic report.
+
+140
+00:09:02,558 --> 00:09:03,599
+Prathapan sir,
+
+141
+00:09:03,933 --> 00:09:07,016
+if it reaches the court, the media
+will have a field day.
+
+142
+00:09:07,558 --> 00:09:08,561
+Do we have to go for it?
+
+143
+00:09:08,641 --> 00:09:09,849
+Isn't it risky?
+
+144
+00:09:10,724 --> 00:09:11,724
+Let's see.
+
+145
+00:09:11,891 --> 00:09:13,553
+Don't worry. You may go.
+
+146
+00:09:13,698 --> 00:09:14,641
+I'll call you.
+
+147
+00:09:15,183 --> 00:09:16,901
+Don't panic.
+- Okay.
+
+148
+00:09:17,960 --> 00:09:18,825
+Come.
+
+149
+00:09:43,217 --> 00:09:44,728
+Sir, I was asked to come here.
+
+150
+00:09:44,808 --> 00:09:46,683
+Is this what you're up to
+right in the morning, huh?
+
+151
+00:09:46,849 --> 00:09:48,144
+Sir, please don't make an issue.
+
+152
+00:09:48,341 --> 00:09:49,478
+You needn't utter a word.
+
+153
+00:09:49,558 --> 00:09:50,984
+Yesterday, the girl and her mom
+were yelling over this.
+
+154
+00:09:51,064 --> 00:09:52,603
+I won't repeat it, sir.
+- Take out your mobile phone.
+
+155
+00:09:52,683 --> 00:09:54,397
+Sir, it was a mistake. - This is not
+how you make a mistake.
+
+156
+00:09:54,477 --> 00:09:56,058
+Show me your mobile.
+Give it to me.
+
+157
+00:09:56,183 --> 00:09:57,561
+Sir, my phone...
+- Go and stand there.
+
+158
+00:09:57,641 --> 00:09:59,603
+His love and black mailing.
+- Sir, I have deleted everything.
+
+159
+00:09:59,683 --> 00:10:01,496
+Get the printout
+of the case report, quick.
+
+160
+00:10:01,576 --> 00:10:02,769
+Oh, Ravi, were you on leave?
+
+161
+00:10:02,849 --> 00:10:04,878
+No, I wasn't... I had
+gone out to nab,
+
+162
+00:10:04,958 --> 00:10:06,728
+the accused in Mulanthuruthy
+ATM fraud case,
+
+163
+00:10:06,808 --> 00:10:09,175
+along with the cops at
+Thripunithara station.
+
+164
+00:10:09,255 --> 00:10:11,050
+Could you catch them?
+- Just that our money went waste.
+
+165
+00:10:11,130 --> 00:10:12,890
+It happens.
+- No use talking about it.
+
+166
+00:10:12,970 --> 00:10:14,519
+Sir, what's wrong?
+- I lost my ATM card.
+
+167
+00:10:14,599 --> 00:10:16,603
+You should never write
+the PIN on ATM cards.
+
+168
+00:10:16,683 --> 00:10:18,853
+I didn't know that. - Sir, please
+call the bank and block her card.
+
+169
+00:10:19,156 --> 00:10:20,894
+Aneesh sir, our internet is down.
+
+170
+00:10:20,974 --> 00:10:22,603
+I'm using my own personal
+data card to access the internet.
+
+171
+00:10:22,683 --> 00:10:23,891
+Cyber Cell, it seems.
+
+172
+00:10:24,099 --> 00:10:26,186
+Where is Baiju sir?
+- He is in Prathapan sir's cabin.
+
+173
+00:10:26,330 --> 00:10:28,184
+Sanjay, isn't it ready? Didn't you
+keep a copy of the Chennai police's FIR?
+
+174
+00:10:28,264 --> 00:10:30,474
+Is it not aligned?
+- Yes, it is.
+
+175
+00:10:31,422 --> 00:10:33,183
+Where is Joy sir?
+- He's over there.
+
+176
+00:10:33,635 --> 00:10:34,569
+Joy sir,
+
+177
+00:10:34,749 --> 00:10:35,721
+Please sign it.
+
+178
+00:10:35,801 --> 00:10:37,808
+That producer has gone mad.
+
+179
+00:10:41,183 --> 00:10:43,168
+For leaking someone else' cinema,
+it's us who must go behind it.
+
+180
+00:10:44,102 --> 00:10:45,943
+I don't know how to write, dear.
+
+181
+00:10:46,475 --> 00:10:49,019
+Aunt, it's your money. Don't write
+the PIN on your card, okay?
+
+182
+00:10:49,099 --> 00:10:51,353
+Okay, son. - Sir, please come
+over after this is done.
+
+183
+00:10:51,433 --> 00:10:53,519
+Who asked you to come here?
+- Anwar.
+
+184
+00:10:53,599 --> 00:10:55,766
+What's going on here?
+- Your tea is kept there.
+
+185
+00:10:55,953 --> 00:10:57,519
+Which Anwar?
+- Anwar Rasheed.
+
+186
+00:10:57,599 --> 00:10:59,891
+The producer of the
+movie, Premam.
+
+187
+00:11:00,936 --> 00:11:03,139
+Look, this case has already
+been closed.
+
+188
+00:11:03,219 --> 00:11:04,686
+There's nothing we can
+do about it.
+
+189
+00:11:04,766 --> 00:11:06,343
+This is a closed file.
+You may go.
+
+190
+00:11:06,423 --> 00:11:08,640
+Sir, can we meet the SHO?
+- There's no use meeting him.
+
+191
+00:11:08,720 --> 00:11:09,827
+Go and mind your own business.
+
+192
+00:11:11,660 --> 00:11:12,644
+Who the nuts are they?
+
+193
+00:11:12,724 --> 00:11:13,974
+We will do one thing.
+
+194
+00:11:14,054 --> 00:11:16,869
+You should never write your PIN
+number on your ATM card.
+
+195
+00:11:17,015 --> 00:11:19,035
+Where is the card that you
+took last week?
+
+196
+00:11:19,193 --> 00:11:20,356
+Let me look!
+- Joy, sir.
+
+197
+00:11:21,179 --> 00:11:23,164
+You remember, the 'Premam'
+piracy case?
+
+198
+00:11:23,244 --> 00:11:24,103
+Yes.
+
+199
+00:11:24,183 --> 00:11:27,019
+It seems, our findings on
+the case wasn't correct.
+
+200
+00:11:27,183 --> 00:11:28,186
+Who said it?
+
+201
+00:11:28,266 --> 00:11:29,849
+Those guys standing over there.
+
+202
+00:11:30,047 --> 00:11:32,016
+What did you say your name is?
+- Antony.
+
+203
+00:11:33,362 --> 00:11:35,058
+And you?
+- Vinay Dasan.
+
+204
+00:11:35,320 --> 00:11:36,572
+Vinay Das...
+
+205
+00:11:37,313 --> 00:11:38,641
+What do you do, Vinay Das?
+
+206
+00:11:41,084 --> 00:11:42,224
+Are you jobless?
+
+207
+00:11:42,378 --> 00:11:43,478
+I'm employed.
+
+208
+00:11:43,558 --> 00:11:45,478
+I work as a courier boy.
+
+209
+00:11:45,558 --> 00:11:46,933
+Blue Cart in Kochi.
+
+210
+00:11:48,896 --> 00:11:51,193
+What about you?
+- I'm preparing for bank exams.
+
+211
+00:11:51,273 --> 00:11:53,564
+Meanwhile, I work part-time
+in 'chicking'.
+
+212
+00:11:53,856 --> 00:11:54,901
+B-tech graduate, huh?
+
+213
+00:11:54,981 --> 00:11:56,859
+Yes, Computer Science.
+
+214
+00:11:56,939 --> 00:11:59,768
+So, what these B-tech graduates
+are saying, is that,
+
+215
+00:11:59,848 --> 00:12:02,523
+our findings in Premam Piracy
+case is wrong.
+
+216
+00:12:02,603 --> 00:12:05,106
+Sorry sir, that's not it.
+
+217
+00:12:05,939 --> 00:12:07,273
+Then, what else, sir?
+
+218
+00:12:07,773 --> 00:12:09,734
+Well, they are youngsters.
+
+219
+00:12:09,814 --> 00:12:11,234
+They might want to act in films.
+
+220
+00:12:11,314 --> 00:12:13,068
+If they can make friends
+with Anwar Rasheed in this name,
+
+221
+00:12:13,148 --> 00:12:14,776
+they may get a minor
+role in his next film.
+
+222
+00:12:14,856 --> 00:12:16,231
+What else?
+
+223
+00:12:16,439 --> 00:12:18,841
+Anyway, isn't this case about
+that woman?
+
+224
+00:12:18,921 --> 00:12:21,068
+Yes.
+- Let me see what she is saying.
+
+225
+00:12:21,148 --> 00:12:23,231
+Simply, to create a controversy,
+what else?
+
+226
+00:12:23,314 --> 00:12:25,276
+There's no controversy behind this.
+
+227
+00:12:25,356 --> 00:12:27,314
+And you needn't try to
+make one out of this.
+
+228
+00:12:27,564 --> 00:12:28,898
+On 29th of May.
+
+229
+00:12:29,115 --> 00:12:32,012
+On the first day of release
+of Premam, at 2.10 pm,
+
+230
+00:12:32,092 --> 00:12:34,939
+someone uploaded the print on
+the website of Tamil Rockers.
+
+231
+00:12:35,898 --> 00:12:37,689
+That's the main course of spread.
+
+232
+00:12:42,523 --> 00:12:44,984
+The police had seized the prints
+from the CD outlets in Chennai,
+
+233
+00:12:45,064 --> 00:12:46,337
+on the very day itself.
+
+234
+00:12:49,648 --> 00:12:52,564
+They have also tracked the agents
+who supply the prints to them.
+
+235
+00:12:53,789 --> 00:12:55,540
+I don't know, sir.
+
+236
+00:12:55,817 --> 00:12:57,193
+I swear, I don't know anything
+about it.
+
+237
+00:12:57,273 --> 00:13:00,295
+Through them, we have also arrested
+an admin of Tamil Rockers.
+
+238
+00:13:00,375 --> 00:13:02,107
+Sir, let us go. We don't
+know anything.
+
+239
+00:13:02,187 --> 00:13:04,398
+After cross-questioning them,
+we understood that,
+
+240
+00:13:05,023 --> 00:13:06,984
+It was a guy in New Zealand,
+
+241
+00:13:07,064 --> 00:13:09,023
+who uploaded it on
+the Tamil Rockers website.
+
+242
+00:13:10,898 --> 00:13:13,672
+It's not legally possible either to
+catch the guy in New Zealand,
+
+243
+00:13:13,752 --> 00:13:15,439
+or to question him.
+
+244
+00:13:15,648 --> 00:13:18,151
+Because piracy is not a
+crime in New Zealand.
+
+245
+00:13:18,231 --> 00:13:22,314
+Sir, the print was not uploaded
+on the Tamil Rockers website, first.
+
+246
+00:13:23,767 --> 00:13:24,609
+Then?
+
+247
+00:13:24,689 --> 00:13:27,231
+Just a day before, the print
+was available on U torrent.
+
+248
+00:13:27,311 --> 00:13:28,859
+The file that appeared
+in Tamil Rockers,
+
+249
+00:13:28,939 --> 00:13:30,568
+was initially downloaded
+from there earlier.
+
+250
+00:13:30,648 --> 00:13:34,148
+Because both the copies contained
+the water mark from Censor Board.
+
+251
+00:13:34,356 --> 00:13:36,401
+Sir, we had this project
+while doing B-tech.
+
+252
+00:13:36,481 --> 00:13:38,234
+It is called Metadata analysing.
+
+253
+00:13:38,314 --> 00:13:40,541
+By using it,
+we can get the details of each,
+
+254
+00:13:40,621 --> 00:13:42,043
+and every file uploaded
+on the internet.
+
+255
+00:13:42,123 --> 00:13:46,606
+Details like the time the file has
+been uploaded, its size, and so on.
+
+256
+00:13:46,686 --> 00:13:47,540
+So?
+
+257
+00:13:47,620 --> 00:13:49,775
+Sir, there were
+six files altogether.
+
+258
+00:13:49,931 --> 00:13:52,898
+Its size was 960 Mb.
+
+259
+00:13:52,978 --> 00:13:54,818
+The total time taken to
+upload the file of size,
+
+260
+00:13:54,898 --> 00:13:58,773
+960 Mb on internet is
+one hour fifty minutes.
+
+261
+00:13:59,398 --> 00:14:01,276
+Okay.
+- Which means 110 minutes.
+
+262
+00:14:01,356 --> 00:14:05,526
+I.e., in one minute, 8.72 Mb
+of data is being transferred.
+
+263
+00:14:05,606 --> 00:14:08,577
+So, it's just 0.14 Mb in one second.
+
+264
+00:14:08,657 --> 00:14:12,719
+Sir, this 0.14 mbps is the average
+net speed of BSNL network,
+
+265
+00:14:12,799 --> 00:14:14,148
+in a rural area inside Kerala.
+
+266
+00:14:14,314 --> 00:14:15,484
+So, most probably,
+
+267
+00:14:15,564 --> 00:14:17,523
+the file must have been uploaded
+in Kerala.
+
+268
+00:14:18,481 --> 00:14:19,734
+Basheer.
+- Yes, sir.
+
+269
+00:14:19,985 --> 00:14:21,222
+Ask Joshy sir, to come over.
+
+270
+00:14:21,302 --> 00:14:22,321
+Sir, the file please.
+
+271
+00:14:25,399 --> 00:14:27,606
+Lissy, I'm in an urgent meeting.
+I'll call you back.
+
+272
+00:14:28,273 --> 00:14:29,193
+Sir,
+
+273
+00:14:29,273 --> 00:14:31,106
+This is what we were talking about.
+- Sir, please check it.
+
+274
+00:14:34,189 --> 00:14:37,151
+On 28th of May, at 11.25pm,
+
+275
+00:14:37,231 --> 00:14:40,481
+i.e. the day before 'Premam'
+was released...
+
+276
+00:14:40,981 --> 00:14:44,023
+The censor copy of this movie
+was uploaded on U torrent.
+
+277
+00:14:44,898 --> 00:14:48,234
+Well, we can find out the IP address
+based on the uploaded content.
+
+278
+00:14:48,314 --> 00:14:50,443
+And we can check if their
+findings are genuine.
+
+279
+00:14:50,523 --> 00:14:51,943
+That is the protocol.
+
+280
+00:14:52,023 --> 00:14:54,818
+Well, sir, I'm not sure if U Torrent
+would provide the IP address.
+
+281
+00:14:54,898 --> 00:14:56,984
+Well, we can request
+them for the IP address,
+
+282
+00:14:57,064 --> 00:14:59,526
+via government authorities
+sighting the case requirements.
+
+283
+00:14:59,606 --> 00:15:00,526
+Am I right?
+
+284
+00:15:00,606 --> 00:15:02,273
+It will take time, Peter.
+
+285
+00:15:02,398 --> 00:15:04,151
+But sir, even if we find out...
+
+286
+00:15:04,231 --> 00:15:06,901
+If they have uploaded
+it using a proxy server,
+
+287
+00:15:06,981 --> 00:15:08,865
+the IP address that
+we might get,
+
+288
+00:15:08,998 --> 00:15:11,023
+would be from... Say
+Africa or Nigeria.
+
+289
+00:15:12,023 --> 00:15:15,856
+Sir, they have uploaded it under
+the name, 'Hero'.
+
+290
+00:15:16,231 --> 00:15:17,443
+When we searched for it,
+
+291
+00:15:17,523 --> 00:15:20,856
+the profile picture used
+was that of a dog.
+
+292
+00:15:21,314 --> 00:15:23,859
+There are seven files in the
+uploaded folder.
+
+293
+00:15:23,939 --> 00:15:27,689
+Six of them are the mp4 files
+of the film, Premam.
+
+294
+00:15:27,773 --> 00:15:29,356
+And one is a word file.
+
+295
+00:15:30,481 --> 00:15:32,276
+Isn't it a blank file?
+
+296
+00:15:32,356 --> 00:15:33,856
+What are we going to do with this?
+
+297
+00:15:35,428 --> 00:15:37,720
+Sir, when you create a word file,
+
+298
+00:15:37,800 --> 00:15:41,290
+the user name of
+the corresponding system will,
+
+299
+00:15:41,370 --> 00:15:44,523
+appear in the property list
+of the word file as author name.
+
+300
+00:15:46,981 --> 00:15:48,901
+Sir, if so,
+
+301
+00:15:48,981 --> 00:15:52,606
+it is the owner of the system who
+has uploaded the files on the internet.
+
+302
+00:15:53,398 --> 00:15:54,481
+Baburaj.
+
+303
+00:15:54,689 --> 00:15:58,023
+A guy named Baburaj is
+surely related to this case.
+
+304
+00:15:59,898 --> 00:16:01,901
+Either the word file was
+uploaded by mistake,
+
+305
+00:16:01,981 --> 00:16:03,568
+while dragging the others,
+
+306
+00:16:03,648 --> 00:16:06,439
+or it was done on purpose
+by someone.
+
+307
+00:16:06,814 --> 00:16:08,901
+But we need to find this Baburaj,
+
+308
+00:16:08,981 --> 00:16:11,231
+to get a clearer
+picture of the case.
+
+309
+00:16:11,648 --> 00:16:13,984
+Then, why don't we line-up everyone
+named Baburaj in Kerala,
+
+310
+00:16:14,064 --> 00:16:15,356
+and question them?
+
+311
+00:16:15,523 --> 00:16:17,359
+Dear sir, where on earth
+are we going to find him?
+
+312
+00:16:17,439 --> 00:16:19,934
+Well sir, first,
+we have to find out if Baburaj is,
+
+313
+00:16:20,014 --> 00:16:22,068
+anyone inside the
+crew list of Premam.
+
+314
+00:16:22,148 --> 00:16:24,568
+So, we must cross-question
+all the technicians in the film,
+
+315
+00:16:24,648 --> 00:16:26,043
+including the director.
+
+316
+00:16:28,939 --> 00:16:31,023
+Premam Piracy Case interrogations
+at a turning point.
+
+317
+00:16:37,689 --> 00:16:38,689
+Hello.
+
+318
+00:16:38,871 --> 00:16:40,234
+Sir, just ten minutes.
+
+319
+00:16:40,314 --> 00:16:41,359
+I'm taking the list.
+
+320
+00:16:41,439 --> 00:16:43,064
+Please check the crew list.
+
+321
+00:16:49,564 --> 00:16:51,234
+Sir, there's a mail from
+Vismaya studio.
+
+322
+00:16:51,314 --> 00:16:52,280
+Yes, I'm checking it.
+
+323
+00:16:52,360 --> 00:16:54,901
+There's no technician named
+Baburaj in Vismaya studio.
+
+324
+00:16:54,981 --> 00:16:56,498
+Sir, this is the list
+of Censor board employees,
+
+325
+00:16:56,578 --> 00:16:58,023
+who handled the film, 'Premam'.
+
+326
+00:16:58,193 --> 00:16:59,774
+'Film censoring has been stalled...'
+- No one called Baburaj is here.
+
+327
+00:16:59,854 --> 00:17:01,109
+'...until Monday
+as a protest against,'
+
+328
+00:17:01,189 --> 00:17:03,080
+'unnecessarily dragging censor board
+Employees,' - Who is Baburaj?
+
+329
+00:17:03,160 --> 00:17:04,232
+'in the Premam Piracy Case.'
+- Sir, the Film Chamber office?
+
+330
+00:17:04,312 --> 00:17:05,155
+Upstairs!
+
+331
+00:17:07,863 --> 00:17:09,439
+Are you here?
+- I'm here, here...
+
+332
+00:17:10,981 --> 00:17:12,609
+This is a directory I collected
+from the Film Chamber.
+
+333
+00:17:12,689 --> 00:17:14,374
+It contains the numbers of all the
+technicians in the industry.
+
+334
+00:17:14,454 --> 00:17:15,359
+Okay, check it.
+
+335
+00:17:15,439 --> 00:17:19,023
+Sir, it was me who took the hard
+disc to Vismaya for dubbing.
+
+336
+00:17:22,106 --> 00:17:23,359
+Hello, Baburaj.
+- 'Hello.'
+
+337
+00:17:23,439 --> 00:17:25,359
+I'm Salam, art technician.
+
+338
+00:17:25,439 --> 00:17:26,859
+'Which Salam?'
+- Where are you?
+
+339
+00:17:26,939 --> 00:17:28,359
+I'm in between a shooting.
+- 'Which movie?'
+
+340
+00:17:28,439 --> 00:17:30,444
+'Why do you want to know?
+Who are you?'
+
+341
+00:17:30,524 --> 00:17:32,106
+Salam! Salam!
+- 'Which Salam?'
+
+342
+00:17:32,287 --> 00:17:34,398
+'Check for the correct number
+before calling, you dumbo.'
+
+343
+00:17:35,201 --> 00:17:36,984
+I have been assisting Anwar for
+the past two years.
+
+344
+00:17:37,064 --> 00:17:39,359
+Both Anand and Alphones
+use to come to Di suit.
+
+345
+00:17:39,439 --> 00:17:40,693
+By 12.30 pm, noon,
+
+346
+00:17:40,773 --> 00:17:44,091
+the Cyber cops reached the
+Alphones Puthran's flat in Aluva.
+
+347
+00:17:44,981 --> 00:17:46,943
+We were sure the movie
+would go well in the theatres.
+
+348
+00:17:47,023 --> 00:17:49,689
+But we never expected such
+a blow in between.
+
+349
+00:17:50,064 --> 00:17:52,651
+A lot of people within our industry
+don't want our film do well.
+
+350
+00:17:52,731 --> 00:17:53,930
+Its common in the film industry.
+
+351
+00:17:56,814 --> 00:17:57,857
+Buddy,
+
+352
+00:17:57,937 --> 00:18:00,401
+if there's anything true about
+what online media has been saying,
+
+353
+00:18:00,481 --> 00:18:02,859
+Thiruvananthapuram lobby has
+a role in this piracy case,
+
+354
+00:18:02,939 --> 00:18:05,234
+so that the film doesn't
+enter into the five hundred million club.
+
+355
+00:18:05,314 --> 00:18:07,207
+Do we have to think along that line?
+- Why not?
+
+356
+00:18:07,287 --> 00:18:08,767
+If it is so,
+
+357
+00:18:08,847 --> 00:18:10,818
+we need to take the details of
+seven people named Baburaj,
+
+358
+00:18:10,898 --> 00:18:13,023
+who have a connection with the
+Thiruvananthapuram lobby.
+
+359
+00:18:13,273 --> 00:18:14,609
+Out of seven guys named Baburaj,
+
+360
+00:18:14,689 --> 00:18:16,943
+only three of them are active
+in the industry right now.
+
+361
+00:18:17,023 --> 00:18:18,624
+I have taken the call list
+of all the three.
+
+362
+00:18:18,704 --> 00:18:21,734
+One among them called
+Priyadarsan several times,
+
+363
+00:18:21,814 --> 00:18:24,898
+on May 26th, 27th and 28th.
+
+364
+00:18:24,978 --> 00:18:27,064
+Sir.
+- One Mr Baburaj Kalliath.
+
+365
+00:18:27,398 --> 00:18:28,693
+He's a native of Thiruvananthapuram.
+
+366
+00:18:29,189 --> 00:18:31,943
+He has received one and a half lakh
+rupees via bank transfer from,
+
+367
+00:18:32,023 --> 00:18:33,543
+Priyadarshan's production house.
+
+368
+00:18:33,623 --> 00:18:36,314
+That too on May 29th, the very
+day, Premam was released.
+
+369
+00:18:37,773 --> 00:18:40,109
+Will we go behind bars for this?
+- Why are you standing here?
+
+370
+00:18:40,189 --> 00:18:42,231
+Joy sir asked us to wait here.
+
+371
+00:18:42,828 --> 00:18:43,734
+Do you know the IME number?
+
+372
+00:18:43,814 --> 00:18:45,831
+It's from Priyadarshan's studio,
+
+373
+00:18:45,911 --> 00:18:48,231
+the final copy has
+gone for censoring.
+
+374
+00:18:48,939 --> 00:18:51,858
+Moreover, there is a rumour
+among the fans,
+
+375
+00:18:51,938 --> 00:18:55,068
+that there are some guys
+playing in the film industry,
+
+376
+00:18:55,204 --> 00:18:57,231
+not to break the 500 million
+record of the film, Drishyam,
+
+377
+00:18:57,564 --> 00:18:59,606
+When all of these
+are put together,
+
+378
+00:18:59,770 --> 00:19:01,398
+the game is clear. Isn't it, sir?
+
+379
+00:19:04,869 --> 00:19:07,192
+But how do we go about it without
+informing the top authorities?
+
+380
+00:19:07,272 --> 00:19:09,117
+It will take a hell of a time if we
+inform the authorities.
+
+381
+00:19:09,197 --> 00:19:10,856
+Sir, this is an opportunity.
+
+382
+00:19:32,745 --> 00:19:33,953
+Get into the car!
+
+383
+00:19:38,596 --> 00:19:40,784
+Aneesh, did you call anyone
+over there?
+
+384
+00:19:40,864 --> 00:19:42,748
+I have spoken to Anoop
+from Thiruvananthapuram wing.
+
+385
+00:19:42,828 --> 00:19:44,879
+What did Anoop say?
+- His number is still active.
+
+386
+00:19:44,959 --> 00:19:47,591
+At times it says, switched off,
+might be network issues.
+
+387
+00:19:47,881 --> 00:19:49,703
+Sir, he's in
+Thiruvananthapuram for sure.
+
+388
+00:20:04,703 --> 00:20:05,760
+We are from the Cyber Cell.
+
+389
+00:20:05,840 --> 00:20:07,194
+Baburaj Sir,
+
+390
+00:20:07,274 --> 00:20:09,415
+we have been trying to get you
+on call right from the morning.
+
+391
+00:20:09,495 --> 00:20:11,537
+It's either out of range
+or switched off.
+
+392
+00:20:12,495 --> 00:20:14,732
+There's enough range. It
+shows all the signal bars.
+
+393
+00:20:15,953 --> 00:20:17,015
+You got a password?
+
+394
+00:20:17,095 --> 00:20:18,164
+Tell me your password.
+
+395
+00:20:18,244 --> 00:20:20,123
+1,2...
+
+396
+00:20:20,203 --> 00:20:21,662
+3,4,5,6.
+
+397
+00:20:22,037 --> 00:20:22,915
+Listen,
+
+398
+00:20:22,995 --> 00:20:25,498
+you should collect all the available
+data base from the cabins here.
+
+399
+00:20:25,578 --> 00:20:27,496
+Why do you want to search my stuff?
+- He will tell you.
+
+400
+00:20:27,576 --> 00:20:29,253
+We are here to know
+two things in particular.
+
+401
+00:20:29,333 --> 00:20:30,325
+Oh, really?
+
+402
+00:20:30,405 --> 00:20:33,045
+Firstly, on 26, 27, 28th of May…
+
+403
+00:20:33,339 --> 00:20:36,009
+To be accurate, three days
+before Premam was released.
+
+404
+00:20:36,089 --> 00:20:39,509
+You have been talking to director
+Priyadarshan on the phone.
+
+405
+00:20:39,589 --> 00:20:40,926
+What were you guys discussing?
+
+406
+00:20:41,174 --> 00:20:43,339
+Secondly, on 29th May,
+
+407
+00:20:43,506 --> 00:20:45,029
+One and a half lakh of rupees,
+
+408
+00:20:45,109 --> 00:20:48,089
+have been credited to your bank
+account from Priyadarshan.
+
+409
+00:20:48,214 --> 00:20:49,180
+What's it for?
+
+410
+00:20:49,260 --> 00:20:51,134
+Wasn't I Priyan sir's assistant
+for long?
+
+411
+00:20:51,214 --> 00:20:53,381
+Awesome! Are you asking us?
+
+412
+00:20:54,131 --> 00:20:55,093
+Yes, I am.
+
+413
+00:20:55,283 --> 00:20:57,423
+I have been with him since the film,
+'Thenmaavinkombathu.'
+
+414
+00:20:58,423 --> 00:21:00,134
+So, sir...he's the guy
+we are looking for.
+
+415
+00:21:00,214 --> 00:21:02,218
+Is there any problem with
+Thenmaavinkombathu?
+
+416
+00:21:02,298 --> 00:21:05,051
+Chaps like you always do cheesy
+stuff to trouble top authorities.
+
+417
+00:21:05,131 --> 00:21:07,051
+What's this all about, sir?
+- It's just what you see.
+
+418
+00:21:07,131 --> 00:21:08,246
+Don't they have soft copies
+of the same?
+
+419
+00:21:08,326 --> 00:21:09,759
+Sorry! I don't...
+- Where's the bank statement?
+
+420
+00:21:09,839 --> 00:21:11,134
+Not this, back, back...
+
+421
+00:21:11,318 --> 00:21:12,673
+Just open the folder.
+
+422
+00:21:14,506 --> 00:21:16,634
+So, you have pretty good
+dealings with Priyadarsan.
+
+423
+00:21:16,714 --> 00:21:18,093
+Obviously, he taught me cinema.
+
+424
+00:21:18,173 --> 00:21:19,343
+We talk very often.
+
+425
+00:21:19,423 --> 00:21:22,464
+When he comes to Thiruvananthapuram,
+I meet him at hotel Pankaj.
+
+426
+00:21:22,548 --> 00:21:24,503
+What about the 1.5 lakhs
+credited to your account?
+
+427
+00:21:24,583 --> 00:21:26,551
+Sir, you know it, Priyan sir
+does a lot of Ads.
+
+428
+00:21:26,631 --> 00:21:28,884
+At times, he gives me Ads
+to help my both ends meet.
+
+429
+00:21:28,964 --> 00:21:30,801
+I got the one and a half lakh as
+an advance for an Ad.
+
+430
+00:21:30,881 --> 00:21:32,051
+I have proof.
+
+431
+00:21:32,131 --> 00:21:33,384
+Sir, please check them.
+
+432
+00:21:33,464 --> 00:21:35,259
+Geez! A lot of proofs, huh?
+Let me see.
+
+433
+00:21:35,339 --> 00:21:37,389
+This is not data
+but devotional songs,
+
+434
+00:21:37,469 --> 00:21:38,426
+of mother Goddess'.
+
+435
+00:21:38,506 --> 00:21:39,819
+Let me check it, sir.
+
+436
+00:21:39,899 --> 00:21:41,631
+Here's your phone.
+
+437
+00:21:43,673 --> 00:21:44,843
+Is it your own building?
+
+438
+00:21:44,923 --> 00:21:46,426
+Yes, I got it as dowry.
+
+439
+00:21:47,059 --> 00:21:49,093
+Dowry, huh?
+- Nope, no dowry.
+
+440
+00:21:49,173 --> 00:21:51,051
+I meant to say her share
+of her father's property.
+
+441
+00:21:51,131 --> 00:21:52,673
+This is not going to end
+anywhere here, okay?
+
+442
+00:21:53,135 --> 00:21:55,356
+Sir, we got it wrong.
+
+443
+00:21:58,673 --> 00:21:59,843
+How ridiculous!
+
+444
+00:21:59,923 --> 00:22:02,134
+From now on, I'm not doing
+this anymore.
+
+445
+00:22:02,214 --> 00:22:04,131
+Just to spoil the name
+of our department.
+
+446
+00:22:04,714 --> 00:22:07,714
+Thiruvananthapuram lobby,
+Cochin lobby... his mom's...
+
+447
+00:22:07,923 --> 00:22:09,051
+Leave it, Basheer.
+
+448
+00:22:09,131 --> 00:22:11,631
+Sir, we needn't blindly
+trust Baburaj.
+
+449
+00:22:11,881 --> 00:22:13,384
+Let's keep an eye on him
+for a couple of days.
+
+450
+00:22:13,464 --> 00:22:14,718
+Sure, we will get something.
+
+451
+00:22:14,798 --> 00:22:16,634
+Dear Aneesh, what's there
+to monitor him so much?
+
+452
+00:22:16,714 --> 00:22:18,343
+We have searched his office,
+say every nook and corner.
+
+453
+00:22:18,423 --> 00:22:20,051
+Also, cross checked
+every single file.
+
+454
+00:22:20,131 --> 00:22:22,134
+Can't you understand from
+his face that he's a coward?
+
+455
+00:22:22,214 --> 00:22:23,051
+I was just saying, sir.
+
+456
+00:22:23,131 --> 00:22:24,051
+Moreover...
+
+457
+00:22:24,131 --> 00:22:26,634
+Is Kerala Police a puppet
+in the hands of random guys?
+
+458
+00:22:26,714 --> 00:22:28,343
+Everything has a protocol.
+- Sir, this is...
+
+459
+00:22:28,423 --> 00:22:29,673
+You bloody...
+
+460
+00:22:30,798 --> 00:22:32,673
+You mustn't say anything
+that you don't know.
+
+461
+00:22:33,131 --> 00:22:36,714
+In Kerala, we (Police) spend our
+own money for such missions.
+
+462
+00:22:36,908 --> 00:22:40,006
+We haven't yet got reimbursement
+for the earlier missions, either.
+
+463
+00:22:40,089 --> 00:22:41,923
+In between all this, you're
+here with your antics.
+
+464
+00:22:42,089 --> 00:22:44,756
+Sir, we just said we were
+suspicious of him.
+
+465
+00:22:45,631 --> 00:22:46,509
+Sorry, sir.
+
+466
+00:22:46,589 --> 00:22:49,093
+Hey kiddo, don't try
+to justify yourself.
+
+467
+00:22:49,173 --> 00:22:50,884
+Come on, leave it.
+
+468
+00:22:50,964 --> 00:22:52,926
+This is quite common in
+a case investigation.
+
+469
+00:22:53,006 --> 00:22:54,259
+We will find other ways.
+
+470
+00:22:54,434 --> 00:22:56,506
+My dear, sir, please keep
+your mouth shut.
+
+471
+00:22:57,339 --> 00:22:58,631
+Crap!
+
+472
+00:23:00,653 --> 00:23:02,593
+Sir, we shall get down here.
+
+473
+00:23:02,673 --> 00:23:04,301
+Hey, come on, are you going
+because you felt bad?
+
+474
+00:23:04,381 --> 00:23:06,420
+No, not at all.
+- Then what?
+
+475
+00:23:06,500 --> 00:23:07,926
+You're going to Kochi, right?
+Get in.
+
+476
+00:23:08,006 --> 00:23:09,343
+Hey, get in, Dasan.
+
+477
+00:23:09,423 --> 00:23:11,173
+We have some other
+plans, that's why...
+
+478
+00:23:11,464 --> 00:23:14,259
+What plans? This is a lame
+excuse. Just get in, guys.
+
+479
+00:23:14,339 --> 00:23:16,714
+That's not it, sir. Let's go.
+We will call you.
+
+480
+00:23:17,339 --> 00:23:19,256
+Sorry sir.
+Bye.
+
+481
+00:23:19,506 --> 00:23:21,551
+How will you go?
+- We will go by bus.
+
+482
+00:23:21,631 --> 00:23:22,964
+Hey.
+- Yes.
+
+483
+00:23:23,839 --> 00:23:24,937
+Where's the balance money?
+
+484
+00:23:25,381 --> 00:23:27,589
+What balance?
+- Balance money of tea.
+
+485
+00:23:27,673 --> 00:23:29,714
+Oh, my goodness!!
+
+486
+00:23:30,673 --> 00:23:31,909
+I swear I forgot about it.
+
+487
+00:23:31,989 --> 00:23:33,173
+Okay.
+
+488
+00:23:37,214 --> 00:23:38,759
+What's wrong with you, Basheer?
+
+489
+00:23:38,839 --> 00:23:40,093
+They are kids, aren't they?
+
+490
+00:23:40,173 --> 00:23:41,559
+Chill, sir.
+
+491
+00:23:41,964 --> 00:23:43,964
+We should never over
+entertain such guys.
+
+492
+00:23:44,881 --> 00:23:46,759
+'The Cyber Cell is baffled,'
+
+493
+00:23:46,839 --> 00:23:50,426
+'as they haven't got any clue
+regarding the origin of censor copy,'
+
+494
+00:23:50,506 --> 00:23:53,131
+'from the raid conducted at
+offices of various film people.'
+
+495
+00:23:56,631 --> 00:23:58,506
+I am fed up, man.
+
+496
+00:23:58,777 --> 00:24:00,131
+I quit.
+
+497
+00:24:00,403 --> 00:24:02,339
+How long have we
+been after this?
+
+498
+00:24:02,548 --> 00:24:03,801
+Nothing's going to work out.
+
+499
+00:24:03,881 --> 00:24:05,384
+Just to have them
+swear at us.
+
+500
+00:24:05,464 --> 00:24:07,676
+Close it, and keep it
+somewhere far.
+
+501
+00:24:07,756 --> 00:24:10,249
+Engineer sir, do one thing.
+
+502
+00:24:10,329 --> 00:24:12,134
+Have a bath every morning,
+
+503
+00:24:12,214 --> 00:24:14,256
+wear your Blue Cart's uniform
+and start begging.
+
+504
+00:24:14,381 --> 00:24:15,509
+What else should we do?
+
+505
+00:24:15,589 --> 00:24:17,072
+Is anyone giving us
+a full time job?
+
+506
+00:24:17,152 --> 00:24:20,548
+But, is it possible to survive with
+part-time jobs?
+
+507
+00:24:21,464 --> 00:24:23,676
+How long since we have
+passed engineering?
+
+508
+00:24:23,756 --> 00:24:25,214
+Do we have a good job?
+
+509
+00:24:26,048 --> 00:24:27,926
+See this, it's her message.
+
+510
+00:24:28,006 --> 00:24:30,426
+She's asking me to go
+and speak to her dad.
+
+511
+00:24:30,506 --> 00:24:32,173
+What should I tell him?
+
+512
+00:24:32,550 --> 00:24:33,798
+Give it to me.
+
+513
+00:24:37,464 --> 00:24:39,214
+We should prove something.
+
+514
+00:24:39,756 --> 00:24:42,673
+Not to others, but for
+our sake, at least.
+
+515
+00:24:43,589 --> 00:24:45,089
+We must find him.
+
+516
+00:24:45,548 --> 00:24:47,964
+Don't try to make me
+feel worthless, okay?
+
+517
+00:24:48,631 --> 00:24:50,051
+What you need is Baburaj, right?
+
+518
+00:24:50,131 --> 00:24:51,548
+Wait and watch.
+
+519
+00:24:52,548 --> 00:24:54,381
+We should have looked for Baburaj
+on Facebook earlier itself.
+
+520
+00:24:54,589 --> 00:24:57,256
+Let me check how many people
+named Baburaj are there on this.
+
+521
+00:24:57,423 --> 00:24:59,339
+We will list it out and find him.
+
+522
+00:24:59,839 --> 00:25:01,464
+List out how many of them
+are related to cinema.
+
+523
+00:25:02,589 --> 00:25:04,714
+No one is going to hide anywhere.
+
+524
+00:25:05,423 --> 00:25:07,756
+Hey, just scroll back.
+
+525
+00:25:09,131 --> 00:25:10,631
+This one?
+- Yes.
+
+526
+00:25:13,714 --> 00:25:15,259
+Isn't it that dog?
+
+527
+00:25:15,339 --> 00:25:16,631
+Yes, it is.
+
+528
+00:25:17,006 --> 00:25:18,089
+Show me the photo.
+
+529
+00:25:18,881 --> 00:25:19,884
+See this.
+
+530
+00:25:19,964 --> 00:25:21,589
+Isn't it the same dog?
+
+531
+00:25:21,673 --> 00:25:24,214
+Yes, both the dogs look alike.
+
+532
+00:25:24,464 --> 00:25:27,089
+It was copied from this.
+
+533
+00:25:27,506 --> 00:25:30,048
+See which place he belongs to?
+- This is not a fake account.
+
+534
+00:25:30,214 --> 00:25:31,714
+This is an original account.
+
+535
+00:25:32,006 --> 00:25:35,506
+He's a KSRTC driver in Kazarkode.
+
+536
+00:25:35,674 --> 00:25:37,653
+Come on.
+
+537
+00:25:37,798 --> 00:25:39,884
+Buddy, you inform Joice sir, about it.
+
+538
+00:25:39,964 --> 00:25:41,923
+Shut your mouth, and
+come on fast.
+
+539
+00:25:43,735 --> 00:25:45,881
+Anyway, I won't be able
+to go home today.
+
+540
+00:25:47,214 --> 00:25:49,551
+Mom, I'm taking this Chit money
+for the time being. - Antony.
+
+541
+00:25:49,631 --> 00:25:50,968
+Hey, give it back.
+- I'll give it to you next week.
+
+542
+00:25:51,048 --> 00:25:53,011
+No, I must pay it urgently.
+- Mom, pay you next week.
+
+543
+00:25:53,091 --> 00:25:54,589
+What will I say when they
+come to collect the money?
+
+544
+00:25:54,839 --> 00:25:56,551
+He finds penny lying
+outside, and he takes it!
+
+545
+00:25:56,631 --> 00:25:58,006
+Enough! I'm keeping it back.
+
+546
+00:26:00,589 --> 00:26:02,551
+I have put five hundred back; I'll pay
+the balance next week.
+
+547
+00:26:02,631 --> 00:26:04,718
+Have food and go.
+- No, I'll eat later.
+
+548
+00:26:04,798 --> 00:26:06,134
+Eat and go, I say.
+
+549
+00:26:06,214 --> 00:26:07,676
+Where are you both going
+at midnight?
+
+550
+00:26:07,756 --> 00:26:10,426
+We have work. - If it is for
+cigarettes, I'll burn you alive.
+
+551
+00:26:10,506 --> 00:26:12,620
+Are you wearing my slippers?
+- I'm to blame for cooking them food.
+
+552
+00:26:12,798 --> 00:26:14,301
+Man, does your mom light
+cigarettes on a burner?
+
+553
+00:26:14,381 --> 00:26:16,301
+Eat and go, I say.
+- We will eat after coming back.
+
+554
+00:26:16,381 --> 00:26:17,464
+Get lost.
+
+555
+00:26:17,544 --> 00:26:18,426
+Come on, dude!
+
+556
+00:26:18,506 --> 00:26:20,132
+I'm asking you,
+where are you going?
+
+557
+00:26:20,212 --> 00:26:22,426
+Tell her, dear. - Dasan, tell me
+where are you going?
+
+558
+00:26:22,506 --> 00:26:24,381
+We're going nearby...
+just till Kazakode.
+
+559
+00:26:24,923 --> 00:26:26,631
+Kazarkode, huh?
+
+560
+00:26:29,214 --> 00:26:33,048
+KAZARKODE - 83 kms.
+
+561
+00:26:35,709 --> 00:26:38,593
+'The bus departing this morning
+from Kazarkode...'
+
+562
+00:26:38,673 --> 00:26:40,426
+Sister, is there anyone named
+Baburaj here?
+
+563
+00:26:40,506 --> 00:26:42,051
+Yes, he is a driver.
+
+564
+00:26:42,131 --> 00:26:44,339
+Driver...? Where is he right now?
+
+565
+00:26:44,756 --> 00:26:46,426
+He's gone to Neeleshwaram for duty.
+
+566
+00:26:46,506 --> 00:26:47,593
+He'll be back by 8.30.
+
+567
+00:26:47,673 --> 00:26:49,134
+Is he Baburaj Thomas?
+
+568
+00:26:49,214 --> 00:26:51,964
+Yes, the one with a long beard.
+- Yes, yes, thanks, sister.
+
+569
+00:26:58,381 --> 00:27:00,134
+He works here.
+
+570
+00:27:00,214 --> 00:27:02,093
+There's a Neeleshwaram bus,
+reaching here at 8.30.
+
+571
+00:27:02,173 --> 00:27:03,589
+He is the driver of the bus.
+
+572
+00:27:12,923 --> 00:27:14,094
+Please give me a bottle of water.
+
+573
+00:27:21,546 --> 00:27:27,503
+'The bus from Kazarkode to
+Mangalore will depart shortly.'
+
+574
+00:27:41,089 --> 00:27:42,718
+A bus to Uppalam
+has been parked in,
+
+575
+00:27:42,798 --> 00:27:44,426
+the southern side of
+the bus station.'
+
+576
+00:27:44,506 --> 00:27:46,009
+Sir, has the bus to
+Bandadka come?
+
+577
+00:27:46,089 --> 00:27:47,464
+8.15.
+- Okay.
+
+578
+00:27:58,287 --> 00:28:00,131
+Hey! Antony.
+
+579
+00:28:15,589 --> 00:28:17,089
+Hi, Satheesh.
+- Hi, Babu.
+
+580
+00:28:17,173 --> 00:28:19,301
+The tyres have worn out.
+Change it.
+
+581
+00:28:19,381 --> 00:28:20,968
+Buy booze in the evening.
+
+582
+00:28:21,048 --> 00:28:22,798
+You must buy it, idiot.
+- Evening...for sure.
+
+583
+00:28:33,214 --> 00:28:34,426
+Come on, quick.
+
+584
+00:28:34,646 --> 00:28:35,839
+Where is he?
+
+585
+00:28:41,964 --> 00:28:43,756
+You go to the other side.
+
+586
+00:28:53,323 --> 00:28:54,218
+Dasan.
+
+587
+00:28:55,464 --> 00:28:56,464
+Come here.
+
+588
+00:29:01,798 --> 00:29:02,964
+What is it?
+
+589
+00:29:03,464 --> 00:29:05,301
+Here, here, here...
+He is inside.
+
+590
+00:29:05,381 --> 00:29:06,506
+Inside this room?
+
+591
+00:29:24,589 --> 00:29:25,631
+Who are you?
+
+592
+00:29:25,714 --> 00:29:27,381
+Are you not Baburaj?
+
+593
+00:29:27,750 --> 00:29:28,798
+What do you want?
+
+594
+00:29:29,173 --> 00:29:31,381
+Brother, we have been searching for you.
+
+595
+00:29:31,589 --> 00:29:33,839
+We have got all the details
+of your Facebook account.
+
+596
+00:29:33,923 --> 00:29:35,468
+What nonsense are you saying?
+
+597
+00:29:35,548 --> 00:29:36,884
+Brother, just take a look at it.
+
+598
+00:29:36,964 --> 00:29:39,298
+Isn't it your Facebook profile?
+- Which one?
+
+599
+00:29:39,756 --> 00:29:41,801
+My dear friend, see this.
+
+600
+00:29:41,881 --> 00:29:43,634
+I know only this.
+
+601
+00:29:43,714 --> 00:29:45,509
+I don't even have Facebook with me.
+
+602
+00:29:45,589 --> 00:29:46,595
+Then, how will you collect details,
+
+603
+00:29:46,675 --> 00:29:47,968
+of my Facebook which
+doesn't even exist?
+
+604
+00:29:48,048 --> 00:29:50,134
+If so, who uploaded the
+print of Premam?
+
+605
+00:29:50,214 --> 00:29:52,051
+This will become a police
+case, tell us the truth.
+
+606
+00:29:52,131 --> 00:29:53,676
+Don't give me a headache, buddy.
+
+607
+00:29:53,756 --> 00:29:55,551
+Don't go, tell us the truth.
+- There's no need to argue.
+
+608
+00:29:55,631 --> 00:29:57,593
+Tomorrow, the police will come and
+you will have to answer them.
+
+609
+00:29:57,673 --> 00:29:59,214
+Police?
+- Yes, why not?
+
+610
+00:29:59,298 --> 00:30:00,843
+It's a piracy case.
+You will go behind bars.
+
+611
+00:30:00,923 --> 00:30:01,884
+Piracy, huh?
+
+612
+00:30:01,964 --> 00:30:03,676
+If you're this adamant,
+
+613
+00:30:03,756 --> 00:30:05,756
+the police will come, and this
+will go out of your hands.
+
+614
+00:30:05,923 --> 00:30:07,259
+You photo will come in the
+newspapers. - Get lost.
+
+615
+00:30:07,339 --> 00:30:09,009
+Yes, you will lose your
+job right away.
+
+616
+00:30:09,089 --> 00:30:10,968
+Just get lost, you... I'm not
+the type you think I am.
+
+617
+00:30:11,048 --> 00:30:13,506
+Brother, brother, brother...
+See this.
+
+618
+00:30:13,589 --> 00:30:15,134
+Is it not your dog?
+
+619
+00:30:15,214 --> 00:30:16,589
+This one?
+
+620
+00:30:17,631 --> 00:30:19,048
+He is our Tomy.
+
+621
+00:30:19,881 --> 00:30:21,714
+I have a sister in Varkala.
+
+622
+00:30:22,089 --> 00:30:23,551
+It is her dog.
+
+623
+00:30:23,631 --> 00:30:24,631
+Tomy.
+
+624
+00:30:26,756 --> 00:30:28,673
+Her name is Sisily.
+
+625
+00:30:28,756 --> 00:30:30,548
+She is a PWD clerk.
+
+626
+00:30:33,756 --> 00:30:35,343
+My brother-in-law was in the Gulf.
+
+627
+00:30:35,423 --> 00:30:36,384
+Now, he is here.
+
+628
+00:30:36,464 --> 00:30:37,464
+Pious.
+
+629
+00:30:41,714 --> 00:30:43,718
+We are not on good terms.
+
+630
+00:30:43,798 --> 00:30:46,089
+Property issues.
+
+631
+00:31:01,548 --> 00:31:03,093
+They have a son.
+
+632
+00:31:03,173 --> 00:31:05,382
+He's a brat studying
+in Varkala, VHSC.
+
+633
+00:31:05,462 --> 00:31:07,218
+Jerry.
+- What is it, sir?
+
+634
+00:31:07,604 --> 00:31:08,812
+What's the problem?
+
+635
+00:31:08,988 --> 00:31:11,108
+Is there anything wrong?
+- Why do you want to call him?
+
+636
+00:31:11,188 --> 00:31:13,763
+What's the matter, sir.
+- Hey, come here.
+
+637
+00:31:14,576 --> 00:31:16,124
+Come.
+- What is it, son?
+
+638
+00:31:16,643 --> 00:31:19,274
+Don't stare like an
+ostrich, come here, kid.
+
+639
+00:31:19,354 --> 00:31:20,645
+What is the issue, sir?
+
+640
+00:31:22,281 --> 00:31:23,319
+Come on.
+
+641
+00:31:25,100 --> 00:31:26,718
+Come on, kid.
+- You had us eat our brains out.
+
+642
+00:31:26,798 --> 00:31:27,851
+Sit here.
+
+643
+00:31:29,580 --> 00:31:30,635
+Sit here.
+
+644
+00:31:31,051 --> 00:31:32,841
+What's it, sir?
+What's the problem?
+
+645
+00:31:33,154 --> 00:31:34,324
+Is there anything wrong?
+
+646
+00:31:34,404 --> 00:31:36,654
+Of course, that's why we are
+here at this late hour.
+
+647
+00:31:36,948 --> 00:31:38,157
+Isn't it, kid?
+
+648
+00:31:38,237 --> 00:31:39,811
+Do you want to speak,
+or shall I go?
+
+649
+00:31:39,891 --> 00:31:43,779
+Well, don't you know your son has
+started a new business?
+
+650
+00:31:43,862 --> 00:31:45,446
+He is earning a lot,
+
+651
+00:31:45,529 --> 00:31:47,414
+by uploading new films
+on the internet.
+
+652
+00:31:47,494 --> 00:31:48,487
+Isn't it?
+
+653
+00:31:51,404 --> 00:31:52,946
+Where is your laptop, kiddo?
+
+654
+00:31:53,071 --> 00:31:54,282
+Sir, that must be there
+in his room.
+
+655
+00:31:54,362 --> 00:31:55,696
+I'll go take it.
+
+656
+00:32:06,612 --> 00:32:07,821
+What is the password?
+
+657
+00:32:11,779 --> 00:32:13,029
+What is the password?
+
+658
+00:32:16,779 --> 00:32:18,237
+It is 'motherf**ker1...
+
+659
+00:32:18,427 --> 00:32:19,423
+What is it?
+
+660
+00:32:20,800 --> 00:32:22,529
+'motherf**ker123'
+
+661
+00:32:23,904 --> 00:32:25,029
+Mother...
+
+662
+00:32:26,362 --> 00:32:29,737
+Did you create a Facebook
+account in your uncle's name?
+
+663
+00:32:30,154 --> 00:32:30,991
+Tell me.
+
+664
+00:32:31,071 --> 00:32:33,616
+Do you know about the illegal
+things your son is doing,
+
+665
+00:32:33,696 --> 00:32:36,029
+by creating a fake ID in the
+name of your brother?
+
+666
+00:32:36,696 --> 00:32:38,779
+Why is Jerry angry
+with your uncle?
+
+667
+00:32:41,321 --> 00:32:43,529
+My parents don't like him.
+
+668
+00:32:44,112 --> 00:32:46,529
+Mom has asked me not
+to speak with him.
+
+669
+00:32:47,154 --> 00:32:48,737
+Didn't you hear what
+your son just said?
+
+670
+00:32:51,817 --> 00:32:53,699
+Basheer, what's with it?
+
+671
+00:32:53,779 --> 00:32:56,154
+Sir, I can't find anything.
+
+672
+00:32:57,321 --> 00:32:58,532
+Where is the print?
+
+673
+00:32:58,889 --> 00:33:00,577
+It is there in the hidden files.
+
+674
+00:33:00,657 --> 00:33:03,321
+Sir, shall I...?
+
+675
+00:33:04,196 --> 00:33:06,154
+Let me do it.
+- Basheer, let him give it a try.
+
+676
+00:33:07,571 --> 00:33:09,071
+Then, you try, kiddo.
+
+677
+00:33:18,571 --> 00:33:20,529
+I have already searched all of them.
+
+678
+00:33:33,321 --> 00:33:35,112
+All are learning material, huh?
+
+679
+00:33:35,237 --> 00:33:37,612
+You love biology, don't you?
+
+680
+00:33:37,862 --> 00:33:39,404
+You are smart.
+
+681
+00:33:39,946 --> 00:33:42,487
+Sir, all the files are in here.
+
+682
+00:33:47,719 --> 00:33:49,665
+'Stop chatting! Just go!'
+
+683
+00:33:50,862 --> 00:33:52,446
+Wherefrom did you get the print?
+
+684
+00:33:53,571 --> 00:33:55,404
+Come on, open your
+mouth and tell us.
+
+685
+00:33:55,561 --> 00:33:56,694
+Don't hurt him, sir.
+
+686
+00:33:56,862 --> 00:33:57,987
+Tell me, son.
+
+687
+00:33:58,612 --> 00:33:59,781
+Keep it.
+- Sir,
+
+688
+00:33:59,861 --> 00:34:01,779
+See, we are taking him along.
+
+689
+00:34:02,571 --> 00:34:05,347
+Joy, come to Varkala station
+tomorrow, early morning.
+
+690
+00:34:05,596 --> 00:34:07,830
+We will get him to confess
+before that.
+
+691
+00:34:08,826 --> 00:34:10,337
+He would have done
+it by mistake.
+
+692
+00:34:10,417 --> 00:34:12,737
+Please don't take him now.
+He is a kid.
+
+693
+00:34:13,561 --> 00:34:15,782
+Tell us, what's the problem?
+- Don't take him now, please, sir.
+
+694
+00:34:15,862 --> 00:34:17,157
+Sir, I'll bring
+him tomorrow morning.
+
+695
+00:34:17,237 --> 00:34:19,438
+He is a kid; he must have...
+- Joy, move out of our way.
+
+696
+00:34:19,518 --> 00:34:20,991
+Move.
+- Sir, he is a school-going kid.
+
+697
+00:34:21,071 --> 00:34:22,657
+Please sir, please don't
+take him now.
+
+698
+00:34:22,737 --> 00:34:24,574
+Sir, I'll do as you say.
+
+699
+00:34:24,654 --> 00:34:25,741
+You come along with me.
+
+700
+00:34:26,080 --> 00:34:27,237
+Don't be scared.
+
+701
+00:34:28,017 --> 00:34:29,077
+Don't hurt him, sir.
+
+702
+00:34:29,157 --> 00:34:32,321
+If you co-operate with us,
+you will have no problem at all.
+
+703
+00:34:32,862 --> 00:34:35,029
+Why are you complicating
+things?
+
+704
+00:34:36,446 --> 00:34:37,824
+Aren't you a kid?
+
+705
+00:34:37,904 --> 00:34:40,779
+Do you know what will happen
+if you go to jail at your age?
+
+706
+00:34:40,904 --> 00:34:42,487
+Your life will be spoiled.
+
+707
+00:34:43,237 --> 00:34:45,112
+Do you know why we came
+at night?
+
+708
+00:34:45,404 --> 00:34:48,862
+To solve the issue without the
+media and the public knowing.
+
+709
+00:34:49,612 --> 00:34:52,587
+If you are this adamant,
+how is it possible?
+
+710
+00:34:53,362 --> 00:34:55,157
+That will not work.
+Tell me the truth.
+
+711
+00:34:55,237 --> 00:34:57,571
+We will take care of you.
+
+712
+00:34:57,696 --> 00:34:58,974
+You will have no problem at all.
+
+713
+00:34:59,054 --> 00:35:01,112
+You just tell us who
+gave it to you.
+
+714
+00:35:02,654 --> 00:35:04,324
+Son, tell me.
+Don't get tense.
+
+715
+00:35:04,404 --> 00:35:05,612
+Tell me the truth.
+
+716
+00:35:05,821 --> 00:35:07,154
+Who gave it to you?
+
+717
+00:35:07,821 --> 00:35:09,112
+Anjali gave it to me.
+
+718
+00:35:10,737 --> 00:35:11,904
+Which Anjali?
+
+719
+00:35:14,071 --> 00:35:15,571
+She is my classmate.
+
+720
+00:35:16,071 --> 00:35:17,366
+I got it from her.
+
+721
+00:35:17,650 --> 00:35:19,279
+But how? Tell me.
+
+722
+00:35:19,446 --> 00:35:20,865
+We have been in love since 8th grade.
+
+723
+00:35:20,945 --> 00:35:22,366
+Eh? Since what grade?
+
+724
+00:35:22,446 --> 00:35:24,237
+Sir, eighth grade.
+
+725
+00:35:27,071 --> 00:35:30,904
+She had a few photos of
+our tenth class reunion.
+
+726
+00:35:31,321 --> 00:35:33,321
+I took the pen drive from her
+to copy those pictures.
+
+727
+00:35:33,696 --> 00:35:36,741
+I found the print of Premam
+inside a folder.
+
+728
+00:35:36,821 --> 00:35:38,654
+How did the print get
+into the pen drive?
+
+729
+00:35:39,987 --> 00:35:41,449
+I asked her once that,
+
+730
+00:35:41,529 --> 00:35:43,987
+how did she get the print of
+an unreleased movie?
+
+731
+00:35:44,529 --> 00:35:46,366
+She said she would tell me later,
+
+732
+00:35:46,446 --> 00:35:47,946
+and asked me not to tell anyone.
+
+733
+00:35:50,612 --> 00:35:52,237
+Sir, she is a nice girl.
+
+734
+00:36:19,987 --> 00:36:21,820
+Do you have the print of
+Premam with you?
+
+735
+00:36:25,237 --> 00:36:27,116
+I know you have it
+in the pen drive.
+
+736
+00:36:27,196 --> 00:36:29,071
+I'm here at the back seat.
+
+737
+00:36:36,112 --> 00:36:38,946
+We are police.
+Vishnu is under our custody.
+
+738
+00:36:47,404 --> 00:36:50,362
+We know that you leaked
+the print of Premam.
+
+739
+00:37:17,298 --> 00:37:18,923
+Anjali C.
+
+740
+00:37:20,256 --> 00:37:23,383
+How did the video get into the pen
+drive that you gave to Jerry?
+
+741
+00:37:24,106 --> 00:37:25,544
+I don't know anything, sir.
+
+742
+00:37:25,624 --> 00:37:29,090
+We have not yet informed
+either your parents or the school.
+
+743
+00:37:29,360 --> 00:37:30,649
+We didn't even bring
+a lady cop just because,
+
+744
+00:37:30,729 --> 00:37:32,134
+we didn't want to
+make trouble for you.
+
+745
+00:37:32,214 --> 00:37:33,127
+I don't know anything.
+- Tell me, girl,
+
+746
+00:37:33,207 --> 00:37:34,021
+wherefrom did you get it?
+
+747
+00:37:34,101 --> 00:37:35,716
+If not, this vehicle
+will go straight,
+
+748
+00:37:35,796 --> 00:37:37,304
+to Kallambalam police station.
+
+749
+00:37:37,384 --> 00:37:39,086
+This is not the way the
+police would question there.
+
+750
+00:37:39,166 --> 00:37:40,801
+Sir, please don't say like that.
+
+751
+00:37:40,881 --> 00:37:42,381
+She might have done
+it unwittingly.
+
+752
+00:37:42,464 --> 00:37:43,756
+She's a good girl.
+
+753
+00:37:44,025 --> 00:37:45,634
+Please don't cry, Anjali.
+
+754
+00:37:45,788 --> 00:37:47,435
+Stop crying, first.
+
+755
+00:37:47,698 --> 00:37:48,964
+Anjali, speak out.
+
+756
+00:37:50,048 --> 00:37:51,548
+My lover gave it to me.
+
+757
+00:37:52,430 --> 00:37:53,509
+No, I'm not the one
+who gave it to her.
+
+758
+00:37:53,589 --> 00:37:55,135
+She gave it to me.
+
+759
+00:37:56,779 --> 00:37:57,756
+Tell us, kiddie.
+
+760
+00:37:58,682 --> 00:38:00,964
+Is he the one who gave it to you?
+- Not him.
+
+761
+00:38:01,344 --> 00:38:03,093
+Then?
+- Akhilesh.
+
+762
+00:38:03,403 --> 00:38:04,301
+What?
+
+763
+00:38:04,638 --> 00:38:05,881
+Akhilesh?
+
+764
+00:38:07,748 --> 00:38:09,131
+Who is Akhilesh?
+
+765
+00:38:09,558 --> 00:38:11,955
+He is a system operator
+at the censor board.
+
+766
+00:38:14,584 --> 00:38:16,339
+Where is your Akhilesh right now?
+
+767
+00:38:18,901 --> 00:38:21,173
+He said he lives somewhere
+near Poonthura colony.
+
+768
+00:38:23,959 --> 00:38:25,673
+I don't know anything else, sir.
+
+769
+00:38:35,396 --> 00:38:37,343
+'This is a case, and it has
+its seriousness.'
+
+770
+00:38:37,423 --> 00:38:39,801
+'Police is no Childs play.
+It needs a lot of effort.'
+
+771
+00:38:39,881 --> 00:38:41,468
+'It's about taking up
+a lot of tension.'
+
+772
+00:38:41,548 --> 00:38:44,023
+'Why would I send a low quality
+censor copy to someone,'
+
+773
+00:38:44,103 --> 00:38:45,656
+'from my system?'
+
+774
+00:38:45,736 --> 00:38:46,756
+'Am I crazy?'
+
+775
+00:38:50,423 --> 00:38:51,839
+Sir, this is the house.
+
+776
+00:38:55,681 --> 00:38:56,631
+Joy.
+
+777
+00:39:10,263 --> 00:39:11,972
+Are you not Akhilesh?
+- Yes.
+
+778
+00:39:12,052 --> 00:39:13,630
+I'm Akhilesh.
+- Who are you?
+
+779
+00:39:16,086 --> 00:39:17,506
+Us?
+- Yes, who are you?
+
+780
+00:39:18,018 --> 00:39:19,506
+Your mom's husband.
+
+781
+00:39:20,846 --> 00:39:24,009
+It's a new film, so I just thought,
+let her watch.
+
+782
+00:39:24,089 --> 00:39:25,259
+Just walk.
+
+783
+00:39:25,339 --> 00:39:27,048
+I'll lose my image, sir.
+
+784
+00:39:27,173 --> 00:39:28,509
+Everyone around is looking at me.
+
+785
+00:39:28,589 --> 00:39:30,736
+Now, everyone's going to know...
+- What boorish hair?
+
+786
+00:39:32,214 --> 00:39:33,384
+Well...
+
+787
+00:39:33,552 --> 00:39:35,172
+When you save blue movies,
+
+788
+00:39:35,421 --> 00:39:38,089
+it's enough to create a folder inside
+program files in C drive, right?
+
+789
+00:39:38,169 --> 00:39:39,098
+Yes.
+
+790
+00:39:39,178 --> 00:39:40,339
+Nobody will find out?
+
+791
+00:39:44,415 --> 00:39:45,964
+He loves porn.
+
+792
+00:39:46,748 --> 00:39:48,293
+We got him after taking
+a lot of twists and turns.
+
+793
+00:39:48,373 --> 00:39:49,293
+Yes, we got him.
+
+794
+00:39:49,373 --> 00:39:50,915
+'We got Baburaj through the dog.'
+
+795
+00:39:51,040 --> 00:39:52,498
+'Jerry through Baburaj.'
+
+796
+00:39:53,248 --> 00:39:54,707
+'Anjali via. Jerry.'
+
+797
+00:39:55,415 --> 00:39:57,623
+'And through Anjali, her
+lover Akhilesh.'
+
+798
+00:39:58,248 --> 00:39:59,623
+'Now, we can tell everyone,'
+
+799
+00:40:00,040 --> 00:40:02,377
+'that we also have a role
+in solving a case,'
+
+800
+00:40:02,457 --> 00:40:04,123
+'that drove Kerala mad.'
+
+801
+00:40:04,540 --> 00:40:06,748
+'To be frank,
+this is a hope for us.'
+
+802
+00:40:07,207 --> 00:40:09,707
+'The hope that we can achieve
+many more things in life.'
+
+803
+00:40:10,290 --> 00:40:12,707
+He admitted to have committed
+the crime.
+
+804
+00:40:12,873 --> 00:40:15,335
+We will manage the rest
+of the things officially.
+
+805
+00:40:15,415 --> 00:40:16,627
+That is the protocol.
+
+806
+00:40:16,707 --> 00:40:17,707
+Move.
+
+807
+00:40:23,832 --> 00:40:25,752
+Sir, why didn't you take them?
+Aren't they one among us?
+
+808
+00:40:25,832 --> 00:40:28,873
+'We always have this fate.'
+
+809
+00:40:29,790 --> 00:40:31,293
+'We joined for engineering at Selam,'
+
+810
+00:40:31,373 --> 00:40:34,623
+'as we took pride in getting
+good grades in plus two.'
+
+811
+00:40:34,979 --> 00:40:36,748
+'Since then, we have been trying
+ways to come up in life.'
+
+812
+00:40:37,532 --> 00:40:39,643
+'We managed to pass
+around 46 papers,'
+
+813
+00:40:39,723 --> 00:40:41,748
+'with the help of bits and
+writing gas.'
+
+814
+00:40:42,168 --> 00:40:44,623
+'But life isn't like that.'
+
+815
+00:40:45,707 --> 00:40:47,363
+'My name's Antony George.'
+
+816
+00:40:47,443 --> 00:40:48,809
+My name is Vinay Dasan.
+
+817
+00:40:48,889 --> 00:40:50,373
+I'm twenty-five years old.
+
+818
+00:40:51,258 --> 00:40:52,457
+I had...
+
+819
+00:40:52,540 --> 00:40:54,585
+I have... Mother.
+
+820
+00:40:54,665 --> 00:40:57,415
+My father's name is George.
+And he is no more.
+
+821
+00:40:58,199 --> 00:41:00,623
+My positives are my friendly nature,
+
+822
+00:41:00,748 --> 00:41:02,373
+that brings a smile on the face.
+
+823
+00:41:02,647 --> 00:41:04,540
+My negative is working too hard.
+
+824
+00:41:05,048 --> 00:41:07,252
+I think we lost it due to
+lack of fluency in English.
+
+825
+00:41:07,332 --> 00:41:09,623
+It would never come
+out when needed.
+
+826
+00:41:09,832 --> 00:41:10,832
+Give it.
+
+827
+00:41:11,850 --> 00:41:13,623
+We should have studied CBSE.
+
+828
+00:41:14,165 --> 00:41:18,085
+Man, what do you say about going
+for bank coaching in Kollam?
+
+829
+00:41:18,165 --> 00:41:19,252
+Is it costly?
+
+830
+00:41:19,332 --> 00:41:22,290
+Did you study engineering
+to work in a bank?
+
+831
+00:41:22,582 --> 00:41:24,290
+I am fed up of this engineering
+and stuff.
+
+832
+00:41:24,498 --> 00:41:26,572
+'Our neighbours and relatives,'
+
+833
+00:41:26,652 --> 00:41:28,786
+'belong to a special
+category of psychos,'
+
+834
+00:41:28,942 --> 00:41:31,207
+'who find fault in
+everything they see.'
+
+835
+00:41:31,582 --> 00:41:33,752
+'As we are not in a position to
+pay back our loan money,'
+
+836
+00:41:33,832 --> 00:41:36,415
+'we are forced, not to pick
+some phone calls in life.'
+
+837
+00:41:36,498 --> 00:41:38,002
+'I don't care about what everyone
+says about me.'
+
+838
+00:41:38,082 --> 00:41:39,543
+'But I'm answerable
+to only one person.'
+
+839
+00:41:39,623 --> 00:41:41,127
+Listen to me.
+- What?
+
+840
+00:41:41,207 --> 00:41:42,335
+Who are you showing
+Your stubbornness to?
+
+841
+00:41:42,415 --> 00:41:43,832
+I'll call you back.
+
+842
+00:41:44,748 --> 00:41:46,247
+Hello...
+- Listen, girl.
+
+843
+00:41:46,327 --> 00:41:49,085
+To have good things in life,
+you will have to ignore some...
+
+844
+00:41:49,165 --> 00:41:50,335
+That's the fate of every
+single girl.
+
+845
+00:41:50,415 --> 00:41:52,415
+'She has been with me since
+my higher secondary.'
+
+846
+00:41:52,881 --> 00:41:55,998
+'Though she always fights with me,
+she loves me a lot.'
+
+847
+00:41:56,082 --> 00:41:57,939
+'I need to find a job,'
+
+848
+00:41:58,019 --> 00:42:01,123
+'before meeting her dad to
+ask her hand in marriage.'
+
+849
+00:42:01,203 --> 00:42:03,207
+'Whenever my attempts for
+a job fail, I think,'
+
+850
+00:42:03,415 --> 00:42:05,373
+'God will have better plans for me.'
+
+851
+00:42:05,627 --> 00:42:06,748
+'No chance.'
+
+852
+00:42:06,832 --> 00:42:09,332
+'Great philosophy, low life.'
+
+853
+00:42:13,623 --> 00:42:15,165
+Just pick the call, hello.
+
+854
+00:42:15,582 --> 00:42:16,748
+Hey, sir is here.
+
+855
+00:42:17,123 --> 00:42:18,540
+Hang up, hang up.
+
+856
+00:42:21,409 --> 00:42:22,620
+Want a smoke?
+
+857
+00:42:23,156 --> 00:42:25,123
+No, sir... We don't smoke.
+
+858
+00:42:25,540 --> 00:42:26,623
+That's good.
+
+859
+00:42:29,248 --> 00:42:31,207
+The final credit goes to the Cyber Cell.
+
+860
+00:42:31,540 --> 00:42:34,540
+But... The actual
+credit goes to you.
+
+861
+00:42:35,915 --> 00:42:37,239
+We don't need any credit, sir.
+
+862
+00:42:37,319 --> 00:42:39,707
+We did it for some money.
+
+863
+00:42:50,358 --> 00:42:52,082
+Aren't you happy?
+- Yes, thank you, sir.
+
+864
+00:42:52,676 --> 00:42:53,498
+Sir,
+
+865
+00:42:54,332 --> 00:42:56,457
+Please don't mistake
+us for asking this.
+
+866
+00:42:57,040 --> 00:42:59,710
+Do you want money?
+- No, we don't want any money.
+
+867
+00:42:59,790 --> 00:43:00,748
+Then what?
+
+868
+00:43:01,566 --> 00:43:05,040
+Do you have any job
+openings there?
+
+869
+00:43:05,123 --> 00:43:06,252
+Where?
+
+870
+00:43:06,457 --> 00:43:07,623
+In the Cyber Cell.
+
+871
+00:43:09,082 --> 00:43:10,502
+That's difficult, dear.
+
+872
+00:43:10,582 --> 00:43:13,002
+You need to pass the PSC test,
+and undergo police training...
+
+873
+00:43:13,082 --> 00:43:17,123
+Also, the Cyber Cell recruits
+candidates with computer knowledge.
+
+874
+00:43:17,248 --> 00:43:18,502
+You try for PSC.
+
+875
+00:43:18,691 --> 00:43:21,373
+No! PSC and all won't work out.
+
+876
+00:43:21,873 --> 00:43:23,540
+Just give it a try.
+- Be positive.
+
+877
+00:43:23,790 --> 00:43:25,168
+We are writing the tests.
+
+878
+00:43:25,415 --> 00:43:26,665
+Sir, just a minute.
+
+879
+00:43:29,123 --> 00:43:30,498
+To be frank,
+
+880
+00:43:30,998 --> 00:43:34,290
+after plus two, we joined B-tech like
+jumping onto the bandwagon.
+
+881
+00:43:35,054 --> 00:43:36,627
+We are not getting a job.
+
+882
+00:43:36,838 --> 00:43:37,710
+So, life is being creepy.
+
+883
+00:43:37,790 --> 00:43:39,002
+Who all are there
+at your house?
+
+884
+00:43:39,082 --> 00:43:41,623
+At home, I have my dad, mom...
+
+885
+00:43:41,957 --> 00:43:43,210
+A sister...
+
+886
+00:43:43,290 --> 00:43:45,869
+No, I had a sister; she
+expired four years ago.
+
+887
+00:43:45,949 --> 00:43:48,252
+'Why are you finding it
+difficult to face me?'
+
+888
+00:43:48,332 --> 00:43:49,457
+'I want to know.'
+
+889
+00:43:49,540 --> 00:43:51,085
+Dear, I'll come and meet you.
+
+890
+00:43:51,165 --> 00:43:52,502
+We will discuss it then.
+
+891
+00:43:52,582 --> 00:43:54,710
+'I adjusted my shift only because
+you said you would meet me today.'
+
+892
+00:43:54,790 --> 00:43:56,835
+Dear, I told, I would come.
+
+893
+00:43:56,915 --> 00:43:58,668
+Please wait for me, please.
+- 'I'm still waiting.'
+
+894
+00:43:58,748 --> 00:43:59,960
+'But for how long?'
+
+895
+00:44:00,040 --> 00:44:02,582
+Please don't repeat the same thing.
+Didn't I tell you I would come?
+
+896
+00:44:04,832 --> 00:44:06,540
+Sir, shall we leave?
+
+897
+00:44:06,832 --> 00:44:08,832
+You are leaving?
+- Okay, All the best.
+
+898
+00:44:08,912 --> 00:44:11,498
+Call sometimes, or else we
+might forget. Isn't it, Joy?
+
+899
+00:44:11,933 --> 00:44:13,040
+Bye.
+- See you, sir.
+
+900
+00:44:14,248 --> 00:44:15,248
+Okay.
+
+901
+00:44:15,957 --> 00:44:17,332
+What is it?
+- Come.
+
+902
+00:44:17,457 --> 00:44:19,290
+What is the matter?
+- Nothing.
+
+903
+00:44:19,671 --> 00:44:21,457
+They are good, aren't they?
+- They rock.
+
+904
+00:44:21,748 --> 00:44:22,832
+They will sail through.
+
+905
+00:45:02,332 --> 00:45:04,707
+What makes a jobless
+chap like you so busy?
+
+906
+00:45:05,611 --> 00:45:07,710
+At least my tensions...
+My problems...
+
+907
+00:45:07,869 --> 00:45:09,582
+Can't you understand all those?
+
+908
+00:45:10,265 --> 00:45:12,248
+Okay, tell me, what's your worry?
+
+909
+00:45:12,332 --> 00:45:14,040
+You! You are my tension.
+
+910
+00:45:19,290 --> 00:45:20,289
+Didn't I tell you earlier?
+
+911
+00:45:20,369 --> 00:45:21,873
+I got a job.
+
+912
+00:45:22,387 --> 00:45:23,832
+The offer letter has come.
+
+913
+00:45:24,302 --> 00:45:28,337
+Supernova, it's a government
+hospital in Ireland.
+
+914
+00:45:29,248 --> 00:45:31,040
+The salary is two lakhs per month.
+
+915
+00:45:31,442 --> 00:45:33,415
+I would like to go.
+
+916
+00:45:34,290 --> 00:45:35,790
+What is your opinion?
+
+917
+00:45:36,402 --> 00:45:37,885
+What are you supposed to do if
+you have received the offer letter?
+
+918
+00:45:37,965 --> 00:45:39,582
+You must go.
+- So?
+
+919
+00:45:40,790 --> 00:45:43,592
+You go and settle down there…
+
+920
+00:45:43,873 --> 00:45:45,623
+And then take me along.
+
+921
+00:45:45,998 --> 00:45:47,025
+Wonderful!
+
+922
+00:45:47,105 --> 00:45:51,332
+Antony, you either find a job,
+and talk to my mom or...
+
+923
+00:45:52,830 --> 00:45:56,210
+I don't want to introduce you as a
+husband who is dependent on me.
+
+924
+00:45:56,290 --> 00:45:57,293
+Be practical.
+
+925
+00:45:57,373 --> 00:45:59,082
+You can go on advising me
+to be practical.
+
+926
+00:45:59,162 --> 00:46:00,337
+But I'm not getting a job.
+
+927
+00:46:00,417 --> 00:46:03,040
+But, you aren't even trying for it.
+- Who told you that I'm not trying?
+
+928
+00:46:03,555 --> 00:46:05,418
+Antony, don't try to blindly
+justify yourself.
+
+929
+00:46:05,498 --> 00:46:06,668
+I'm not justifying or anything.
+
+930
+00:46:06,748 --> 00:46:09,165
+Who else should I talk to
+about my grief?
+
+931
+00:46:30,457 --> 00:46:31,832
+I'm fed up.
+
+932
+00:46:33,373 --> 00:46:34,623
+I'm really fed up.
+
+933
+00:46:38,668 --> 00:46:40,460
+Can't you be a bit more sincere?
+
+934
+00:46:40,540 --> 00:46:42,040
+At least towards yourself?
+
+935
+00:46:46,457 --> 00:46:49,998
+Are you even half sincere to me
+as you are to your friends?
+
+936
+00:46:50,832 --> 00:46:52,623
+Am I not tolerating you since
+the twelfth grade?
+
+937
+00:46:52,707 --> 00:46:54,040
+You do want to break
+up with me?
+
+938
+00:46:54,707 --> 00:46:55,832
+Go for it.
+
+939
+00:46:56,373 --> 00:46:58,290
+No need to create a dramatic scene.
+
+940
+00:46:58,947 --> 00:47:01,043
+When you heard about the
+two lakhs salary from Ireland,
+
+941
+00:47:01,123 --> 00:47:02,832
+I became an utter waste for you.
+
+942
+00:47:04,228 --> 00:47:06,748
+You may go to Ireland, and enjoy.
+
+943
+00:48:23,623 --> 00:48:24,623
+Dude.
+
+944
+00:48:25,165 --> 00:48:26,832
+Are you still thinking about it?
+
+945
+00:48:27,726 --> 00:48:28,763
+Leave it, dear.
+
+946
+00:48:28,902 --> 00:48:31,123
+It's good she broke up now.
+
+947
+00:48:31,559 --> 00:48:33,468
+Whatever is over is gone!
+Crap.
+
+948
+00:48:35,498 --> 00:48:36,918
+She's gone to Ireland, right?
+
+949
+00:48:36,998 --> 00:48:38,957
+Ireland is not a place that
+we don't know.
+
+950
+00:48:39,207 --> 00:48:41,040
+Do you want to go
+to Ireland now?
+
+951
+00:48:52,248 --> 00:48:53,415
+Ramanathan,
+
+952
+00:48:53,915 --> 00:48:56,123
+the report has come from
+Thiruvananthapuram.
+
+953
+00:48:57,082 --> 00:48:58,665
+According to their report,
+
+954
+00:48:59,387 --> 00:49:02,290
+when they processed the
+video for the details,
+
+955
+00:49:02,673 --> 00:49:04,165
+they confirmed that,
+
+956
+00:49:04,540 --> 00:49:06,582
+it is Janaki herself in the video.
+
+957
+00:49:08,070 --> 00:49:09,433
+How could it be her?
+
+958
+00:49:09,513 --> 00:49:12,582
+Are you saying the ones who
+prepared the report are idiots?
+
+959
+00:49:16,165 --> 00:49:17,415
+It's not her, sir.
+
+960
+00:49:18,498 --> 00:49:19,498
+Hey…
+
+961
+00:49:19,578 --> 00:49:21,242
+You might say that it's not her.
+
+962
+00:49:21,322 --> 00:49:22,668
+But this is the proof.
+
+963
+00:49:22,748 --> 00:49:23,748
+Do you get it?
+
+964
+00:49:24,290 --> 00:49:26,377
+When you were high on drugs and
+alcohol, she must have enjoyed too.
+
+965
+00:49:26,457 --> 00:49:28,168
+What will you do if such an ill-fate
+comes upon your mom or sister?
+
+966
+00:49:28,248 --> 00:49:29,183
+What did you just say?
+
+967
+00:49:29,263 --> 00:49:30,835
+You moron, are you messing
+with us at our fiefdom?
+
+968
+00:49:30,915 --> 00:49:32,474
+Sir, do you know how much
+did we suffer due to this?
+
+969
+00:49:32,554 --> 00:49:34,002
+Leave me, sir.
+I'll take his piss out.
+
+970
+00:49:34,082 --> 00:49:37,040
+I was a drunkard during
+the time she decided to live with me.
+
+971
+00:49:38,082 --> 00:49:39,957
+I know everything about her.
+
+972
+00:49:40,582 --> 00:49:42,029
+Can't he show some courtesy?
+
+973
+00:49:42,109 --> 00:49:43,028
+Who are you to teach us (cops),
+courtesy?
+
+974
+00:49:43,108 --> 00:49:44,290
+Please be seated, Ramanathan.
+
+975
+00:49:45,040 --> 00:49:46,329
+Sit, Ramana...
+
+976
+00:49:46,409 --> 00:49:47,867
+Get lost, you…
+- Hey, Bash...
+
+977
+00:49:48,349 --> 00:49:50,582
+Sorry, Ramanathan.
+Let's talk it out.
+
+978
+00:49:53,748 --> 00:49:56,082
+It's been 7-8 months since
+the whole ordeal began.
+
+979
+00:49:56,278 --> 00:49:58,043
+That is a video made by
+deceiving a naive girl,
+
+980
+00:49:58,123 --> 00:49:59,748
+at some other place.
+
+981
+00:50:00,415 --> 00:50:02,873
+It's my friend who
+spread the news,
+
+982
+00:50:03,248 --> 00:50:05,373
+that Ramanathan's wife
+is on a blue movie.
+
+983
+00:50:05,748 --> 00:50:07,460
+I told everyone a hundred
+times that it's not her.
+
+984
+00:50:07,540 --> 00:50:08,877
+No one believed.
+
+985
+00:50:09,062 --> 00:50:10,998
+Everyone is more interested
+in believing, it's my wife.
+
+986
+00:50:11,832 --> 00:50:13,373
+Our helplessness,
+
+987
+00:50:13,790 --> 00:50:15,582
+is what the world is celebrating
+as 'Viral'... isn't it, sir?
+
+988
+00:50:15,707 --> 00:50:17,877
+You will be disgusted to hear the
+comments passed by everyone,
+
+989
+00:50:17,957 --> 00:50:20,498
+including my daughter's male
+teachers and schoolmates.
+
+990
+00:50:21,165 --> 00:50:23,207
+My child stopped going to school.
+
+991
+00:50:23,748 --> 00:50:25,290
+She is staying at my sister's house.
+
+992
+00:50:25,499 --> 00:50:27,290
+She's scared to come
+home, it seems,
+
+993
+00:50:27,373 --> 00:50:29,915
+scared to live with her
+own mother, hatred...
+
+994
+00:50:31,540 --> 00:50:34,165
+I know for sure that
+it's not my wife.
+
+995
+00:50:34,415 --> 00:50:36,332
+It's for my daughter,
+I'm here.
+
+996
+00:50:36,873 --> 00:50:38,707
+What should I do now?
+Tell me, sir.
+
+997
+00:50:39,040 --> 00:50:41,040
+Do you want me to go
+to Delhi or Bombay?
+
+998
+00:50:41,705 --> 00:50:42,835
+We also want to live here.
+
+999
+00:50:42,915 --> 00:50:44,248
+My daughter wants to live here.
+
+1000
+00:50:47,800 --> 00:50:49,290
+We also want to live here.
+
+1001
+00:52:08,457 --> 00:52:11,915
+When I see her face,
+my entire day cripples.
+
+1002
+00:52:12,332 --> 00:52:13,873
+That's not her in the video.
+
+1003
+00:52:14,248 --> 00:52:16,998
+What are these people
+preparing the reports doing there?
+
+1004
+00:52:17,582 --> 00:52:18,582
+Sir.
+
+1005
+00:52:20,707 --> 00:52:21,793
+Hi, what's up?
+- We are good.
+
+1006
+00:52:21,873 --> 00:52:23,418
+No calls, nothing... since then.
+
+1007
+00:52:23,498 --> 00:52:24,793
+We were a bit busy.
+
+1008
+00:52:24,873 --> 00:52:26,873
+The reason why we asked
+you here is...
+
+1009
+00:52:28,079 --> 00:52:30,457
+Last week, we had
+a meeting with IG
+
+1010
+00:52:30,985 --> 00:52:31,998
+Joy...
+
+1011
+00:52:32,279 --> 00:52:35,082
+As a part of upgrading
+the Cyber Cell,
+
+1012
+00:52:35,373 --> 00:52:38,418
+they are planning to hire
+technically qualified people,
+
+1013
+00:52:38,498 --> 00:52:40,123
+as interns in Cyber Cell.
+
+1014
+00:52:40,540 --> 00:52:42,720
+It's been two weeks since we
+received the government order.
+
+1015
+00:52:42,800 --> 00:52:45,582
+Who and how to hire people
+is purely my discretion.
+
+1016
+00:52:45,832 --> 00:52:48,207
+If you like, you can join us.
+
+1017
+00:52:49,707 --> 00:52:51,210
+You can assist us in
+our investigation.
+
+1018
+00:52:52,165 --> 00:52:55,415
+But you will not get all the
+benefits the police receive.
+
+1019
+00:52:55,873 --> 00:52:57,957
+It's like a temporary posting.
+
+1020
+00:52:58,082 --> 00:52:59,367
+But not entirely...
+
+1021
+00:52:59,447 --> 00:53:01,498
+You will get a salary of around ten
+thousand.
+
+1022
+00:53:01,998 --> 00:53:05,540
+But you won't become permanent
+by time as other jobs.
+
+1023
+00:53:06,044 --> 00:53:07,168
+That's okay.
+
+1024
+00:53:07,248 --> 00:53:08,707
+So, aren't you joining?
+
+1025
+00:53:09,299 --> 00:53:10,582
+Yes, sir.
+
+1026
+00:53:11,774 --> 00:53:12,707
+Okay, sir.
+
+1027
+00:53:13,262 --> 00:53:15,029
+Okay, Sir.
+- Come on.
+
+1028
+00:53:35,353 --> 00:53:37,520
+Why think so much?
+Just shave it.
+
+1029
+00:53:38,270 --> 00:53:39,459
+Shave it, I say.
+
+1030
+00:53:40,603 --> 00:53:41,735
+Shave underneath
+your moustache.
+
+1031
+00:53:41,915 --> 00:53:43,273
+And when you roll up
+your moustache...
+
+1032
+00:53:43,353 --> 00:53:44,673
+Only if I start from here,
+I can end it here.
+
+1033
+00:53:44,753 --> 00:53:46,690
+This is not police but the Cyber Cell.
+
+1034
+00:53:46,770 --> 00:53:48,978
+A beard is fine.
+- That's okay, you shave it off.
+
+1035
+00:53:49,058 --> 00:53:50,357
+You will become clean.
+- Tell me.
+
+1036
+00:53:50,437 --> 00:53:52,523
+Has your son passed
+his exams?
+
+1037
+00:53:52,603 --> 00:53:54,017
+He has a good salary.
+
+1038
+00:53:54,245 --> 00:53:55,561
+Seventy five thousand rupees.
+
+1039
+00:53:55,641 --> 00:53:58,062
+'So much?'
+- Mom, don't stretch it.
+
+1040
+00:53:58,246 --> 00:53:59,315
+You get lost, boy.
+
+1041
+00:53:59,395 --> 00:54:03,062
+They always poke me
+about you being jobless.
+
+1042
+00:54:03,221 --> 00:54:04,681
+Let her feel green with envy
+for some time.
+
+1043
+00:54:04,761 --> 00:54:06,197
+I need to call two more...
+
+1044
+00:54:09,026 --> 00:54:10,367
+Did you get a job?
+- Yes.
+
+1045
+00:54:10,447 --> 00:54:12,131
+Where is it?
+- Cyber Cell.
+
+1046
+00:54:12,211 --> 00:54:13,886
+Is it permanent?
+- No, it's a temporary job.
+
+1047
+00:54:13,966 --> 00:54:14,907
+Oh, too bad.
+
+1048
+00:54:14,987 --> 00:54:16,387
+Such a negative chap!
+
+1049
+00:54:28,187 --> 00:54:29,312
+Hi, aunt!
+
+1050
+00:54:29,623 --> 00:54:30,853
+All good?
+
+1051
+00:54:40,937 --> 00:54:42,270
+All the best.
+
+1052
+00:54:42,353 --> 00:54:43,174
+Thank you, sir.
+
+1053
+00:54:43,254 --> 00:54:45,478
+Just meet Joy, sir.
+Aren't you happy?
+
+1054
+00:54:46,979 --> 00:54:49,661
+Tuck in shirt and all, huh?
+- It's just here.
+
+1055
+00:54:49,855 --> 00:54:51,982
+What uniform do you
+have at the Cyber Cell?
+
+1056
+00:54:52,062 --> 00:54:53,232
+Just this.
+
+1057
+00:54:53,312 --> 00:54:55,528
+We are supposed to wear
+a uniform on Mondays.
+
+1058
+00:54:55,608 --> 00:54:56,565
+But no one wears.
+
+1059
+00:54:56,645 --> 00:54:58,940
+Why I asked is I have set
+of khaki pants for me.
+
+1060
+00:54:59,020 --> 00:55:00,065
+Since this is our first day...
+
+1061
+00:55:00,145 --> 00:55:02,027
+He is Sanjay.
+- Yeah, we know.
+
+1062
+00:55:02,107 --> 00:55:03,270
+Hi, sir.
+
+1063
+00:55:03,480 --> 00:55:05,045
+This is our team.
+- Hi.
+
+1064
+00:55:05,125 --> 00:55:06,075
+Hi.
+
+1065
+00:55:06,325 --> 00:55:07,690
+Basheer.
+- Yes.
+
+1066
+00:55:07,770 --> 00:55:08,980
+Our guys are joining today.
+
+1067
+00:55:09,060 --> 00:55:10,228
+Hi, sir.
+
+1068
+00:55:11,055 --> 00:55:13,243
+You may sit here.
+You can keep this chair there.
+
+1069
+00:55:13,900 --> 00:55:16,054
+This is your place.
+- Thank you, sir.
+
+1070
+00:55:18,478 --> 00:55:20,190
+Well, you probably
+know them, right?
+
+1071
+00:55:20,270 --> 00:55:21,815
+Yes, we talked last time.
+
+1072
+00:55:21,895 --> 00:55:23,148
+She is Anita.
+- Thank you, sir.
+
+1073
+00:55:23,228 --> 00:55:24,982
+Das... Antony...
+- Thank you, sir.
+
+1074
+00:55:25,062 --> 00:55:26,995
+Sir, here are the details
+of the admin.
+
+1075
+00:55:27,075 --> 00:55:28,773
+Dasan.
+- All the best.
+
+1076
+00:55:28,853 --> 00:55:30,232
+All the best.
+- Thank you, sir.
+
+1077
+00:55:30,312 --> 00:55:31,648
+All the best.
+- Thank you.
+
+1078
+00:55:31,728 --> 00:55:34,103
+Hello, they just joined.
+Just a minute.
+
+1079
+00:55:34,454 --> 00:55:36,350
+So, all the best. Rock it.
+- Thank you.
+
+1080
+00:55:36,520 --> 00:55:37,398
+Basheer.
+
+1081
+00:55:37,648 --> 00:55:40,020
+Just brief them...
+About everything.
+
+1082
+00:55:40,908 --> 00:55:42,353
+Yes, they are joining today.
+
+1083
+00:55:42,603 --> 00:55:44,853
+I was arranging chairs for them.
+- Happy, huh?
+
+1084
+00:55:46,952 --> 00:55:49,187
+You are the first engineers
+to make it to the Cyber Cell.
+
+1085
+00:55:50,368 --> 00:55:53,937
+Passing B-tech is possible
+only for people with brains.
+
+1086
+00:55:54,645 --> 00:55:56,482
+But my boy passed
+all the papers.
+
+1087
+00:55:56,562 --> 00:55:57,982
+There are around forty six
+papers in total.
+
+1088
+00:55:58,062 --> 00:55:59,232
+He studied everything.
+
+1089
+00:55:59,312 --> 00:56:00,940
+He is good at studies, isn't he?
+- Yes, of course.
+
+1090
+00:56:01,020 --> 00:56:02,148
+He is very talented.
+
+1091
+00:56:02,228 --> 00:56:03,523
+He got a job too.
+
+1092
+00:56:03,603 --> 00:56:05,315
+Where is he working?
+- In the police...
+
+1093
+00:56:05,395 --> 00:56:06,482
+Really?
+
+1094
+00:56:06,562 --> 00:56:08,107
+He's in the Cyber Cell.
+
+1095
+00:56:08,187 --> 00:56:10,148
+Name?
+- Parveen, sir.
+
+1096
+00:56:10,228 --> 00:56:11,607
+Parveen.
+- Parveen.
+
+1097
+00:56:11,687 --> 00:56:14,273
+Here... Where... Just ask him
+where in Kerala is he staying?
+
+1098
+00:56:14,353 --> 00:56:16,565
+Where in Kerala are you staying?
+- Perumbaavoor, sir.
+
+1099
+00:56:16,645 --> 00:56:17,937
+Where are you from?
+
+1100
+00:56:18,353 --> 00:56:19,315
+Assam.
+
+1101
+00:56:19,395 --> 00:56:20,770
+What's ... Er...
+
+1102
+00:56:20,853 --> 00:56:21,853
+What...
+
+1103
+00:56:22,353 --> 00:56:23,379
+Paisa...
+
+1104
+00:56:23,459 --> 00:56:25,023
+What?
+- What's your problem?
+
+1105
+00:56:25,103 --> 00:56:27,398
+My six thousand rupees has been stolen.
+Six thousand rupees!
+
+1106
+00:56:27,558 --> 00:56:29,065
+He lost six thousand rupees, it seems.
+
+1107
+00:56:29,145 --> 00:56:30,812
+Huh! I will definitely call...
+
+1108
+00:56:34,186 --> 00:56:36,187
+Just a minute.
+Please come here.
+
+1109
+00:56:36,520 --> 00:56:37,940
+Who are you in here?
+
+1110
+00:56:38,020 --> 00:56:39,898
+I.	I'm a staff in here.
+
+1111
+00:56:39,978 --> 00:56:42,062
+You should solve my issue.
+
+1112
+00:56:42,835 --> 00:56:45,270
+What's your problem, sir?
+- Is this a cucumber town?
+
+1113
+00:56:45,562 --> 00:56:48,020
+It's 60,000 rupees I lost
+in the past 8 hours.
+
+1114
+00:56:48,520 --> 00:56:50,773
+You must return
+my money back.
+
+1115
+00:56:50,853 --> 00:56:51,916
+Otherwise, you...
+
+1116
+00:56:51,996 --> 00:56:53,523
+Just a minute.
+- Are you going?
+
+1117
+00:56:53,603 --> 00:56:54,607
+Joy sir,
+
+1118
+00:56:54,687 --> 00:56:57,062
+Stop there, stop.
+Let me talk.
+
+1119
+00:56:58,312 --> 00:56:59,520
+What's your problem, sir?
+
+1120
+00:57:00,209 --> 00:57:01,815
+Who are you?
+- I'm the ASI here.
+
+1121
+00:57:01,895 --> 00:57:03,857
+ASI's board is there, and
+why don't you sit there?
+
+1122
+00:57:03,937 --> 00:57:05,895
+Instead, why are you
+hanging around here?
+
+1123
+00:57:06,187 --> 00:57:07,520
+What's your problem, sir?
+
+1124
+00:57:08,478 --> 00:57:10,065
+Sit. Sit. Please sit.
+
+1125
+00:57:10,145 --> 00:57:12,065
+Why is this place like
+a hen's pen?
+
+1126
+00:57:12,145 --> 00:57:13,437
+Is this the Cyber Cell?
+
+1127
+00:57:13,812 --> 00:57:16,103
+Yes, this itself is the Cyber Cell.
+What's the case, sir?
+
+1128
+00:57:16,623 --> 00:57:20,020
+When I was
+driving my car,
+
+1129
+00:57:20,353 --> 00:57:23,312
+a lady called on my phone.
+
+1130
+00:57:23,629 --> 00:57:27,227
+She said the validity of my
+card has expired,
+
+1131
+00:57:27,307 --> 00:57:31,398
+and asked me to send the OTP
+number to renew the card.
+
+1132
+00:57:31,478 --> 00:57:33,270
+I sent her the OTP number
+
+1133
+00:57:33,645 --> 00:57:35,853
+I lost thirty thousand rupees on the spot.
+
+1134
+00:57:36,437 --> 00:57:39,270
+The next morning, another
+thirty thousand were gone.
+
+1135
+00:57:39,437 --> 00:57:40,648
+Sir, you need to be careful.
+
+1136
+00:57:40,728 --> 00:57:42,482
+You shouldn't share the OTP
+number with anyone.
+
+1137
+00:57:42,562 --> 00:57:45,145
+I was cautious while
+sending it to them.
+
+1138
+00:57:45,353 --> 00:57:47,645
+It's my OTP number
+I sent them.
+
+1139
+00:57:48,103 --> 00:57:49,732
+I must get my money back.
+- Antony...
+
+1140
+00:57:49,812 --> 00:57:51,065
+Yes, you will get it, sir.
+
+1141
+00:57:51,145 --> 00:57:53,270
+Aneesh, get the details from him.
+- Okay, sir.
+
+1142
+00:57:53,478 --> 00:57:56,940
+See from which number
+he got the call... And trace it.
+
+1143
+00:57:57,020 --> 00:57:59,315
+Sir, what's your name?
+Your name?
+
+1144
+00:57:59,395 --> 00:58:01,103
+My name is Balachandran.
+
+1145
+00:58:01,270 --> 00:58:02,367
+Please write it down.
+
+1146
+00:58:02,447 --> 00:58:03,681
+Where are you working, sir?
+
+1147
+00:58:03,761 --> 00:58:06,145
+I'm the manager of SBY bank,
+Kadavanthara.
+
+1148
+00:58:07,645 --> 00:58:08,637
+What did you just say?
+
+1149
+00:58:08,717 --> 00:58:11,687
+I'm the manager of SBY bank,
+Kadavanthara.
+
+1150
+00:58:12,114 --> 00:58:13,937
+Aneesh, please deal with it yourself.
+
+1151
+00:58:15,297 --> 00:58:17,312
+I'm the manager. So, I should
+get my money back.
+
+1152
+00:58:17,937 --> 00:58:18,898
+You will get it, sir.
+
+1153
+00:58:18,978 --> 00:58:20,853
+I will call you back.
+
+1154
+00:58:24,937 --> 00:58:27,603
+Wow! Yummy!
+The curry is yummy.
+
+1155
+00:58:27,937 --> 00:58:28,895
+Super.
+
+1156
+00:58:29,062 --> 00:58:31,312
+You started looking cool after
+shaving your beard.
+
+1157
+00:58:32,270 --> 00:58:34,228
+Mummy, even I have
+shaved my beard.
+
+1158
+00:58:34,437 --> 00:58:35,895
+Did you even have a beard?
+
+1159
+00:58:37,728 --> 00:58:39,723
+Your dosa is not as tasty as before.
+
+1160
+00:59:13,562 --> 00:59:14,523
+Sir,
+
+1161
+00:59:14,603 --> 00:59:16,437
+I was in love with a girl.
+
+1162
+00:59:17,187 --> 00:59:20,312
+I had sent her a few
+photos and videos.
+
+1163
+00:59:21,770 --> 00:59:24,023
+Now, she is using those photos
+and videos,
+
+1164
+00:59:24,103 --> 00:59:25,167
+to blackmail me.
+
+1165
+00:59:25,247 --> 00:59:27,273
+Has she sent her photos to you?
+
+1166
+00:59:27,353 --> 00:59:29,148
+No, she hasn't.
+- No?
+
+1167
+00:59:29,228 --> 00:59:30,687
+Where is she right now?
+
+1168
+00:59:31,014 --> 00:59:33,523
+The girl is in Philippines.
+
+1169
+00:59:33,603 --> 00:59:34,853
+Philippines, huh?
+
+1170
+00:59:35,312 --> 00:59:37,020
+Why is she asking
+money from you?
+
+1171
+00:59:37,391 --> 00:59:39,187
+She's asking money because,
+
+1172
+00:59:39,353 --> 00:59:41,023
+the photos I sent were
+a bit cheesy.
+
+1173
+00:59:41,103 --> 00:59:42,315
+What kind of photos?
+
+1174
+00:59:42,395 --> 00:59:44,398
+The other kind of photos...
+
+1175
+00:59:44,478 --> 00:59:45,690
+You mean, nude?
+
+1176
+00:59:46,124 --> 00:59:47,187
+Yes, kind of...
+
+1177
+00:59:47,352 --> 00:59:48,407
+To a Philippine girl?
+
+1178
+00:59:48,487 --> 00:59:51,493
+Sir, it was by a mistake.
+- Have you seen those photos?
+
+1179
+00:59:51,677 --> 00:59:53,633
+No, I haven't seen them.
+- Haven't you shown him those?
+
+1180
+00:59:53,713 --> 00:59:56,062
+Why? Isn't he, your friend?
+Why didn't you show it to him?
+
+1181
+00:59:56,142 --> 00:59:58,687
+How can I show those
+kind of photos to him?
+
+1182
+00:59:58,895 --> 01:00:00,603
+Were you drunk then?
+
+1183
+01:00:00,899 --> 01:00:02,315
+Yes, I was a little drunk.
+
+1184
+01:00:03,353 --> 01:00:05,770
+Basheer sir, this is your case.
+
+1185
+01:00:05,853 --> 01:00:07,331
+This is a case, he
+shows interest in.
+
+1186
+01:00:07,411 --> 01:00:09,690
+Oh, is she from Philippines?
+
+1187
+01:00:09,770 --> 01:00:11,273
+How did you fall in love with her?
+
+1188
+01:00:11,353 --> 01:00:14,232
+I sent her a request hoping
+to learn English.
+
+1189
+01:00:14,312 --> 01:00:15,273
+You know what,
+
+1190
+01:00:15,353 --> 01:00:17,881
+even Philippinos don't know
+English properly.
+
+1191
+01:00:17,961 --> 01:00:20,023
+If you have such a wish,
+
+1192
+01:00:20,103 --> 01:00:21,704
+you should be sending requests
+to English girls in the US or UK.
+
+1193
+01:00:21,784 --> 01:00:23,690
+Can you help, sir?
+
+1194
+01:00:23,770 --> 01:00:25,773
+What is she saying now?
+
+1195
+01:00:25,853 --> 01:00:28,440
+She is demanding one lakh.
+- No, it is one and a half.
+
+1196
+01:00:28,520 --> 01:00:30,898
+Is it one or one and half?
+- Sir, it is one.
+
+1197
+01:00:30,978 --> 01:00:32,815
+Are you going to pay
+her the money?
+
+1198
+01:00:32,895 --> 01:00:34,690
+Sir, I don't have any
+money with me.
+
+1199
+01:00:34,770 --> 01:00:36,732
+Okay, then tell me, what
+shall we do now?
+
+1200
+01:00:36,812 --> 01:00:38,482
+Sir, he's getting married
+next week.
+
+1201
+01:00:38,562 --> 01:00:39,690
+Marriage!
+
+1202
+01:00:39,770 --> 01:00:41,940
+He's getting married, please
+do something about it.
+
+1203
+01:00:42,020 --> 01:00:43,815
+What's your name?
+- Shibukuttan.
+
+1204
+01:00:43,895 --> 01:00:47,103
+Well Shibukuttan, what we
+can do about this is,
+
+1205
+01:00:47,187 --> 01:00:50,940
+If at all she leaks your
+photos or details,
+
+1206
+01:00:51,020 --> 01:00:55,357
+on Instagram, Facebook or You-tube,
+
+1207
+01:00:55,437 --> 01:00:57,065
+We can remove it from there.
+
+1208
+01:00:57,145 --> 01:00:58,023
+Jeez!
+
+1209
+01:00:58,103 --> 01:01:01,273
+There's no provision to stop
+her from posting them.
+
+1210
+01:01:01,353 --> 01:01:02,815
+Because, she's in Philippines.
+
+1211
+01:01:02,895 --> 01:01:05,103
+Moreover, we don't have the capacity
+to go there and interrogate her.
+
+1212
+01:01:08,020 --> 01:01:09,773
+Sir, won't you help?
+- Sure.
+
+1213
+01:01:09,853 --> 01:01:12,020
+It's my marriage.
+- Don't worry, we will solve it.
+
+1214
+01:01:18,395 --> 01:01:19,565
+Mr Antony.
+
+1215
+01:01:19,976 --> 01:01:21,103
+What's up?
+
+1216
+01:01:21,687 --> 01:01:23,940
+Did you get any details
+about that Ashwathi Achu?
+
+1217
+01:01:24,020 --> 01:01:25,645
+It's hopeless, man.
+
+1218
+01:01:25,853 --> 01:01:27,982
+Nothing yet? What's it showing?
+- It's invalid.
+
+1219
+01:01:28,062 --> 01:01:30,187
+Invalid?
+- Yes, it's all fake.
+
+1220
+01:01:31,211 --> 01:01:32,812
+Let me see for mutual friends.
+
+1221
+01:01:33,353 --> 01:01:35,648
+Dude, just open the Facebook.
+- That's mine.
+
+1222
+01:01:35,728 --> 01:01:37,023
+Just show me.
+Just a minute.
+
+1223
+01:01:37,103 --> 01:01:38,246
+Why do you want to look
+at my Facebook?
+
+1224
+01:01:38,326 --> 01:01:40,565
+I'll give it back just now. - Don't
+device any stratagem with it.
+
+1225
+01:01:40,645 --> 01:01:42,128
+Unlike before, it's the Cyber Cell.
+
+1226
+01:01:42,267 --> 01:01:43,190
+Go, man.
+
+1227
+01:01:43,270 --> 01:01:44,473
+We will feel embarrassed.
+
+1228
+01:01:48,992 --> 01:01:50,312
+So, this is the matter.
+
+1229
+01:01:50,437 --> 01:01:51,648
+Didn't you leave her?
+
+1230
+01:01:51,728 --> 01:01:52,857
+How many times did
+I warn you?
+
+1231
+01:01:52,937 --> 01:01:54,188
+Aren't you done getting
+dumped by that girl once?
+
+1232
+01:01:55,187 --> 01:01:56,544
+Do you know,
+only those who were blocked,
+
+1233
+01:01:56,624 --> 01:01:58,077
+by someone have succeeded in life.
+
+1234
+01:02:00,020 --> 01:02:01,773
+Fresh proverb, huh?
+Did you make it now?
+
+1235
+01:02:01,853 --> 01:02:03,937
+Yes, it came from my heart.
+
+1236
+01:02:05,243 --> 01:02:06,440
+Give it to me.
+
+1237
+01:02:06,520 --> 01:02:08,750
+You will understand it only once some
+one ditches you for the second time.
+
+1238
+01:02:12,437 --> 01:02:14,603
+Pass me the cigarette.
+- Don't finish it, okay?
+
+1239
+01:02:22,603 --> 01:02:24,812
+Hey, buddy, the salary has
+been credited.
+
+1240
+01:02:47,520 --> 01:02:49,145
+Why are you early today?
+
+1241
+01:02:49,228 --> 01:02:50,353
+Nothing.
+
+1242
+01:02:53,937 --> 01:02:55,145
+What's this?
+
+1243
+01:02:56,103 --> 01:02:57,978
+I bought it from my first salary.
+
+1244
+01:03:01,187 --> 01:03:02,437
+Saree, huh?
+
+1245
+01:03:02,645 --> 01:03:04,607
+If you don't like it, you
+can get it exchanged.
+
+1246
+01:03:04,687 --> 01:03:06,145
+It's a nice saree.
+
+1247
+01:03:06,270 --> 01:03:07,273
+Dear sir,
+
+1248
+01:03:07,353 --> 01:03:10,336
+I ordered an I-phone for
+five thousand using a link on WhatsApp.
+
+1249
+01:03:10,416 --> 01:03:11,919
+I-phone for just five thousand rupees?
+- Yes.
+
+1250
+01:03:11,999 --> 01:03:13,363
+Show me the phone.
+
+1251
+01:03:13,443 --> 01:03:14,590
+It's a tile.
+
+1252
+01:03:14,670 --> 01:03:16,065
+Wow! What a phone, man?
+
+1253
+01:03:16,145 --> 01:03:17,523
+Sir, are you kidding me?
+
+1254
+01:03:17,603 --> 01:03:20,728
+I raised the money, borrowing
+and doing catering work.
+
+1255
+01:03:21,638 --> 01:03:23,982
+Sir, will you get my money back
+instead of taking photos?
+
+1256
+01:03:24,062 --> 01:03:25,648
+Let's inquire about this.
+
+1257
+01:03:25,728 --> 01:03:27,857
+We came to collect the details.
+We will see to it.
+
+1258
+01:03:27,937 --> 01:03:30,523
+It's enough I get my money back.
+I leave the phone.
+
+1259
+01:03:30,603 --> 01:03:31,561
+It seems like we forced him...
+
+1260
+01:03:31,641 --> 01:03:33,065
+Aren't you sure if
+I would get my money?
+
+1261
+01:03:33,145 --> 01:03:34,982
+Didn't you hear, we are
+here to collect the details.
+
+1262
+01:03:35,062 --> 01:03:36,049
+What course are you doing?
+- B-tech.
+
+1263
+01:03:36,129 --> 01:03:38,148
+B-tech, believing to get an
+I-phone for just five thousand rupees.
+
+1264
+01:03:38,228 --> 01:03:40,107
+Keep it with you.
+- Same pinch, okay?
+
+1265
+01:03:40,187 --> 01:03:41,607
+Fix the tile using cement, okay?
+
+1266
+01:03:41,687 --> 01:03:43,103
+I'm super pranked.
+
+1267
+01:03:43,270 --> 01:03:45,857
+Ma'am, you cops are so
+irresponsible.
+
+1268
+01:03:45,937 --> 01:03:48,363
+I'm not able to chill out
+peacefully.
+
+1269
+01:03:48,443 --> 01:03:50,736
+Man, what a dark scene is this!
+
+1270
+01:03:50,816 --> 01:03:52,312
+Hey, just remove your
+cooling glass.
+
+1271
+01:03:53,687 --> 01:03:55,190
+Is the dark scene over now?
+- Yes.
+
+1272
+01:03:55,270 --> 01:03:57,065
+Do you have your mobile with you?
+- Yes.
+
+1273
+01:03:57,145 --> 01:03:58,173
+Give it to her.
+
+1274
+01:03:58,253 --> 01:03:59,619
+What is it, Basheer?
+- Give it to her.
+
+1275
+01:04:00,394 --> 01:04:02,728
+Sir, read this and see.
+
+1276
+01:04:04,116 --> 01:04:07,357
+Sir, we had gone for a
+trip to Goa last week.
+
+1277
+01:04:07,527 --> 01:04:09,107
+When we were back home,
+
+1278
+01:04:09,187 --> 01:04:11,853
+none of our costly
+stuff were there.
+
+1279
+01:04:12,353 --> 01:04:13,565
+Bog off, kiddo.
+
+1280
+01:04:13,645 --> 01:04:15,565
+Madam, it's not here that
+You complain about a case like this.
+
+1281
+01:04:15,645 --> 01:04:17,255
+Instead, you must lodge
+a complaint with the police.
+
+1282
+01:04:17,335 --> 01:04:19,270
+It has no connection with us.
+
+1283
+01:04:19,353 --> 01:04:21,353
+No sir, there's a small
+connection with us.
+
+1284
+01:04:21,687 --> 01:04:23,107
+When they started their tour,
+
+1285
+01:04:23,187 --> 01:04:25,395
+this halfwit put a post
+on Facebook.
+
+1286
+01:04:26,587 --> 01:04:28,057
+See it.
+- Sir, it's nothing.
+
+1287
+01:04:28,137 --> 01:04:31,232
+I just wrote, five day trip to
+Goa, rocking with mom.'
+
+1288
+01:04:31,312 --> 01:04:33,148
+Isn't it, mom?
+- Don't get beaten up by me.
+
+1289
+01:04:33,228 --> 01:04:34,648
+Below the post,
+
+1290
+01:04:34,728 --> 01:04:37,023
+there's a comment with
+a photo of Kylo Ren.
+
+1291
+01:04:37,103 --> 01:04:39,474
+'' Sweets, you rock it there,
+and we will rock it here.''
+
+1292
+01:04:39,554 --> 01:04:42,228
+Dear, sir, first of all,
+He is not my friend.
+
+1293
+01:04:42,308 --> 01:04:45,036
+They are thieves for sure.
+
+1294
+01:04:45,116 --> 01:04:47,398
+Ma'am, you may register
+a complaint with the police.
+
+1295
+01:04:47,478 --> 01:04:48,648
+It's them who must
+see to the case.
+
+1296
+01:04:48,728 --> 01:04:51,273
+Only if they pass anything
+to us, we take action on it.
+
+1297
+01:04:51,353 --> 01:04:53,634
+Won't we get our things back, sir?
+- You will. Better approach the police.
+
+1298
+01:04:53,714 --> 01:04:54,906
+Boy, you come here.
+
+1299
+01:04:54,986 --> 01:04:57,187
+My phone...
+- You will get it, come with me now.
+
+1300
+01:04:57,457 --> 01:04:58,690
+What is your name?
+
+1301
+01:04:58,770 --> 01:05:00,482
+My name is Sanju Techie.
+- Is Techie your initial?
+
+1302
+01:05:00,562 --> 01:05:02,460
+No, sir, I put it for style.
+
+1303
+01:05:03,145 --> 01:05:05,607
+Techie's mom, you have
+only one like this at your house?
+
+1304
+01:05:05,687 --> 01:05:07,607
+I have one more like him.
+He's gone for a trip,
+
+1305
+01:05:07,687 --> 01:05:08,589
+to Manali.
+
+1306
+01:05:09,067 --> 01:05:11,770
+Kiddo, you must not share
+such posts on Facebook.
+
+1307
+01:05:12,312 --> 01:05:15,440
+Like... Time, or the number of
+days you're going, etc...
+
+1308
+01:05:15,520 --> 01:05:16,940
+Don't share it publicly.
+
+1309
+01:05:17,020 --> 01:05:19,395
+You can share it with your friends
+if they must know.
+
+1310
+01:05:19,520 --> 01:05:20,482
+Do you get it?
+
+1311
+01:05:20,562 --> 01:05:22,232
+You shouldn't do such
+things from now.
+
+1312
+01:05:22,312 --> 01:05:24,645
+Why are you making it
+dark every time, huh?
+
+1313
+01:05:25,687 --> 01:05:27,398
+Sir, please speed up things.
+
+1314
+01:05:27,478 --> 01:05:28,315
+Mom, all is set.
+
+1315
+01:05:28,395 --> 01:05:31,440
+After the police forward it to us,
+we will take care of the rest.
+
+1316
+01:05:31,520 --> 01:05:33,023
+Everything's okay.
+- Thank you, sir.
+
+1317
+01:05:33,103 --> 01:05:35,255
+Come, let's go.
+- Mom, just pass me the phone.
+
+1318
+01:05:35,428 --> 01:05:38,107
+Why? - I want to post a selfie
+saying, 'Feeling frustrated'.
+
+1319
+01:05:38,187 --> 01:05:39,857
+Selfie. Aren't you done with this?
+
+1320
+01:05:39,937 --> 01:05:41,378
+You better take a selfie
+with your mom's corpse.
+
+1321
+01:05:41,458 --> 01:05:43,703
+What's wrong with taking a photo?
+- Just walk.
+
+1322
+01:06:45,244 --> 01:06:46,244
+Oh, I see...
+
+1323
+01:06:46,494 --> 01:06:49,078
+When did they contact you
+for the first time?
+
+1324
+01:06:50,578 --> 01:06:51,953
+Isn't the question clear?
+
+1325
+01:06:52,036 --> 01:06:54,869
+Since when did they start
+calling you?
+
+1326
+01:06:55,078 --> 01:06:56,460
+That's the question. Answer me.
+
+1327
+01:06:56,540 --> 01:06:58,179
+Don't worry. Tell us.
+
+1328
+01:06:58,259 --> 01:07:01,119
+Four days after receiving the mail,
+
+1329
+01:07:02,090 --> 01:07:04,286
+a Tamil lady called me.
+
+1330
+01:07:04,962 --> 01:07:08,828
+She told, she is a nurse working
+in an hospital in Ireland.
+
+1331
+01:07:09,164 --> 01:07:10,369
+Then...
+
+1332
+01:07:10,994 --> 01:07:12,831
+She confirmed that I have been
+appointed to a hospital,
+
+1333
+01:07:12,911 --> 01:07:15,203
+under Ireland government
+with immediate effect.
+
+1334
+01:07:16,204 --> 01:07:18,456
+Also, I'll get a
+salary of two lakhs...
+
+1335
+01:07:18,536 --> 01:07:20,414
+So? - How much did
+you pay them initially?
+
+1336
+01:07:20,494 --> 01:07:22,123
+Ma'am, as form fee,
+
+1337
+01:07:22,203 --> 01:07:24,661
+they asked me to pay
+fifteen hundred to an account.
+
+1338
+01:07:24,741 --> 01:07:26,703
+Do you have the account
+details with you?
+
+1339
+01:07:26,783 --> 01:07:28,494
+Account details...
+
+1340
+01:07:30,518 --> 01:07:33,244
+Sir, here are the details.
+
+1341
+01:07:36,328 --> 01:07:37,578
+Antony.
+- Sir.
+
+1342
+01:07:39,867 --> 01:07:41,581
+Just see if you can track
+the account number,
+
+1343
+01:07:41,661 --> 01:07:43,289
+and the mobile number.
+
+1344
+01:07:43,369 --> 01:07:44,661
+Go.
+- Okay, sir.
+
+1345
+01:07:44,786 --> 01:07:46,953
+Did you give any amount thereafter?
+
+1346
+01:07:47,661 --> 01:07:48,539
+Hello.
+
+1347
+01:07:48,619 --> 01:07:49,786
+Alphonsa...
+
+1348
+01:07:51,119 --> 01:07:52,119
+Hey, girl.
+
+1349
+01:07:52,286 --> 01:07:54,164
+I'm asking, how much
+did you give in total?
+
+1350
+01:07:54,244 --> 01:07:55,244
+Well...
+
+1351
+01:07:55,641 --> 01:07:58,831
+Sir, we have given them
+two lakh seventy-five thousand rupees.
+
+1352
+01:07:58,911 --> 01:08:02,161
+Geez! Giving this much money
+to a stranger...?
+
+1353
+01:08:02,286 --> 01:08:04,119
+In what age are you
+people living, brother?
+
+1354
+01:08:04,203 --> 01:08:05,789
+My dear girl, don't you
+have any friends,
+
+1355
+01:08:05,869 --> 01:08:08,289
+who you can ask for a second
+opinion on things like this?
+
+1356
+01:08:08,369 --> 01:08:10,780
+I don't know.
+- Tell you one thing,
+
+1357
+01:08:10,860 --> 01:08:13,498
+don't go after her again,
+even if she tries to woo you.
+
+1358
+01:08:13,578 --> 01:08:15,373
+I'm saying this because,
+I know you very well.
+
+1359
+01:08:15,453 --> 01:08:17,203
+Is anything getting on to your head?
+- Yes, it is.
+
+1360
+01:08:17,369 --> 01:08:18,664
+And something serious...
+
+1361
+01:08:18,744 --> 01:08:20,748
+Unlike before, you have
+a job now.
+
+1362
+01:08:20,828 --> 01:08:22,164
+So, behave accordingly.
+
+1363
+01:08:22,244 --> 01:08:24,581
+Don't even mind her by any
+chance, heard it?
+
+1364
+01:08:24,661 --> 01:08:26,536
+Excuse me.
+- Yes.
+
+1365
+01:08:29,828 --> 01:08:32,078
+Those who advised me
+earlier just pulled out.
+
+1366
+01:08:32,369 --> 01:08:34,409
+Please help me.
+
+1367
+01:08:34,644 --> 01:08:36,998
+I guess you were a person
+who took sensible decisions?
+
+1368
+01:08:37,078 --> 01:08:38,286
+My bad.
+
+1369
+01:08:39,244 --> 01:08:40,869
+I trusted them a lot.
+
+1370
+01:08:41,536 --> 01:08:43,286
+That's how they convinced me.
+
+1371
+01:08:43,369 --> 01:08:46,619
+They were okay with my IELTS score
+and my experience here.
+
+1372
+01:08:47,244 --> 01:08:48,659
+Firstly, they called for
+an interview,
+
+1373
+01:08:48,739 --> 01:08:50,369
+with the hospital recruitment board.
+
+1374
+01:08:51,078 --> 01:08:53,828
+Later, they cancelled it
+and rescheduled it on Skype.
+
+1375
+01:08:54,328 --> 01:08:55,539
+So, through Skype,
+
+1376
+01:08:55,619 --> 01:08:58,244
+I had a short chat with a person
+abroad for four to five minutes.
+
+1377
+01:08:59,453 --> 01:09:02,956
+Later, in the name of medical test,
+exam fee etc.,
+
+1378
+01:09:03,036 --> 01:09:05,744
+they had me pay seventy thousand rupees.
+
+1379
+01:09:06,203 --> 01:09:08,328
+I even got an offer letter
+after four days.
+
+1380
+01:09:08,911 --> 01:09:11,039
+Then came... Visa charges...
+
+1381
+01:09:11,119 --> 01:09:12,869
+Ireland intelligence clearance...
+
+1382
+01:09:13,994 --> 01:09:16,869
+I gave them
+two lakhs for all this.
+
+1383
+01:09:17,161 --> 01:09:20,081
+But, they asked me
+for only half the amount,
+
+1384
+01:09:20,161 --> 01:09:22,619
+a nurse would normally
+pay for going abroad.
+
+1385
+01:09:23,703 --> 01:09:25,619
+That's the part that
+attracted me.
+
+1386
+01:09:25,869 --> 01:09:27,748
+I don't know what to do next.
+
+1387
+01:09:27,828 --> 01:09:29,748
+I was devastated on seeing
+my daughter,
+
+1388
+01:09:29,828 --> 01:09:31,956
+sweat blood for a poor salary
+in a private hospital.
+
+1389
+01:09:32,036 --> 01:09:33,744
+That's why I...
+
+1390
+01:09:34,619 --> 01:09:37,078
+We don't have anything
+other than this.
+
+1391
+01:09:37,203 --> 01:09:38,498
+Haven't you left yet?
+
+1392
+01:09:38,578 --> 01:09:39,498
+What is it?
+
+1393
+01:09:39,578 --> 01:09:42,876
+I was explaining the problem
+to sir.
+
+1394
+01:09:43,334 --> 01:09:44,787
+Sir? You mean, him?
+
+1395
+01:09:45,244 --> 01:09:46,828
+He is just an apprentice, trainee.
+
+1396
+01:09:48,536 --> 01:09:50,703
+Ah, you do one thing,
+you leave now.
+
+1397
+01:09:50,828 --> 01:09:52,703
+We will see to it, and
+call you back.
+
+1398
+01:09:53,036 --> 01:09:54,786
+Girl, you cheer up and go now.
+
+1399
+01:09:59,786 --> 01:10:01,539
+Such greedy fellows!
+
+1400
+01:10:01,619 --> 01:10:03,328
+How foolish are they!
+
+1401
+01:10:03,744 --> 01:10:05,289
+Sir, this job a luxury?
+
+1402
+01:10:05,369 --> 01:10:06,248
+Isn't it?
+
+1403
+01:10:06,328 --> 01:10:08,789
+Can't they live moderately with
+whatever job they have here?
+
+1404
+01:10:08,869 --> 01:10:11,744
+Is Ireland or Canada the only
+option to make money?
+
+1405
+01:10:11,911 --> 01:10:13,248
+But, don't they need salary?
+
+1406
+01:10:13,328 --> 01:10:16,786
+Son, the salary is not
+just two or three lakhs...
+
+1407
+01:10:16,953 --> 01:10:19,289
+But five or ten thousand is
+also a salary.
+
+1408
+01:10:19,369 --> 01:10:20,536
+Do you understand?
+
+1409
+01:10:20,994 --> 01:10:22,203
+Greedy chaps!
+
+1410
+01:10:22,578 --> 01:10:23,536
+Hello.
+
+1411
+01:10:24,161 --> 01:10:25,619
+You go get me a tea.
+
+1412
+01:10:25,905 --> 01:10:28,744
+Guys, Prathapan sir, is asking
+for you both, go.
+
+1413
+01:10:30,369 --> 01:10:32,369
+Hey, is the girl your friend?
+
+1414
+01:10:34,536 --> 01:10:35,373
+What, sir?
+
+1415
+01:10:35,453 --> 01:10:37,536
+I mean, the nurse...is
+she, your friend?
+
+1416
+01:10:37,977 --> 01:10:40,581
+She was my junior in twelfth grade.
+
+1417
+01:10:40,661 --> 01:10:43,498
+Dear Prathapan sir, her complaint
+regarding the job fraud case, correct?
+
+1418
+01:10:43,578 --> 01:10:45,619
+She ditched him when
+she got that job.
+
+1419
+01:10:45,786 --> 01:10:47,953
+To be frank, it was
+a great ditch.
+
+1420
+01:10:48,869 --> 01:10:50,581
+No sir, she didn't ditch
+me or anything.
+
+1421
+01:10:50,661 --> 01:10:52,244
+That's because of her situation.
+
+1422
+01:10:53,703 --> 01:10:56,703
+Son, that phenomenon
+is still known as 'ditching'.
+
+1423
+01:11:09,369 --> 01:11:10,369
+Do one thing.
+
+1424
+01:11:10,578 --> 01:11:12,119
+You investigate that case.
+
+1425
+01:11:13,328 --> 01:11:14,206
+Sir...
+
+1426
+01:11:14,286 --> 01:11:16,789
+How I wish that my ex-lovers
+who ditched me in life,
+
+1427
+01:11:16,869 --> 01:11:18,623
+come and stand in front
+of me like this!
+
+1428
+01:11:18,703 --> 01:11:19,706
+But it never happened.
+
+1429
+01:11:19,786 --> 01:11:21,623
+This is an opportunity.
+You lead this case.
+
+1430
+01:11:21,703 --> 01:11:22,789
+Isn't it the 'heroism'?
+
+1431
+01:11:22,869 --> 01:11:23,869
+Do it, man.
+
+1432
+01:11:24,036 --> 01:11:26,164
+Isn't it, your first independent
+case investigation?
+
+1433
+01:11:26,244 --> 01:11:28,203
+Take it up with courage.
+We are here to support you.
+
+1434
+01:11:31,036 --> 01:11:33,456
+'More than sixty per cent private
+hospitals in Kerala,'
+
+1435
+01:11:33,536 --> 01:11:35,956
+'are deceiving nurses without
+giving them,'
+
+1436
+01:11:36,036 --> 01:11:39,039
+'the minimum wage of 12,000
+as against government order.'
+
+1437
+01:11:39,119 --> 01:11:40,289
+'Due to low salaries,'
+
+1438
+01:11:40,369 --> 01:11:43,744
+'many are struggling to pay
+back their educational loans.'
+
+1439
+01:11:44,661 --> 01:11:46,911
+Man, see if there's
+any case based in Kochi.
+
+1440
+01:12:20,180 --> 01:12:24,373
+Sir, it's a lady called Nirmala from
+Chennai, who called me first.
+
+1441
+01:12:24,453 --> 01:12:26,623
+She said, she wanted to conduct
+a nursing recruitment drive,
+
+1442
+01:12:26,703 --> 01:12:29,081
+to a hospital in the Netherlands.
+
+1443
+01:12:29,161 --> 01:12:31,664
+They have come to Kochi
+for about 3-4 times.
+
+1444
+01:12:32,137 --> 01:12:33,789
+Her husband was one...
+
+1445
+01:12:34,317 --> 01:12:36,286
+Collin Peter is a
+Dutch citizen.
+
+1446
+01:12:36,366 --> 01:12:38,123
+I was convinced when she said,
+
+1447
+01:12:38,203 --> 01:12:40,244
+her husband would help out
+with things in Netherland.
+
+1448
+01:12:40,406 --> 01:12:43,123
+Do you have the photos of the
+foreigner and the Tamil lady?
+
+1449
+01:12:43,203 --> 01:12:44,619
+Yes, sir.
+- Let me see.
+
+1450
+01:12:45,078 --> 01:12:46,786
+Sir, these are the guys.
+
+1451
+01:12:46,994 --> 01:12:48,953
+They are the ones
+who f***ed my life.
+
+1452
+01:12:53,472 --> 01:12:55,126
+No, he is not the one.
+
+1453
+01:12:56,601 --> 01:12:58,504
+He has long hair.
+
+1454
+01:12:58,584 --> 01:13:00,150
+He is fat too.
+
+1455
+01:13:00,413 --> 01:13:02,047
+I want to see the mail
+you received.
+
+1456
+01:13:02,127 --> 01:13:06,384
+The mails they received
+are from an e-mail ID whose domain,
+
+1457
+01:13:06,464 --> 01:13:09,664
+is similar to that of Supernova
+hospital, i.e. hr@supernova.
+
+1458
+01:13:09,744 --> 01:13:13,039
+It takes three to four thousand
+rupees to create such a domain.
+
+1459
+01:13:13,119 --> 01:13:14,581
+Sir, we know it ourselves,
+
+1460
+01:13:14,661 --> 01:13:17,119
+we get a lot of such mails
+on our Gmail.
+
+1461
+01:13:17,411 --> 01:13:19,748
+We need to know if any similar mode
+of operations has taken place,
+
+1462
+01:13:19,828 --> 01:13:22,161
+in any of the cities in Kerala.
+
+1463
+01:13:22,911 --> 01:13:24,328
+Chances are very high.
+
+1464
+01:13:26,828 --> 01:13:29,869
+'My name is Krishnaveni,
+from Nagarcoil.'
+
+1465
+01:13:30,453 --> 01:13:32,414
+'I don't know what I must
+do right now,'
+
+1466
+01:13:32,494 --> 01:13:34,369
+'that is why I'm making this video.'
+
+1467
+01:13:35,369 --> 01:13:37,369
+'I think someone cheated me.'
+
+1468
+01:13:37,536 --> 01:13:39,953
+Do you see any similarity
+between Alphonsa issue and this?
+
+1469
+01:13:41,192 --> 01:13:43,456
+There are a lot of
+similarities between
+
+1470
+01:13:43,536 --> 01:13:45,456
+the calls received by both
+Alphonsa and Krishnaveni.
+
+1471
+01:13:45,536 --> 01:13:47,748
+'They took two lakhs from me.'
+- We got the details from her.
+
+1472
+01:13:47,828 --> 01:13:50,498
+First, a call from a Tamil lady,
+then a foreigner.
+
+1473
+01:13:50,578 --> 01:13:53,748
+Their mode of operation, mailer,
+server... Everything is similar.
+
+1474
+01:13:53,828 --> 01:13:56,998
+Normally, online fraudsters
+follow this pattern of,
+
+1475
+01:13:57,078 --> 01:14:01,036
+stealing a few thousands.
+
+1476
+01:14:01,286 --> 01:14:03,039
+But now, they have lost lakhs...
+
+1477
+01:14:03,119 --> 01:14:05,039
+This has happened
+for the first time.
+
+1478
+01:14:05,119 --> 01:14:08,206
+Sir, as soon as the money comes
+in to the fraudster's account,
+
+1479
+01:14:08,286 --> 01:14:11,789
+they transfer it to various
+accounts in Qatar and Oman.
+
+1480
+01:14:11,869 --> 01:14:14,748
+All the account holders are based
+in Tamilnadu and Karnataka.
+
+1481
+01:14:14,828 --> 01:14:16,748
+But we are unable to track them.
+
+1482
+01:14:16,828 --> 01:14:18,461
+Sir, I got this from
+Google last day.
+
+1483
+01:14:18,541 --> 01:14:19,956
+In a place called Jamtara,
+
+1484
+01:14:20,036 --> 01:14:22,269
+a bunch of people had indulged
+in an online fraud case.
+
+1485
+01:14:22,349 --> 01:14:24,789
+They collect the resumes and
+bio data of people,
+
+1486
+01:14:24,869 --> 01:14:26,706
+from job websites like
+Naukri and Indeed.
+
+1487
+01:14:26,786 --> 01:14:30,104
+Then, they call the candidates,
+offer them engineering jobs,
+
+1488
+01:14:30,184 --> 01:14:33,414
+collect fifteen hundred rupees from each,
+and then, no response...
+
+1489
+01:14:33,494 --> 01:14:36,936
+Senior officials investigated
+the Jamtara case.
+
+1490
+01:14:37,016 --> 01:14:40,498
+They even found out, who
+did it, and from where...
+
+1491
+01:14:40,578 --> 01:14:42,998
+But no one could ever go
+there, and arrest them.
+
+1492
+01:14:43,078 --> 01:14:47,328
+Well, sir, I don't think this case
+is related to the Jamtara case.
+
+1493
+01:14:47,703 --> 01:14:48,956
+If at all they were related,
+
+1494
+01:14:49,036 --> 01:14:51,119
+the language they used in
+the call would have been,
+
+1495
+01:14:51,199 --> 01:14:54,536
+either Hindi or Gujarati,
+or local English.
+
+1496
+01:14:55,262 --> 01:14:57,203
+But in this case, it is Tamil.
+
+1497
+01:14:57,424 --> 01:14:59,440
+Since all these accounts are
+based in Tamilnadu,
+
+1498
+01:14:59,520 --> 01:15:01,289
+this is a South Indian
+racket, sir.
+
+1499
+01:15:01,369 --> 01:15:02,735
+There are going to be more victims.
+
+1500
+01:15:02,815 --> 01:15:04,274
+That's sure, sir.
+
+1501
+01:15:04,354 --> 01:15:07,050
+Many of them wouldn't have realized
+that they were cheated.
+
+1502
+01:15:07,130 --> 01:15:09,420
+Others wouldn't say it openly
+due to embarrassment.
+
+1503
+01:15:09,500 --> 01:15:11,461
+There're going to be more
+names in the coming days.
+
+1504
+01:15:11,626 --> 01:15:13,078
+A common link!
+
+1505
+01:15:13,338 --> 01:15:14,731
+That's what is missing here.
+
+1506
+01:15:20,494 --> 01:15:21,744
+Dasan.
+- Yes.
+
+1507
+01:15:22,135 --> 01:15:24,286
+Hey, just show me the video
+Prathapan sir just showed us.
+
+1508
+01:15:25,786 --> 01:15:26,786
+Is this the one?
+
+1509
+01:15:27,119 --> 01:15:28,953
+Hey, isn't it Krishnaveni?
+
+1510
+01:15:29,132 --> 01:15:30,453
+Yes, it's true.
+
+1511
+01:15:31,437 --> 01:15:33,584
+Madam, do you hear me?
+- 'Sir, I don't. Network...'
+
+1512
+01:15:33,664 --> 01:15:36,123
+Have you come to Kochi in April?
+
+1513
+01:15:36,203 --> 01:15:37,789
+On twelfth April?
+- 'Yes, sir.'
+
+1514
+01:15:37,869 --> 01:15:39,967
+'I had an interview
+there in Medicity.'
+
+1515
+01:15:40,047 --> 01:15:41,539
+All of these nine people,
+
+1516
+01:15:41,619 --> 01:15:44,123
+had been in Kochi some day
+in between April 15-30th,
+
+1517
+01:15:44,203 --> 01:15:45,528
+for various purposes.
+
+1518
+01:15:45,608 --> 01:15:47,869
+But all of them had checked-in
+to the Pluto mall.
+
+1519
+01:15:47,949 --> 01:15:50,619
+'Yes, yes, I had gone to
+the Pluto mall.'
+
+1520
+01:16:22,294 --> 01:16:23,703
+Sir, this is a lucky contest.
+
+1521
+01:16:23,783 --> 01:16:25,289
+If you fill in your name
+and address...
+
+1522
+01:16:25,369 --> 01:16:27,203
+You might win it.
+- Thanks.
+
+1523
+01:16:27,283 --> 01:16:29,286
+Pen?
+- No, I'll do it later.
+
+1524
+01:16:36,786 --> 01:16:38,456
+What's it?
+- Dasan. I'm down.
+
+1525
+01:16:38,536 --> 01:16:39,945
+I'll come, be there.
+
+1526
+01:16:53,926 --> 01:16:54,977
+What's the matter?
+
+1527
+01:16:55,130 --> 01:16:57,244
+See this, this is a contest
+conducted in here.
+
+1528
+01:16:57,324 --> 01:16:59,289
+It contains all the details of
+a person like the name,
+
+1529
+01:16:59,369 --> 01:17:01,164
+address, mobile number,
+e-mail id and occupation.
+
+1530
+01:17:01,244 --> 01:17:02,081
+So what?
+
+1531
+01:17:02,161 --> 01:17:04,248
+Aren't these details more than
+enough to easily trick someone?
+
+1532
+01:17:04,328 --> 01:17:07,001
+What you are saying? That this is
+connected to the job fraud case?
+
+1533
+01:17:07,081 --> 01:17:08,998
+Why not? It contains A to Z
+about a person.
+
+1534
+01:17:09,078 --> 01:17:10,661
+That's in last April, dear.
+
+1535
+01:17:11,994 --> 01:17:13,912
+You come, let's ask about it.
+
+1536
+01:17:14,078 --> 01:17:16,206
+If you have an alternate number,
+write that too.
+
+1537
+01:17:16,286 --> 01:17:17,453
+Brother.
+- Hi, sir.
+
+1538
+01:17:17,661 --> 01:17:20,789
+Will it win?
+- Of course, if your time is good.
+
+1539
+01:17:20,869 --> 01:17:23,706
+No way, I didn't win anything
+for the Vishu contest last time.
+
+1540
+01:17:23,786 --> 01:17:25,539
+Sir, how many contests have
+passed after April?
+
+1541
+01:17:25,619 --> 01:17:26,953
+You will win this for sure.
+
+1542
+01:17:28,789 --> 01:17:31,164
+Pal, you call Krishnaveni,
+
+1543
+01:17:31,244 --> 01:17:34,619
+and ask her if she had filled any
+coupon when she visited Pluto mall.
+
+1544
+01:17:35,925 --> 01:17:37,203
+Hello.
+- Sir.
+
+1545
+01:17:37,661 --> 01:17:39,983
+Dear, when you came to Pluto mall,
+
+1546
+01:17:40,063 --> 01:17:43,578
+did you fill any coupon for
+a contest or something?
+
+1547
+01:17:44,513 --> 01:17:47,789
+Yes, I had filled one for my sister.
+
+1548
+01:17:47,869 --> 01:17:50,547
+Later, I filled one for
+myself, and put it inside.
+
+1549
+01:17:50,627 --> 01:17:51,518
+Oh, really?
+
+1550
+01:18:04,957 --> 01:18:06,119
+Brother, brother...
+
+1551
+01:18:06,453 --> 01:18:08,164
+Who's coordinating the contest?
+
+1552
+01:18:08,244 --> 01:18:09,498
+The mall itself.
+
+1553
+01:18:09,578 --> 01:18:10,661
+Why do you ask?
+
+1554
+01:18:10,911 --> 01:18:12,578
+No, it's nothing...
+
+1555
+01:18:12,796 --> 01:18:16,608
+We are the marketing staff of
+Q-tec educational centre.
+
+1556
+01:18:17,036 --> 01:18:19,956
+Is it possible to get the details of
+the coupons filled by the visitors?
+
+1557
+01:18:20,036 --> 01:18:21,248
+No, no, no, no...
+
+1558
+01:18:21,328 --> 01:18:23,789
+If we can get the details of people
+between the age of 15-20,
+
+1559
+01:18:23,869 --> 01:18:25,914
+that will be very useful
+for our marketing.
+
+1560
+01:18:25,994 --> 01:18:29,411
+We are conducting this contest
+only to give gifts to people.
+
+1561
+01:18:29,578 --> 01:18:31,828
+And not for selling data.
+
+1562
+01:18:32,744 --> 01:18:34,498
+Why are you manipulating things?
+
+1563
+01:18:34,578 --> 01:18:36,414
+Sir, we can make a payment...
+
+1564
+01:18:36,494 --> 01:18:38,248
+Can't you understand, what
+I just said? Please go.
+
+1565
+01:18:38,328 --> 01:18:40,373
+Sir, we ask you because
+it's for our job...
+
+1566
+01:18:40,453 --> 01:18:42,039
+Didn't I tell you once?
+
+1567
+01:18:42,119 --> 01:18:43,119
+Go, man.
+
+1568
+01:18:43,994 --> 01:18:45,286
+Get lost.
+
+1569
+01:18:50,119 --> 01:18:52,203
+They are moving these
+coupons somewhere.
+
+1570
+01:18:52,328 --> 01:18:53,289
+That's for sure.
+
+1571
+01:18:53,369 --> 01:18:54,994
+What are you saying?
+I don't think so.
+
+1572
+01:18:55,453 --> 01:18:56,748
+If so, we will do one thing.
+
+1573
+01:18:56,828 --> 01:18:59,078
+We will inform our office about it.
+Let them do the needful.
+
+1574
+01:18:59,244 --> 01:19:01,828
+If we call them before confirming
+it, Basheer sir will be little us.
+
+1575
+01:19:03,124 --> 01:19:04,560
+What can we do now?
+
+1576
+01:19:05,786 --> 01:19:07,498
+Were you the guy who came to
+that office with the coupons?
+
+1577
+01:19:07,578 --> 01:19:08,539
+What is it, sir?
+
+1578
+01:19:08,619 --> 01:19:10,831
+Who are you giving
+these coupons to?
+
+1579
+01:19:10,911 --> 01:19:12,411
+I swear I don't know.
+- Bloody...
+
+1580
+01:19:12,578 --> 01:19:14,123
+Tell me the truth.
+We are from the Cyber Cell.
+
+1581
+01:19:14,203 --> 01:19:16,331
+There's a complaint against you.
+We will put you in jail.
+
+1582
+01:19:16,411 --> 01:19:18,854
+I swear I don't know.
+Every Friday, a van comes here.
+
+1583
+01:19:18,934 --> 01:19:20,119
+I know only that.
+- What time on Friday?
+
+1584
+01:21:58,578 --> 01:22:00,103
+Why are you here?
+
+1585
+01:22:00,519 --> 01:22:01,778
+Have you worn a hat and all?
+
+1586
+01:22:02,783 --> 01:22:04,367
+Make it a full cup. Come on...
+
+1587
+01:22:05,075 --> 01:22:06,037
+Take it.
+
+1588
+01:22:06,117 --> 01:22:07,662
+Oh, sorry,
+I don't drink milk tea.
+
+1589
+01:22:07,742 --> 01:22:09,245
+Couldn't you say so before?
+- I drink black tea.
+
+1590
+01:22:09,325 --> 01:22:11,287
+Brother, order cancelled.
+Black tea will make you even darker.
+
+1591
+01:22:11,367 --> 01:22:13,412
+Sanu, where were you after coming
+back from Selam? Long time...
+
+1592
+01:22:13,492 --> 01:22:16,578
+My family forced me to
+do M-Tech after B-Tech.
+
+1593
+01:22:16,658 --> 01:22:17,607
+And did you take it up?
+
+1594
+01:22:17,687 --> 01:22:19,037
+For that,
+I need to pass B-tech, right?
+
+1595
+01:22:19,117 --> 01:22:20,787
+Yes, you should pass B-tech.
+
+1596
+01:22:20,867 --> 01:22:22,867
+What about you?
+Did you find any job?
+
+1597
+01:22:22,992 --> 01:22:24,662
+After B-tech,
+we are looking over...
+
+1598
+01:22:24,742 --> 01:22:25,787
+So, still jobless!
+
+1599
+01:22:25,867 --> 01:22:27,620
+What about you?
+Did you find a job?
+
+1600
+01:22:27,700 --> 01:22:29,578
+Yeah, we are on it,
+investigating things.
+
+1601
+01:22:29,658 --> 01:22:30,912
+Can't you try some simple stuff?
+
+1602
+01:22:30,992 --> 01:22:33,158
+Like civil service or something.
+
+1603
+01:22:33,238 --> 01:22:34,325
+How ridiculous!
+
+1604
+01:22:34,867 --> 01:22:35,912
+Yes, we are trying for it.
+
+1605
+01:22:35,992 --> 01:22:37,912
+What I want to ask you is...
+
+1606
+01:22:37,992 --> 01:22:40,078
+This data entry thing, right?
+
+1607
+01:22:40,158 --> 01:22:41,495
+Is it a good business?
+
+1608
+01:22:41,575 --> 01:22:44,162
+I'm doing it as a part
+time job, right?
+
+1609
+01:22:44,242 --> 01:22:46,283
+I get two to three hundred per day.
+
+1610
+01:22:46,367 --> 01:22:48,948
+If it is full-time, you will get
+five to six. Do you want to give it a try?
+
+1611
+01:22:49,028 --> 01:22:50,953
+That's not the plan...
+
+1612
+01:22:51,033 --> 01:22:53,895
+The thing is, his uncle told us that
+he can loan us some money.
+
+1613
+01:22:53,975 --> 01:22:57,492
+If we start a business of your
+kind, will it work out?
+
+1614
+01:22:58,283 --> 01:22:59,617
+How does it run?
+
+1615
+01:22:59,825 --> 01:23:01,242
+Can you make me your partner?
+
+1616
+01:23:01,408 --> 01:23:03,242
+Yeah, that's possible.
+
+1617
+01:23:03,450 --> 01:23:04,453
+Tell me, what is my share?
+
+1618
+01:23:04,533 --> 01:23:05,787
+The thing is...
+- No, you fix my share first.
+
+1619
+01:23:05,867 --> 01:23:07,787
+Let me tell you the matter.
+- We will fight, fix my share.
+
+1620
+01:23:07,867 --> 01:23:09,033
+Tell him something.
+
+1621
+01:23:09,117 --> 01:23:10,908
+I will tell you, fifty-fifty.
+
+1622
+01:23:11,367 --> 01:23:12,272
+Are you okay with it?
+- Yes.
+
+1623
+01:23:12,352 --> 01:23:13,275
+Then, deal.
+- Done.
+
+1624
+01:23:14,492 --> 01:23:15,783
+I'll tell you how it runs.
+
+1625
+01:23:16,700 --> 01:23:20,867
+If you have a person's name, phone
+number, address, and e-mail Id,
+
+1626
+01:23:21,398 --> 01:23:23,492
+you will get four rupees, okay?
+
+1627
+01:23:23,575 --> 01:23:25,495
+If you have the same person's
+account number and pan card,
+
+1628
+01:23:25,575 --> 01:23:27,120
+you will get eight rupees, okay?
+
+1629
+01:23:27,200 --> 01:23:29,242
+What the corporates want is Data.
+
+1630
+01:23:29,325 --> 01:23:31,287
+So, we provide it for them,
+what use we have with it?
+
+1631
+01:23:31,367 --> 01:23:33,120
+Can you ask your uncle
+to arrange ten systems?
+
+1632
+01:23:33,200 --> 01:23:34,245
+Which uncle?
+
+1633
+01:23:34,325 --> 01:23:36,101
+Yes... I can.
+
+1634
+01:23:36,617 --> 01:23:38,283
+You will need some twenty girls.
+
+1635
+01:23:38,575 --> 01:23:39,578
+What are these girls for?
+
+1636
+01:23:39,658 --> 01:23:40,660
+Can you arrange them?
+
+1637
+01:23:40,740 --> 01:23:42,745
+His uncle will arrange all those.
+You tell me the matter.
+
+1638
+01:23:42,825 --> 01:23:45,370
+If yes, we can play the naughty boss,
+on a revolving chair.
+
+1639
+01:23:45,450 --> 01:23:46,620
+Very nice!
+
+1640
+01:23:46,700 --> 01:23:48,426
+Isn't it fun... To simply
+lounge on a chair?
+
+1641
+01:23:48,506 --> 01:23:50,203
+The data we collect, right?
+
+1642
+01:23:50,283 --> 01:23:51,908
+Who will we give the data to?
+
+1643
+01:23:58,575 --> 01:23:59,867
+Pay for my tea.
+
+1644
+01:24:00,825 --> 01:24:02,075
+Take it from my share.
+
+1645
+01:24:10,450 --> 01:24:13,203
+It's from here, the data needed
+for builders, car dealers,
+
+1646
+01:24:13,283 --> 01:24:14,870
+private hospitals, schools,
+
+1647
+01:24:14,950 --> 01:24:16,287
+colleges, travel agencies,
+
+1648
+01:24:16,367 --> 01:24:18,412
+and other business enterprises
+in Kerala are sent.
+
+1649
+01:24:18,492 --> 01:24:20,953
+They are sent outside Kerala
+as well, through co-coordinators.
+
+1650
+01:24:21,033 --> 01:24:22,158
+That's more money.
+
+1651
+01:24:22,533 --> 01:24:25,328
+Buddy, what about my share?
+
+1652
+01:24:25,408 --> 01:24:27,867
+Share is okay.
+- We will set it up.
+
+1653
+01:24:28,200 --> 01:24:29,745
+Okay, then have it.
+
+1654
+01:24:29,825 --> 01:24:32,700
+We send the data to this address
+via courier.
+
+1655
+01:24:33,981 --> 01:24:37,544
+They are again passed on
+via. inter-state lorries.
+
+1656
+01:24:39,117 --> 01:24:41,355
+Sir, what you said is right.
+
+1657
+01:24:41,435 --> 01:24:44,151
+Once Kolamedu was famous
+for theft and robbery.
+
+1658
+01:24:54,048 --> 01:24:56,662
+They used to lie low in the
+Bangalore-Coimbatore highways,
+
+1659
+01:24:56,742 --> 01:24:58,412
+and rob the vehicles coming along...
+
+1660
+01:24:58,492 --> 01:24:59,783
+That's been their
+job for generations.
+
+1661
+01:25:02,025 --> 01:25:04,995
+In 2002, when Ms Jayalalitha
+was in power,
+
+1662
+01:25:05,075 --> 01:25:07,078
+there were raids in Kolamedu.
+
+1663
+01:25:07,158 --> 01:25:08,950
+A lot of them were
+arrested back then.
+
+1664
+01:25:13,450 --> 01:25:17,033
+To an extent, Kolamedu had
+stopped being a notorious place.
+
+1665
+01:25:17,321 --> 01:25:20,448
+Many of them were sent to quarters.
+
+1666
+01:25:20,528 --> 01:25:22,703
+Later, nearly two hundred people
+were given education.
+
+1667
+01:25:22,783 --> 01:25:25,617
+But when they got an education, their
+mode of theft changed.
+
+1668
+01:25:25,783 --> 01:25:28,120
+They understood what
+they can do with technology.
+
+1669
+01:25:28,200 --> 01:25:30,170
+Since then,
+all the crimes reported,
+
+1670
+01:25:30,250 --> 01:25:31,511
+from Kolamedu are Cyber Crimes.
+
+1671
+01:25:33,325 --> 01:25:35,787
+From 2012 onwards,
+a lot of Cybercrimes have,
+
+1672
+01:25:35,867 --> 01:25:37,156
+being reported from Kolamedu.
+
+1673
+01:25:37,236 --> 01:25:38,802
+They are not big
+hackers or anything.
+
+1674
+01:25:38,882 --> 01:25:40,069
+But with the available data,
+
+1675
+01:25:40,149 --> 01:25:42,078
+they call up people, convince
+them in a short time,
+
+1676
+01:25:42,158 --> 01:25:43,367
+and steal money from them.
+
+1677
+01:25:43,447 --> 01:25:46,041
+'You must have received
+an OTP. Can you check...?
+
+1678
+01:25:46,121 --> 01:25:48,109
+They don't fear anything or anyone.
+
+1679
+01:25:48,189 --> 01:25:51,717
+They know that they won't have
+anything to eat, if they have fear.
+
+1680
+01:25:51,797 --> 01:25:54,162
+There is only one reason for
+crimes and revolutions...
+
+1681
+01:25:54,242 --> 01:25:55,450
+That's hunger.
+
+1682
+01:25:56,575 --> 01:25:58,908
+Data is their primary requirement.
+
+1683
+01:26:02,805 --> 01:26:04,575
+They get it through various sources.
+
+1684
+01:26:04,783 --> 01:26:07,883
+That can be coupons,
+photo copy of ID cards,
+
+1685
+01:26:07,963 --> 01:26:10,667
+or it can be any of the content
+we post on online platforms.
+
+1686
+01:26:10,747 --> 01:26:15,825
+Irrespective of gender,
+they are frauds.
+
+1687
+01:26:17,367 --> 01:26:21,870
+The master brain behind forty per cent of Cyber
+crimes in South India is Kolamedu.
+
+1688
+01:26:21,950 --> 01:26:23,902
+If we are not vigilant,
+
+1689
+01:26:23,982 --> 01:26:28,992
+Kolamedu is as dangerous
+as Jamtara in North India.
+
+1690
+01:26:29,242 --> 01:26:30,578
+Being such a notorious place,
+
+1691
+01:26:30,658 --> 01:26:33,662
+it's impossible to lock someone
+up through an operation.
+
+1692
+01:26:33,742 --> 01:26:35,283
+Even if you do it,
+
+1693
+01:26:35,619 --> 01:26:37,700
+you won't be able
+to cross Tamilnadu.
+
+1694
+01:26:42,573 --> 01:26:43,456
+See,
+
+1695
+01:26:43,536 --> 01:26:45,908
+we have tracked the IP address from
+which Alphonsa received the mail.
+
+1696
+01:26:46,367 --> 01:26:49,783
+It's from a server called Go daddy,
+they bought that domain.
+
+1697
+01:26:49,863 --> 01:26:53,658
+I had spoken to a technical
+assistant from Go daddy.
+
+1698
+01:26:54,117 --> 01:26:55,995
+They have forwarded an
+IP address to us.
+
+1699
+01:26:56,075 --> 01:26:58,033
+I have checked the details.
+
+1700
+01:26:58,113 --> 01:27:00,283
+That's a Hyderabad based SIM.
+
+1701
+01:27:00,908 --> 01:27:02,537
+Sir, we have got the call details.
+
+1702
+01:27:02,617 --> 01:27:06,825
+But when we tracked the IMEA of the
+phone in which the SIM had been,
+
+1703
+01:27:06,905 --> 01:27:09,162
+this phone has been active in
+Selam-Bharmapuri region,
+
+1704
+01:27:09,242 --> 01:27:12,200
+for the last four months using
+another phone number.
+
+1705
+01:27:12,355 --> 01:27:14,950
+I'll put the details on our
+WhatsApp group.
+
+1706
+01:27:15,742 --> 01:27:16,783
+Sir.
+
+1707
+01:27:27,533 --> 01:27:28,533
+Sir.
+
+1708
+01:27:29,504 --> 01:27:30,870
+Who is Aravind?
+
+1709
+01:27:30,950 --> 01:27:31,912
+It's me.
+
+1710
+01:27:31,992 --> 01:27:33,703
+Who are you?
+- Oh, you're a Mallu, huh?
+
+1711
+01:27:33,783 --> 01:27:35,617
+Just a minute.
+Can you come out?
+
+1712
+01:27:35,867 --> 01:27:37,492
+Tell me, what's the matter?
+
+1713
+01:27:37,700 --> 01:27:40,828
+Brother, that is... We want
+to create a website.
+
+1714
+01:27:40,908 --> 01:27:42,095
+No problem, we can do it.
+
+1715
+01:27:42,175 --> 01:27:43,870
+But there's a complication in it.
+
+1716
+01:27:43,950 --> 01:27:46,578
+Nobody should be able
+to track its IP address,
+
+1717
+01:27:46,765 --> 01:27:47,912
+No, we will not do that.
+
+1718
+01:27:47,992 --> 01:27:50,745
+Please, please, please, brother...
+Don't go, please don't say that.
+
+1719
+01:27:50,825 --> 01:27:53,162
+We will pay you well,
+please...
+
+1720
+01:27:53,242 --> 01:27:54,533
+Please do it for us, brother.
+
+1721
+01:27:59,658 --> 01:28:00,867
+Come on, brother.
+
+1722
+01:28:01,492 --> 01:28:02,787
+It is risky.
+
+1723
+01:28:02,867 --> 01:28:05,450
+The police will easily
+track the IP address.
+
+1724
+01:28:05,533 --> 01:28:07,787
+If the police catch us,
+it's going to be hell.
+
+1725
+01:28:07,867 --> 01:28:09,828
+We know you do this,
+that's why we're here.
+
+1726
+01:28:09,908 --> 01:28:12,200
+You will have no problem
+because of this, brother.
+
+1727
+01:28:12,575 --> 01:28:15,284
+We can pay you any amount
+of money you need.
+
+1728
+01:28:15,450 --> 01:28:16,617
+How much?
+
+1729
+01:28:17,075 --> 01:28:18,200
+You may tell…
+
+1730
+01:28:19,742 --> 01:28:20,953
+Forty?
+
+1731
+01:28:21,348 --> 01:28:22,611
+Possible?
+- I...
+
+1732
+01:28:23,243 --> 01:28:24,658
+Okay, brother, forty thousand is fine.
+
+1733
+01:28:24,992 --> 01:28:26,575
+What kind of website do you need?
+Tell me.
+
+1734
+01:28:26,742 --> 01:28:29,825
+Brother, there's a hospital
+in Ireland called Supernova.
+
+1735
+01:28:30,450 --> 01:28:31,783
+Its website...
+
+1736
+01:28:31,867 --> 01:28:33,828
+No, that's not possible.
+- It's nothing, dear.
+
+1737
+01:28:33,908 --> 01:28:35,787
+Just change the 'V' to 'W'.
+That's all.
+
+1738
+01:28:35,867 --> 01:28:37,995
+Who're you?
+- Just to knock over a few nurses.
+
+1739
+01:28:38,075 --> 01:28:39,203
+Come on...
+- No, brother.
+
+1740
+01:28:39,283 --> 01:28:41,742
+Come on, let's go over a few...
+We will pay you well.
+
+1741
+01:28:42,700 --> 01:28:43,950
+Stop there.
+
+1742
+01:28:56,992 --> 01:29:00,033
+We know the number using
+which you accessed the domain.
+
+1743
+01:29:00,393 --> 01:29:02,578
+We have the evidence
+for all the frauds,
+
+1744
+01:29:02,658 --> 01:29:04,441
+You have been committing on
+mobile and laptop,
+
+1745
+01:29:04,521 --> 01:29:07,825
+since dropping out of
+Srikrishna College, Hyderabad.
+
+1746
+01:29:08,075 --> 01:29:10,037
+You don't know the Kerala Police.
+
+1747
+01:29:10,117 --> 01:29:11,703
+We know how to make
+you speak the truth.
+
+1748
+01:29:11,783 --> 01:29:13,492
+Isn't because he
+doesn't know us?
+
+1749
+01:29:13,617 --> 01:29:16,203
+Joy, I don't think this will
+be necessary. He will confess.
+
+1750
+01:29:16,283 --> 01:29:17,287
+Tell me, brother.
+
+1751
+01:29:17,367 --> 01:29:19,450
+I just created a website for them.
+
+1752
+01:29:19,696 --> 01:29:20,662
+I don't know anything else.
+
+1753
+01:29:20,914 --> 01:29:22,575
+For whom? Tell me...
+
+1754
+01:29:23,742 --> 01:29:24,700
+Tell me, I say.
+
+1755
+01:29:26,283 --> 01:29:27,575
+Just spit it out, you...
+
+1756
+01:29:29,666 --> 01:29:32,808
+'Simbon, a fraudster
+in Kolamedu Colony.'
+
+1757
+01:29:32,888 --> 01:29:35,720
+'He eked out a living by uploading
+hidden videos in porn sites.'
+
+1758
+01:29:35,800 --> 01:29:37,816
+'There's a case against him
+regarding the same.'
+
+1759
+01:29:39,363 --> 01:29:40,488
+'He is Michael.'
+
+1760
+01:29:40,568 --> 01:29:42,912
+'Everyone calls him, 'Vellayan'.'
+
+1761
+01:29:42,992 --> 01:29:45,033
+'His plus point is his physique.'
+
+1762
+01:29:45,261 --> 01:29:47,366
+'Simbon is his main helper.'
+
+1763
+01:29:47,544 --> 01:29:48,949
+'Michael is the one who
+plans everything.'
+
+1764
+01:29:49,029 --> 01:29:50,449
+'And Simbon arranges people.'
+
+1765
+01:29:50,658 --> 01:29:52,863
+'Execution is carried out
+by his wife, Jaya.'
+
+1766
+01:29:53,322 --> 01:29:55,029
+'They are the people who
+sell lies for their living.'
+
+1767
+01:29:55,113 --> 01:29:57,071
+'It's very difficult to win
+against them.'
+
+1768
+01:30:13,469 --> 01:30:15,348
+Antony, you should be careful.
+
+1769
+01:30:15,428 --> 01:30:17,686
+The phone should never
+get disconnected.
+
+1770
+01:30:26,219 --> 01:30:27,136
+Basheer,
+
+1771
+01:30:27,428 --> 01:30:29,280
+I'll take care of this,
+you leave.
+
+1772
+01:30:40,087 --> 01:30:44,219
+Catching someone inside
+the colony is not that easy.
+
+1773
+01:30:44,719 --> 01:30:47,764
+Once you are inside the colony,
+you should be very alert.
+
+1774
+01:30:47,844 --> 01:30:50,848
+Your fear doesn't show up
+on your eyes.
+
+1775
+01:30:51,003 --> 01:30:53,636
+Once you are there,
+the game is yours.
+
+1776
+01:30:53,928 --> 01:30:56,681
+Nothing should go out of our plans.
+
+1777
+01:30:56,828 --> 01:30:59,261
+Aneesh, Mark 2, be alert.
+
+1778
+01:31:05,118 --> 01:31:06,048
+It's nothing, brother.
+
+1779
+01:31:06,128 --> 01:31:08,719
+But a matter of changing
+a loop in a Java code.
+
+1780
+01:31:09,110 --> 01:31:11,853
+We do coding work in a
+company in Tamilnadu.
+
+1781
+01:31:11,933 --> 01:31:13,386
+Which company?
+- MCS.
+
+1782
+01:31:13,940 --> 01:31:14,808
+In Chennai.
+
+1783
+01:31:14,888 --> 01:31:16,886
+Where in Chennai?
+- In Tea Nagar.
+
+1784
+01:31:18,091 --> 01:31:19,903
+Okay, tell me the plan.
+
+1785
+01:31:19,983 --> 01:31:22,803
+The plan is, there are 223 accounts.
+
+1786
+01:31:23,116 --> 01:31:25,931
+We are going to withdraw one lakh
+each from these accounts,
+
+1787
+01:31:26,011 --> 01:31:27,223
+between 2 am to 3 am.
+
+1788
+01:31:27,303 --> 01:31:30,469
+But, we need an account to
+keep the amount safe.
+
+1789
+01:31:30,969 --> 01:31:33,809
+Nobody should be able
+to track this account.
+
+1790
+01:31:33,889 --> 01:31:36,011
+How much will you pay us?
+- You may tell, brother.
+
+1791
+01:31:39,472 --> 01:31:40,641
+Can you give fifty...?
+
+1792
+01:31:41,804 --> 01:31:42,844
+Okay, that's fine.
+
+1793
+01:31:44,322 --> 01:31:45,422
+We can do it.
+
+1794
+01:31:45,650 --> 01:31:48,380
+Will it become a problem later?
+Is it safe?
+
+1795
+01:31:48,460 --> 01:31:50,139
+You needn't worry about anything.
+
+1796
+01:31:50,219 --> 01:31:53,908
+We will send the amount you give
+to various accounts abroad.
+
+1797
+01:31:53,988 --> 01:31:57,199
+We have more than twenty accounts
+of our people there.
+
+1798
+01:31:57,279 --> 01:31:59,304
+Okay.
+- Once the deal is over,
+
+1799
+01:31:59,384 --> 01:32:01,342
+the money will come to
+your account safely.
+
+1800
+01:32:01,765 --> 01:32:02,880
+When are you going to do it?
+
+1801
+01:32:03,772 --> 01:32:05,488
+Probably next week, brother.
+
+1802
+01:32:05,568 --> 01:32:07,993
+Next week... Let me see.
+
+1803
+01:32:08,073 --> 01:32:09,632
+Hey, come here.
+- Sir.
+
+1804
+01:32:16,884 --> 01:32:18,592
+Are they your acquaintance?
+
+1805
+01:32:19,042 --> 01:32:20,191
+If you show them to us,
+
+1806
+01:32:20,271 --> 01:32:23,195
+we will make sure that you
+are out of harm's way.
+
+1807
+01:32:23,759 --> 01:32:24,840
+Speak up.
+
+1808
+01:32:24,920 --> 01:32:27,028
+At least, you're a Mallu, right?
+
+1809
+01:32:27,997 --> 01:32:29,580
+Show some loyalty to your folks.
+
+1810
+01:32:33,621 --> 01:32:34,830
+Yes, I know them.
+
+1811
+01:32:34,955 --> 01:32:36,121
+'Step one.'
+
+1812
+01:32:36,288 --> 01:32:38,080
+'They sell lies for a living.'
+
+1813
+01:32:38,298 --> 01:32:40,830
+'So, we also need to tell lies
+to win against them.'
+
+1814
+01:32:41,871 --> 01:32:43,830
+'If you carry fear in your heart...'
+
+1815
+01:32:44,330 --> 01:32:46,455
+'You become one among them.'
+
+1816
+01:32:46,974 --> 01:32:48,788
+'We will be there around you.'
+
+1817
+01:32:48,955 --> 01:32:50,330
+'Just at a striking distance.'
+
+1818
+01:32:57,697 --> 01:32:59,413
+Ravi, you cover that side.
+
+1819
+01:33:03,915 --> 01:33:06,225
+You be here. Let me talk
+to him, and come.
+
+1820
+01:33:13,554 --> 01:33:16,668
+Michael! Hey Michael!
+- Brother, let's go.
+
+1821
+01:33:16,884 --> 01:33:19,209
+If they catch us, they will
+not leave us alive.
+
+1822
+01:33:19,609 --> 01:33:21,371
+What?
+- I told you, right?
+
+1823
+01:33:21,451 --> 01:33:22,728
+Have they come?
+- They are here.
+
+1824
+01:33:22,808 --> 01:33:24,205
+They will kill us.
+
+1825
+01:33:25,437 --> 01:33:27,305
+Who? Who are those guys?
+
+1826
+01:33:28,011 --> 01:33:29,124
+They are the party.
+
+1827
+01:33:29,204 --> 01:33:30,319
+Did you brief them about
+our conditions?
+
+1828
+01:33:30,399 --> 01:33:31,508
+Yes. All okay.
+
+1829
+01:33:31,588 --> 01:33:32,649
+They agreed?
+- I told them.
+
+1830
+01:33:32,729 --> 01:33:35,728
+Can we trust them?
+- Yes. Come! You lock the door.
+
+1831
+01:33:36,957 --> 01:33:38,291
+'Once you meet Michael,'
+
+1832
+01:33:38,371 --> 01:33:40,044
+'you should bring him
+out of the colony,'
+
+1833
+01:33:40,124 --> 01:33:42,163
+'pretending to talk about the deal.'
+
+1834
+01:33:52,378 --> 01:33:54,080
+Come, let's talk.
+
+1835
+01:34:01,455 --> 01:34:02,538
+Hey!
+
+1836
+01:34:29,830 --> 01:34:31,716
+Who are you?
+Police, huh?
+
+1837
+01:34:32,336 --> 01:34:33,615
+You have put a conference
+call and all, huh?
+
+1838
+01:34:34,097 --> 01:34:35,473
+Are you trying to cheat us?
+
+1839
+01:34:36,354 --> 01:34:38,038
+If you are sure, you will get caught...
+
+1840
+01:34:38,913 --> 01:34:39,872
+Dasan...
+
+1841
+01:34:50,921 --> 01:34:52,229
+Hey, Michael.
+
+1842
+01:34:52,982 --> 01:34:54,080
+Come on, run...
+
+1843
+01:34:55,099 --> 01:34:58,328
+Stop there! Muthu!
+Sarvana! Catch them!
+
+1844
+01:34:58,408 --> 01:35:00,688
+They are running away. Catch them.
+- Come on, man.
+
+1845
+01:35:01,763 --> 01:35:03,996
+Look there!
+- This side!
+
+1846
+01:35:04,309 --> 01:35:07,163
+Sir, they are trapped,
+get the vehicle here.
+
+1847
+01:35:09,413 --> 01:35:11,799
+'The moment you decide
+not to get killed,'
+
+1848
+01:35:12,395 --> 01:35:13,996
+'is the moment we start winning...'
+
+1849
+01:35:14,371 --> 01:35:16,455
+'We must play beyond
+their expectation.'
+
+1850
+01:35:16,746 --> 01:35:19,288
+'They must be horrified at
+every twist we create.'
+
+1851
+01:35:22,797 --> 01:35:23,896
+Stop.
+
+1852
+01:35:23,976 --> 01:35:25,081
+'Step two.'
+
+1853
+01:35:25,306 --> 01:35:29,657
+'Lure the lone wolf into our trap.'
+- Catch him!
+
+1854
+01:35:29,913 --> 01:35:32,144
+'They come unaware of the trap,'
+
+1855
+01:35:32,502 --> 01:35:34,985
+'that is set by the one and
+only Kerala Police.'
+
+1856
+01:35:35,441 --> 01:35:38,205
+'Does anyone think that the
+Kerala police is worthless?'
+
+1857
+01:35:47,996 --> 01:35:49,012
+Sir, Mark 2.
+
+1858
+01:35:49,092 --> 01:35:51,122
+I'm at Mark 2, come
+with the vehicle.
+
+1859
+01:35:51,869 --> 01:35:53,066
+Catch him.
+
+1860
+01:35:53,146 --> 01:35:57,163
+Get in, you swine. Take him in.
+
+1861
+01:35:57,243 --> 01:35:59,830
+Take the vehicle, move.
+
+1862
+01:36:00,900 --> 01:36:02,999
+Punch him!
+- Tie him up.
+
+1863
+01:36:03,079 --> 01:36:03,917
+Stay still, rascal!
+
+1864
+01:36:03,997 --> 01:36:05,792
+Sir, Antony has not gotten in.
+
+1865
+01:36:06,352 --> 01:36:07,621
+He will manage himself.
+
+1866
+01:36:07,701 --> 01:36:09,079
+Don't stop the vehicle.
+Go fast.
+
+1867
+01:36:09,159 --> 01:36:11,613
+Sir, stop the vehicle.
+
+1868
+01:36:14,096 --> 01:36:16,580
+Hey Dasan... Open the door.
+
+1869
+01:36:17,529 --> 01:36:19,535
+Open the door!
+- Anthony!
+
+1870
+01:36:20,353 --> 01:36:21,348
+Get in! Come on!
+
+1871
+01:36:21,828 --> 01:36:24,077
+Get him inside the van.
+
+1872
+01:36:24,157 --> 01:36:27,908
+Get into the van!
+- Antony, come on...
+
+1873
+01:36:28,145 --> 01:36:30,956
+Come on! Get in!
+
+1874
+01:36:31,996 --> 01:36:33,461
+Let's go, sir.
+
+1875
+01:36:33,991 --> 01:36:37,040
+You scoundrel! Come this side.
+
+1876
+01:36:39,892 --> 01:36:41,892
+'Life just taught now is a lesson.'
+
+1877
+01:36:42,565 --> 01:36:44,690
+'The moment you decide
+not to give up...'
+
+1878
+01:36:45,106 --> 01:36:46,356
+'is the moment you start winning.'
+
+1879
+01:36:47,373 --> 01:36:50,720
+'The society measures success
+of a person by his job.'
+
+1880
+01:36:51,827 --> 01:36:55,563
+'When rich or poor comes
+to Cyber Cell and cry...'
+
+1881
+01:36:55,969 --> 01:36:57,594
+'There is one question to which
+we don't get an answer.'
+
+1882
+01:36:58,321 --> 01:36:59,584
+'What is right among these?'
+
+1883
+01:37:08,182 --> 01:37:10,932
+The Cyber Forensic report
+came last week.
+
+1884
+01:37:11,317 --> 01:37:13,598
+It's in Janaki's favour.
+
+1885
+01:37:14,098 --> 01:37:17,640
+But... Since it was not acceptable
+to her daughter and family...
+
+1886
+01:37:18,052 --> 01:37:20,973
+When I saw her crying in front
+of our sirs...
+
+1887
+01:37:21,807 --> 01:37:22,935
+I felt really bad.
+
+1888
+01:37:23,015 --> 01:37:26,432
+That's why I decided to come
+and say it, though it's late.
+
+1889
+01:37:27,807 --> 01:37:29,685
+Dear girl, that video is not hers.
+
+1890
+01:37:29,765 --> 01:37:32,140
+I don't want to hear anything.
+- Just a minute, let me say a thing.
+
+1891
+01:37:35,057 --> 01:37:36,598
+It was a few years back.
+
+1892
+01:37:37,436 --> 01:37:40,473
+A few girls from St. Teresa's
+college went on a trip to Ooty.
+
+1893
+01:37:41,265 --> 01:37:43,432
+There was a guy there,
+a room boy...
+
+1894
+01:37:44,596 --> 01:37:46,352
+He took the video of
+a girl while bathing,
+
+1895
+01:37:46,432 --> 01:37:48,557
+using a candid camera,
+and made it viral.
+
+1896
+01:37:49,515 --> 01:37:52,682
+There was no WhatsApp
+or Facebook back then.
+
+1897
+01:37:53,307 --> 01:37:56,515
+Still, people watched it on their
+small phones.
+
+1898
+01:37:57,598 --> 01:37:58,973
+It was in 2010.
+
+1899
+01:37:59,057 --> 01:38:00,432
+You would have read it in
+newspapers.
+
+1900
+01:38:01,399 --> 01:38:02,818
+That girl...
+
+1901
+01:38:03,147 --> 01:38:05,283
+She jumped from
+the college building.
+
+1902
+01:38:06,432 --> 01:38:07,515
+She died.
+
+1903
+01:38:10,039 --> 01:38:11,509
+She was my sister.
+
+1904
+01:38:12,616 --> 01:38:13,948
+My elder sister.
+
+1905
+01:38:17,382 --> 01:38:18,757
+Dear girl,
+
+1906
+01:38:19,172 --> 01:38:21,848
+I know the pain of
+being left alone.
+
+1907
+01:38:23,211 --> 01:38:25,269
+You should call your mom back.
+
+1908
+01:38:27,098 --> 01:38:28,468
+I'm leaving.
+
+1909
+01:38:56,057 --> 01:38:57,973
+The tea is awesome.
+Have it.
+
+1910
+01:38:59,343 --> 01:39:00,810
+Where were you? How long
+have I been calling you?
+
+1911
+01:39:00,890 --> 01:39:02,223
+Why aren't you picking my calls?
+
+1912
+01:39:02,973 --> 01:39:04,393
+I want to tell you something.
+
+1913
+01:39:04,473 --> 01:39:05,477
+What is it?
+
+1914
+01:39:05,557 --> 01:39:06,935
+Did anyone else trick you?
+
+1915
+01:39:07,099 --> 01:39:08,515
+How much money did you lose?
+
+1916
+01:39:10,518 --> 01:39:11,973
+A marriage proposal has come for me.
+
+1917
+01:39:14,765 --> 01:39:15,807
+He is in Canada.
+
+1918
+01:39:17,596 --> 01:39:18,848
+He is older to me.
+
+1919
+01:39:19,187 --> 01:39:22,659
+Still, they have promised
+me a nursing job there.
+
+1920
+01:39:31,099 --> 01:39:33,057
+I had spoken about
+you in my family.
+
+1921
+01:39:35,473 --> 01:39:39,807
+But, my dad is not able to accept a
+guy with a temporary job.
+
+1922
+01:39:52,098 --> 01:39:53,683
+What should I do now?
+
+1923
+01:39:54,307 --> 01:39:57,661
+You do whatever you
+feel is good for you.
+
+1924
+01:40:12,543 --> 01:40:13,835
+Where is your better half?
+
+1925
+01:40:15,418 --> 01:40:16,543
+Your friend!
+
+1926
+01:40:17,245 --> 01:40:18,085
+I don't know, sir.
+
+1927
+01:40:18,585 --> 01:40:19,543
+What did you say?
+
+1928
+01:40:19,764 --> 01:40:20,901
+I don't know, sir.
+
+1929
+01:40:20,981 --> 01:40:22,130
+How could you give it a miss?
+
+1930
+01:40:22,260 --> 01:40:23,755
+Is it at your whims and fancies,
+you come for the duty shift?
+
+1931
+01:40:23,835 --> 01:40:25,418
+Just good at buttering
+your seniors.
+
+1932
+01:40:26,085 --> 01:40:27,421
+A bunch of temporary-beggars.
+
+1933
+01:40:27,501 --> 01:40:29,543
+And there are a few officers
+to entertain them.
+
+1934
+01:40:29,668 --> 01:40:31,963
+Sir, if at all you want to say
+something, say it on my face.
+
+1935
+01:40:32,118 --> 01:40:33,626
+Don't mutter, instead.
+
+1936
+01:40:33,960 --> 01:40:35,043
+What?
+
+1937
+01:40:35,626 --> 01:40:36,626
+What did you say?
+
+1938
+01:40:37,460 --> 01:40:40,085
+If I tell it on your face,
+will you f**k me up?
+
+1939
+01:40:40,444 --> 01:40:41,505
+Yes, I might do it.
+
+1940
+01:40:41,585 --> 01:40:43,088
+It's been some time since you
+have been at odds with us.
+
+1941
+01:40:43,168 --> 01:40:44,296
+What are you itching
+for when you see us?
+
+1942
+01:40:44,376 --> 01:40:46,088
+You don't have to stop my itching.
+Who the hell are you?
+
+1943
+01:40:46,168 --> 01:40:48,171
+It's been some time... Why
+do you always scorn us?
+
+1944
+01:40:48,251 --> 01:40:49,630
+My office, I will talk
+whatever I wish.
+
+1945
+01:40:49,710 --> 01:40:51,255
+What will you talk?
+- Pass the test and get the job
+
+1946
+01:40:51,335 --> 01:40:53,210
+instead of wooing the officers, and...
+- Basheer.
+
+1947
+01:40:54,251 --> 01:40:55,293
+Stop it.
+
+1948
+01:40:55,373 --> 01:40:57,335
+This is not a place to
+massage your ego.
+
+1949
+01:40:57,460 --> 01:40:58,671
+This is the Cyber Cell.
+- He is messing with me.
+
+1950
+01:40:58,751 --> 01:41:00,460
+Enough, stop it.
+I told you already.
+
+1951
+01:41:01,043 --> 01:41:02,251
+Antony, you come here.
+
+1952
+01:41:03,585 --> 01:41:05,751
+I have saved another
+ploy for you.
+
+1953
+01:41:09,960 --> 01:41:11,126
+What's all these, dear?
+
+1954
+01:41:11,501 --> 01:41:13,126
+Sir, who are we in here?
+
+1955
+01:41:13,210 --> 01:41:14,668
+What we are doing is
+also, a job, right?
+
+1956
+01:41:15,043 --> 01:41:17,338
+Why is he showing partiality
+in the workplace?
+
+1957
+01:41:17,418 --> 01:41:18,418
+Sit here.
+
+1958
+01:41:21,543 --> 01:41:23,168
+Dear, what's your problem?
+
+1959
+01:41:24,668 --> 01:41:25,876
+I'm fed up, sir.
+
+1960
+01:41:26,460 --> 01:41:27,921
+When she found a guy in Canada,
+
+1961
+01:41:28,001 --> 01:41:29,668
+I became 'temporary' for her.
+
+1962
+01:41:31,460 --> 01:41:33,043
+This has been my life...
+
+1963
+01:41:33,460 --> 01:41:34,876
+I have been 'temporary'
+everywhere.
+
+1964
+01:41:35,251 --> 01:41:37,168
+Dear, this is not the actual life.
+
+1965
+01:41:37,418 --> 01:41:38,751
+This is not love, either.
+
+1966
+01:41:39,259 --> 01:41:40,960
+Let people who want
+to go just go.
+
+1967
+01:41:41,562 --> 01:41:43,085
+How old are you?
+
+1968
+01:41:44,001 --> 01:41:45,001
+Twenty five years!
+
+1969
+01:41:45,376 --> 01:41:49,793
+Whatever you see from your 15-25
+years of age would be temporary.
+
+1970
+01:41:50,751 --> 01:41:55,043
+You know, I was 26 years old when I
+wrote my first PSC test.
+
+1971
+01:41:55,710 --> 01:41:57,338
+In the examination hall,
+
+1972
+01:41:57,418 --> 01:42:01,210
+there was a girl next to my bench,
+writing the examination.
+
+1973
+01:42:01,876 --> 01:42:03,168
+A very nice girl.
+
+1974
+01:42:04,210 --> 01:42:06,210
+I kept looking at her
+for a long time.
+
+1975
+01:42:06,460 --> 01:42:07,682
+She was doing a lot
+of mental calculation,
+
+1976
+01:42:07,762 --> 01:42:09,081
+and writing so seriously.
+
+1977
+01:42:09,585 --> 01:42:11,338
+I prayed in the hall,
+
+1978
+01:42:11,418 --> 01:42:13,668
+that if at all I marry,
+I must marry a girl like her.
+
+1979
+01:42:15,126 --> 01:42:18,630
+After the examination,
+I waited for her in the verandah.
+
+1980
+01:42:18,710 --> 01:42:21,251
+Just to see her, to talk to her...
+
+1981
+01:42:22,338 --> 01:42:24,751
+Can you imagine what I saw?
+
+1982
+01:42:25,876 --> 01:42:28,126
+Her dad was coming out,
+carrying her all by himself.
+
+1983
+01:42:29,335 --> 01:42:31,727
+I realised her lower
+body is paralysed,
+
+1984
+01:42:31,807 --> 01:42:33,001
+I felt a respect for her.
+
+1985
+01:42:33,668 --> 01:42:35,460
+That respect is what
+is called love.
+
+1986
+01:42:40,876 --> 01:42:42,088
+Joy, did you leave the office?
+
+1987
+01:42:42,168 --> 01:42:43,755
+No, I haven't left yet.
+
+1988
+01:42:43,835 --> 01:42:44,880
+Did you buy Mom's medicine?
+
+1989
+01:42:44,960 --> 01:42:46,338
+I will come only after
+buying the medicine.
+
+1990
+01:42:46,418 --> 01:42:47,463
+Do you know the name of
+the medicine?
+
+1991
+01:42:47,543 --> 01:42:49,338
+That's for mom to eat
+tonight, right? - 'Yes.'
+
+1992
+01:42:49,418 --> 01:42:50,671
+Has mom slept?
+- 'Have you taken the prescription?'
+
+1993
+01:42:50,751 --> 01:42:51,880
+No, I have the prescription with me.
+
+1994
+01:42:51,960 --> 01:42:54,505
+'Why do you make it late?'
+- I got tied up talking to him.
+
+1995
+01:42:54,585 --> 01:42:56,171
+'Don't get too late, okay?'
+
+1996
+01:42:56,251 --> 01:42:57,720
+I'm leaving.
+- 'Okay.'
+
+1997
+01:42:57,918 --> 01:42:59,046
+I'm leaving, okay?
+- 'Did you eat anything?'
+
+1998
+01:42:59,126 --> 01:43:00,626
+No, I'll eat only after
+coming home.
+
+1999
+01:43:01,126 --> 01:43:02,043
+Okay, then.
+
+2000
+01:43:04,101 --> 01:43:06,626
+Antony, did you eat anything?
+
+2001
+01:43:07,210 --> 01:43:08,509
+No, sir I will eat.
+
+2002
+01:43:08,794 --> 01:43:10,755
+I'll order it for you.
+Eat first, and then start your duty.
+
+2003
+01:43:10,835 --> 01:43:11,751
+Good night.
+
+2004
+01:43:23,321 --> 01:43:24,526
+'Honey, did you eat anything?'
+
+2005
+01:43:24,606 --> 01:43:26,171
+No, mom, I just got home.
+
+2006
+01:43:26,251 --> 01:43:28,242
+'You should have cooked something?'
+
+2007
+01:43:28,322 --> 01:43:30,005
+I'm too tired to cook now.
+
+2008
+01:43:30,085 --> 01:43:31,255
+I ordered food.
+
+2009
+01:43:31,335 --> 01:43:33,626
+'Listen, you and Alby will come
+on Saturday, right?'
+
+2010
+01:43:33,793 --> 01:43:35,630
+Let me see if we can
+come on Saturday.
+
+2011
+01:43:35,710 --> 01:43:38,001
+Alby's leave is still not confirmed.
+
+2012
+01:43:38,918 --> 01:43:40,088
+'What's wrong?'
+
+2013
+01:43:40,168 --> 01:43:41,463
+A cockroach jumped out
+from the fridge.
+
+2014
+01:43:41,543 --> 01:43:42,588
+'Oh, is that all?'
+
+2015
+01:43:42,959 --> 01:43:43,880
+I got scared.
+
+2016
+01:43:43,960 --> 01:43:46,543
+'Grandpa was telling me about
+Ancy's marriage.'
+
+2017
+01:43:46,960 --> 01:43:48,710
+'Most probably, it will be conducted
+before Easter.'
+
+2018
+01:43:49,001 --> 01:43:50,376
+'Is it Alby's time home?'
+
+2019
+01:43:52,329 --> 01:43:54,588
+He told me that
+he would be late today.
+
+2020
+01:43:54,668 --> 01:43:58,210
+'Dear, when Alby comes, remind
+him of our LIC thing.'
+
+2021
+01:43:58,918 --> 01:44:00,796
+Shucks! One minute mom...
+I'll call you back.
+
+2022
+01:44:00,876 --> 01:44:02,835
+'What happened?'
+- Our electricity went out.
+
+2023
+01:44:51,906 --> 01:44:53,073
+'Control Bravo 18.'
+
+2024
+01:44:53,489 --> 01:44:55,198
+'Bravo 18 control answering, sir.'
+
+2025
+01:44:56,328 --> 01:44:59,781
+'Can you tell us the exact location
+where the incident happened?'
+
+2026
+01:45:00,155 --> 01:45:02,839
+'Sir, opposite Chaitram
+Textiles, Irumbanam.'
+
+2027
+01:45:03,102 --> 01:45:04,673
+'On the way to the colony,'
+
+2028
+01:45:04,753 --> 01:45:06,561
+'close to the flat seen
+on the right side.'
+
+2029
+01:45:06,641 --> 01:45:08,070
+'The guards are
+waiting over there. '
+
+2030
+01:45:09,150 --> 01:45:10,156
+Sir.
+
+2031
+01:45:10,710 --> 01:45:11,734
+'You must do something.'
+
+2032
+01:45:11,814 --> 01:45:13,580
+'You must locate yourself so
+that none of their folks,'
+
+2033
+01:45:13,660 --> 01:45:16,020
+'enter the room where
+the incident has happened.'
+
+2034
+01:45:16,100 --> 01:45:17,088
+What's the status?
+
+2035
+01:45:17,168 --> 01:45:18,870
+The inquiry is on.
+- What?
+
+2036
+01:45:19,274 --> 01:45:20,725
+The inquiry is on.
+
+2037
+01:45:23,769 --> 01:45:25,685
+Who are you?
+- My name is Johnson.
+
+2038
+01:45:26,886 --> 01:45:28,136
+Which flat do you occupy?
+
+2039
+01:45:28,345 --> 01:45:29,845
+I'm the care taker in here.
+
+2040
+01:45:30,636 --> 01:45:31,928
+Take out the register.
+
+2041
+01:45:40,511 --> 01:45:41,553
+Hey, there is no recording in it?
+
+2042
+01:45:41,633 --> 01:45:43,598
+Usually, no one from
+outside comes here.
+
+2043
+01:45:43,678 --> 01:45:45,223
+So, is the guy who came just
+now, your acquaintance?
+
+2044
+01:45:45,303 --> 01:45:46,261
+Oh, my Gosh!
+
+2045
+01:45:49,178 --> 01:45:50,511
+That's not it, sir.
+
+2046
+01:45:50,720 --> 01:45:52,720
+What is your name?
+- Sunil.
+
+2047
+01:45:53,198 --> 01:45:54,681
+What?
+- Sunil.
+
+2048
+01:45:54,761 --> 01:45:55,723
+Where's your house?
+
+2049
+01:45:55,803 --> 01:45:57,220
+At Irumbaram, sir.
+
+2050
+01:45:57,511 --> 01:45:58,390
+Where in Irumbaram?
+
+2051
+01:45:58,470 --> 01:46:00,428
+Under... Under the bridge.
+
+2052
+01:46:01,052 --> 01:46:02,390
+How long have you been here?
+
+2053
+01:46:02,470 --> 01:46:05,015
+Around... around four years.
+
+2054
+01:46:05,095 --> 01:46:06,265
+Who is Joseph?
+
+2055
+01:46:06,345 --> 01:46:07,386
+It's me, sir.
+
+2056
+01:46:11,636 --> 01:46:12,848
+When did your duty get over?
+
+2057
+01:46:12,928 --> 01:46:14,306
+At 9 o'clock, Sir.
+
+2058
+01:46:14,386 --> 01:46:15,928
+I left early today.
+
+2059
+01:46:16,011 --> 01:46:18,681
+My wife had called me saying
+our kid was sick.
+
+2060
+01:46:18,761 --> 01:46:20,553
+That's why I left home early.
+
+2061
+01:46:22,595 --> 01:46:23,928
+When did you get
+into your duty?
+
+2062
+01:46:25,620 --> 01:46:27,265
+I... I got late, sir.
+
+2063
+01:46:27,345 --> 01:46:28,761
+What time, I'm asking.
+
+2064
+01:46:29,398 --> 01:46:31,678
+Might be around... 11 o'clock.
+
+2065
+01:46:33,770 --> 01:46:36,470
+So, you knew that there would be
+no one here after 9 o'clock.
+
+2066
+01:46:36,928 --> 01:46:38,556
+Geez! That's not it.
+
+2067
+01:46:38,636 --> 01:46:39,803
+That's not it, sir.
+- Then?
+
+2068
+01:46:40,053 --> 01:46:41,261
+I mean...
+
+2069
+01:46:41,579 --> 01:46:43,598
+Hey, are you drunk?
+- No, sir.
+
+2070
+01:46:43,678 --> 01:46:44,806
+You come with me.
+Let me ask you...
+
+2071
+01:46:44,886 --> 01:46:46,261
+I'm not drunk, sir.
+
+2072
+01:46:47,470 --> 01:46:48,678
+Joseph.
+
+2073
+01:46:48,761 --> 01:46:50,553
+Is it your church name?
+
+2074
+01:46:50,822 --> 01:46:51,806
+Yes, sir.
+
+2075
+01:46:51,886 --> 01:46:54,261
+What happened to the generator here?
+- It gets busted, off and on.
+
+2076
+01:46:55,095 --> 01:46:56,306
+Don't you have an association here?
+
+2077
+01:46:56,386 --> 01:46:57,845
+Yes, sir. He is the secretary.
+
+2078
+01:46:58,267 --> 01:47:00,178
+What is your name?
+- My name's Paul.
+
+2079
+01:47:01,095 --> 01:47:03,098
+Who are you?
+- The Treasurer.
+
+2080
+01:47:03,178 --> 01:47:04,803
+Name?
+- Ashley.
+
+2081
+01:47:05,595 --> 01:47:06,935
+Who is the lady's neighbour?
+
+2082
+01:47:07,015 --> 01:47:08,220
+It's him.
+- It's me.
+
+2083
+01:47:09,970 --> 01:47:11,431
+Where were you when
+the incident took place?
+
+2084
+01:47:11,511 --> 01:47:14,053
+I was sleeping in my flat.
+Where else am I supposed to go?
+
+2085
+01:47:14,511 --> 01:47:15,428
+Smart!
+
+2086
+01:47:15,508 --> 01:47:18,011
+Hey, you need not ask questions,
+just answers will do.
+
+2087
+01:47:18,373 --> 01:47:19,556
+What happened to the generator?
+
+2088
+01:47:19,636 --> 01:47:20,678
+The diesel got over.
+
+2089
+01:47:20,970 --> 01:47:23,056
+We have sent someone to buy
+diesel, sir. He will come soon.
+
+2090
+01:47:23,136 --> 01:47:24,803
+Did you take the CCTV
+footage in here?
+
+2091
+01:47:24,970 --> 01:47:26,348
+They have CCTV's.
+
+2092
+01:47:26,428 --> 01:47:27,845
+But none of them are working.
+
+2093
+01:47:29,838 --> 01:47:31,848
+No generator, no CCTV...
+
+2094
+01:47:31,928 --> 01:47:33,220
+What association...
+
+2095
+01:47:34,511 --> 01:47:36,720
+Thank God!
+You, at least, have a generator.
+
+2096
+01:47:37,261 --> 01:47:39,265
+Allow these people to go only
+after collecting their details.
+
+2097
+01:47:39,345 --> 01:47:41,386
+Why do you want my details?
+What wrong did I do?
+
+2098
+01:47:42,886 --> 01:47:44,973
+Something bizarre happens in
+your flat, on your floor,
+
+2099
+01:47:45,053 --> 01:47:46,928
+and you, the secretary, knows
+nothing about it.
+
+2100
+01:47:48,011 --> 01:47:49,053
+Do you get it?
+
+2101
+01:47:51,178 --> 01:47:52,636
+You are not the
+Chief Secretary, right?
+
+2102
+01:47:53,511 --> 01:47:54,491
+My details needed?
+
+2103
+01:47:54,571 --> 01:47:56,053
+Yes, give it to them in
+writing and then leave.
+
+2104
+01:47:58,946 --> 01:48:00,011
+What's up?
+
+2105
+01:48:01,595 --> 01:48:03,571
+Sir, there's no rape attempt
+or anything.
+
+2106
+01:48:03,651 --> 01:48:05,053
+The motive is theft.
+
+2107
+01:48:05,464 --> 01:48:07,636
+The lady's jewellery
+has been stolen.
+
+2108
+01:48:08,177 --> 01:48:09,761
+Sir, here's the lift.
+- Let's walk up the stairs.
+
+2109
+01:48:10,136 --> 01:48:11,390
+How's the lady now?
+
+2110
+01:48:11,470 --> 01:48:13,806
+They admitted her in
+the Medical Trust hospital,
+
+2111
+01:48:13,886 --> 01:48:16,261
+as she has a blood clot behind
+her head from the hit.
+
+2112
+01:48:16,500 --> 01:48:17,738
+Did you inform her husband?
+
+2113
+01:48:17,818 --> 01:48:21,220
+It's her husband and her friends
+who admitted her to the hospital.
+
+2114
+01:48:21,636 --> 01:48:23,307
+Are any of our people
+accompanying them? - Yes, sir.
+
+2115
+01:48:23,387 --> 01:48:25,181
+Promod and Rajesh are
+there in the hospital.
+
+2116
+01:48:25,261 --> 01:48:27,225
+Ask them to update us
+with every single thing.
+
+2117
+01:48:27,305 --> 01:48:28,235
+Okay, sir.
+
+2118
+01:48:29,383 --> 01:48:30,428
+Sir, it's over there.
+
+2119
+01:48:41,636 --> 01:48:43,636
+I should never see you again
+wearing this helmet of yours.
+
+2120
+01:48:43,845 --> 01:48:46,553
+If you repeat this, I'll call your
+customer care and give a complaint.
+
+2121
+01:49:01,845 --> 01:49:02,886
+It's over there, sir.
+
+2122
+01:49:09,389 --> 01:49:11,223
+Sir, it's from here she
+was attacked first.
+
+2123
+01:49:11,303 --> 01:49:13,348
+They must have dragged her out
+this way...
+
+2124
+01:49:13,428 --> 01:49:15,190
+A heavy tool must have been
+employed to hit her.
+
+2125
+01:49:15,270 --> 01:49:16,660
+That's why a lot of blood
+has been lost.
+
+2126
+01:49:16,740 --> 01:49:18,009
+We have noted it in the report.
+
+2127
+01:49:21,185 --> 01:49:23,765
+Have you got any clue regarding
+the weapon used for the crime?
+
+2128
+01:49:23,845 --> 01:49:25,945
+Sir, it should be something
+like an iron rod.
+
+2129
+01:49:27,654 --> 01:49:29,654
+Okay, I'm here at the crime spot.
+
+2130
+01:49:30,011 --> 01:49:31,803
+Yes, yes, sir is here.
+
+2131
+01:49:31,928 --> 01:49:33,261
+I'll tell him.
+
+2132
+01:49:34,489 --> 01:49:36,595
+Sir, there was a call
+from the hospital.
+
+2133
+01:49:36,745 --> 01:49:38,177
+He is on ventilator.
+- Is it?
+
+2134
+01:49:38,715 --> 01:49:40,791
+Did you collect the left impression?
+
+2135
+01:49:41,154 --> 01:49:43,187
+Sure! You stay there.
+
+2136
+01:49:43,542 --> 01:49:45,220
+Are the ridges clear?
+- No, Sir.
+
+2137
+01:49:45,756 --> 01:49:46,932
+What if we look for
+any vertical pattern?
+
+2138
+01:49:47,012 --> 01:49:48,845
+He has stolen everything,
+he could take.
+
+2139
+01:49:49,042 --> 01:49:50,720
+We have collected the
+finger prints.
+
+2140
+01:49:55,598 --> 01:49:57,181
+What about her husband's details?
+
+2141
+01:49:57,261 --> 01:49:59,636
+Alby, he's working in Info-park.
+
+2142
+01:50:09,738 --> 01:50:10,799
+'Sruthi, tell me.'
+
+2143
+01:50:10,879 --> 01:50:11,823
+Alby, did you leave from office?
+
+2144
+01:50:11,903 --> 01:50:14,072
+'No, I told you, right?
+That project of mine...'
+
+2145
+01:50:14,272 --> 01:50:15,116
+'What's it, dear?'
+
+2146
+01:50:16,420 --> 01:50:17,962
+Can you come over here fast?
+
+2147
+01:50:18,042 --> 01:50:19,336
+'What happened?
+Tell me the matter.'
+
+2148
+01:50:19,482 --> 01:50:20,845
+Here, the electricity has gone out.
+
+2149
+01:50:20,925 --> 01:50:22,596
+Why can't they switch on
+the generator?
+
+2150
+01:50:22,676 --> 01:50:24,212
+This has become a routine
+these days.
+
+2151
+01:50:24,830 --> 01:50:26,465
+'Dear Sruthi, what's the use of
+calling me and saying all these?'
+
+2152
+01:50:26,545 --> 01:50:28,033
+'You call the security,
+and tell the matter.'
+
+2153
+01:50:28,113 --> 01:50:29,840
+I don't know...
+I'm getting scared.
+
+2154
+01:50:29,920 --> 01:50:31,023
+'What for?'
+
+2155
+01:50:31,103 --> 01:50:32,711
+'You have food and go to bed.
+I'll be there soon.'
+
+2156
+01:50:32,897 --> 01:50:34,965
+It's for saying that I called you.
+
+2157
+01:50:35,045 --> 01:50:36,712
+I had ordered food online.
+
+2158
+01:50:36,960 --> 01:50:39,379
+You should have seen
+the aggression of the delivery boy.
+
+2159
+01:50:39,459 --> 01:50:40,928
+'What happened?'
+- He was wearing a helmet.
+
+2160
+01:50:41,008 --> 01:50:42,924
+Haven't we told the association
+several times,
+
+2161
+01:50:43,004 --> 01:50:44,543
+not to let people
+wearing helmet inside?
+
+2162
+01:50:44,623 --> 01:50:45,989
+'Dear, isn't the security down?'
+
+2163
+01:50:46,272 --> 01:50:48,465
+'Sunil or Joseph
+who's on duty today?'
+
+2164
+01:50:48,545 --> 01:50:49,629
+Let me check.
+
+2165
+01:50:50,045 --> 01:50:51,170
+Don't hang up.
+
+2166
+01:50:51,379 --> 01:50:52,587
+'No, I won't.'
+
+2167
+01:50:53,170 --> 01:50:54,587
+'Why are you so tense?'
+
+2168
+01:50:57,170 --> 01:50:58,879
+I'll call you back, okay?
+
+2169
+01:50:59,087 --> 01:51:01,056
+'What's the problem?'
+- He's not gone until now.
+
+2170
+01:51:01,136 --> 01:51:02,462
+'Who are you talking about?'
+
+2171
+01:51:09,795 --> 01:51:10,837
+Sir.
+
+2172
+01:51:12,795 --> 01:51:14,587
+Sir, we found a phone.
+
+2173
+01:51:16,295 --> 01:51:17,587
+'Control Bravo 18.'
+
+2174
+01:51:17,879 --> 01:51:19,837
+'Bravo control answering,
+Sir. Over!'
+
+2175
+01:51:20,166 --> 01:51:23,813
+'We have found a mobile phone from
+the location, quite suspiciously.'
+
+2176
+01:51:24,021 --> 01:51:27,132
+'Please send someone from
+Cyber Cell to the location,'
+
+2177
+01:51:27,212 --> 01:51:30,165
+'for collecting the
+details of the same.'
+
+2178
+01:51:30,435 --> 01:51:32,116
+'Control answering clear, sir.
+Over!'
+
+2179
+01:51:41,972 --> 01:51:43,420
+How long since I asked you here?
+
+2180
+01:51:44,629 --> 01:51:45,504
+Sir...
+
+2181
+01:51:46,832 --> 01:51:48,129
+For a case like this,
+
+2182
+01:51:48,492 --> 01:51:51,038
+don't you have permanent
+employees in the Cyber Cell?
+
+2183
+01:51:53,108 --> 01:51:55,795
+Sir, the phone has been switched on.
+
+2184
+01:51:58,406 --> 01:51:59,879
+Do I have to open the phone-lock?
+
+2185
+01:52:00,958 --> 01:52:02,087
+Sorry, sir.
+
+2186
+01:52:09,382 --> 01:52:11,207
+What an arrogant man!
+
+2187
+01:52:11,423 --> 01:52:14,960
+Let's open the phone-lock.
+
+2188
+01:52:19,864 --> 01:52:21,551
+Dude, it's not...
+
+2189
+01:52:28,196 --> 01:52:29,467
+N...MM...
+
+2190
+01:53:11,045 --> 01:53:11,962
+Hello.
+
+2191
+01:53:12,379 --> 01:53:13,837
+Alby, have you reached?
+
+2192
+01:53:15,212 --> 01:53:16,337
+Oh, friends are there too?
+
+2193
+01:53:17,587 --> 01:53:18,754
+Should I come down?
+
+2194
+01:53:19,920 --> 01:53:22,129
+Food is here... but...
+we will share anyway...
+
+2195
+01:53:32,888 --> 01:53:34,073
+Sir.
+
+2196
+01:53:35,420 --> 01:53:37,920
+We have unlocked the phone.
+
+2197
+01:53:41,045 --> 01:53:43,379
+Sir, we have some findings.
+
+2198
+01:53:43,545 --> 01:53:44,920
+Shall we tell?
+
+2199
+01:53:45,879 --> 01:53:47,045
+Findings?
+
+2200
+01:53:47,337 --> 01:53:48,382
+What findings?
+
+2201
+01:53:48,462 --> 01:53:50,715
+Sir, the lady spoke to her mom,
+
+2202
+01:53:50,795 --> 01:53:53,465
+from 9.57 to 10.07 pm.
+
+2203
+01:53:53,545 --> 01:53:55,254
+That has been recorded
+in the phone.
+
+2204
+01:53:56,837 --> 01:53:59,920
+She says that she has
+ordered food online.
+
+2205
+01:54:01,141 --> 01:54:03,174
+That is when the power goes.
+
+2206
+01:54:04,748 --> 01:54:07,382
+Sir, after that... at 10.12 pm...
+
+2207
+01:54:07,462 --> 01:54:09,795
+she talked to her husband.
+
+2208
+01:54:09,954 --> 01:54:11,407
+That too has been recorded
+in the phone.
+
+2209
+01:54:12,462 --> 01:54:15,137
+'Why do you feel scared? Have
+dinner and go to sleep. I'll come.'
+
+2210
+01:54:15,217 --> 01:54:19,069
+'Honey, I called to talk to you
+about it. I ordered food online.'
+
+2211
+01:54:19,149 --> 01:54:22,215
+'You must have seen the
+delivery guy. - What's wrong?
+
+2212
+01:54:22,295 --> 01:54:25,150
+If our calculation is right...
+
+2213
+01:54:25,462 --> 01:54:29,205
+The theft took place between
+10.20 - 10.30 pm,
+
+2214
+01:54:31,658 --> 01:54:33,507
+Find out who made
+the food delivery here,
+
+2215
+01:54:33,587 --> 01:54:35,379
+and collect his details.
+- Sir.
+
+2216
+01:54:38,068 --> 01:54:39,587
+I'll take the delivery boy's number.
+
+2217
+01:54:41,684 --> 01:54:42,795
+Sanjiv sir.
+
+2218
+01:54:43,171 --> 01:54:45,215
+I'm calling from the crime-spot.
+
+2219
+01:54:45,407 --> 01:54:46,834
+I have sent you a number on WhatsApp.
+
+2220
+01:54:46,914 --> 01:54:48,254
+Can you get me the
+details of the same?
+
+2221
+01:54:48,504 --> 01:54:49,962
+I'll track it down, and
+call you soon.
+
+2222
+01:54:50,420 --> 01:54:53,087
+Sir, please take the network
+details of this number.
+
+2223
+01:54:58,962 --> 01:55:00,379
+Sajiv sir.
+- Antony.
+
+2224
+01:55:00,920 --> 01:55:03,465
+I have tracked down the details
+of the number you sent.
+
+2225
+01:55:03,545 --> 01:55:05,425
+The number is switched off
+right now.
+
+2226
+01:55:05,840 --> 01:55:07,930
+Can you at least
+send me the call list?
+
+2227
+01:55:08,010 --> 01:55:11,420
+'The suspect's phone
+is switched off.'
+
+2228
+01:55:11,879 --> 01:55:13,549
+'When we inquired about
+his history,'
+
+2229
+01:55:13,629 --> 01:55:15,504
+'it seems like he's involved
+in a few other crimes too.'
+
+2230
+01:55:15,941 --> 01:55:19,049
+'The last call he made to a
+number was at 11.15 pm.'
+
+2231
+01:55:19,129 --> 01:55:20,837
+'The present tower location
+of the number he called is,'
+
+2232
+01:55:21,186 --> 01:55:23,795
+'Angamaly-Aluva road.
+Sir, over!'
+
+2233
+01:55:25,442 --> 01:55:28,230
+Dear hubby, my head's
+aching like hell.
+
+2234
+01:55:28,310 --> 01:55:30,462
+A vehicle is following us.
+
+2235
+01:55:31,938 --> 01:55:33,422
+Is it a police vehicle, hubby?
+
+2236
+01:55:46,914 --> 01:55:48,504
+Come outside.
+- What is it, sir?
+
+2237
+01:55:48,907 --> 01:55:50,962
+Just get out.
+- What's the matter, sir?
+
+2238
+01:55:51,920 --> 01:55:54,174
+How are you related to Dany?
+
+2239
+01:55:54,254 --> 01:55:55,299
+Which Dany, sir?
+
+2240
+01:55:55,379 --> 01:55:56,257
+Which Dany?
+
+2241
+01:55:56,337 --> 01:55:59,174
+You have spoken to him twice
+in the last one hour.
+
+2242
+01:55:59,254 --> 01:56:00,712
+Also chatted on WhatsApp.
+
+2243
+01:56:03,442 --> 01:56:04,487
+Where is he right now?
+
+2244
+01:56:04,567 --> 01:56:06,795
+Sir, I guess, you got me wrong.
+
+2245
+01:56:07,212 --> 01:56:08,670
+I don't know this Dany.
+
+2246
+01:56:09,587 --> 01:56:10,712
+This question is not
+meant for you.
+
+2247
+01:56:13,178 --> 01:56:14,254
+Tell me, madam.
+
+2248
+01:56:14,853 --> 01:56:16,004
+Where is this Dany?
+
+2249
+01:56:18,587 --> 01:56:20,799
+Why is he always talking to you?
+
+2250
+01:56:20,879 --> 01:56:22,712
+I know him...
+
+2251
+01:56:22,837 --> 01:56:23,879
+How do you know him?
+
+2252
+01:56:24,216 --> 01:56:27,462
+He is a friend's brother.
+- Which friend?
+
+2253
+01:56:27,807 --> 01:56:28,882
+Kavitha David.
+
+2254
+01:56:28,962 --> 01:56:31,295
+She and I were batchmates
+in college.
+
+2255
+01:56:32,254 --> 01:56:35,337
+What's the affair between you
+and your batch mate's brother?
+
+2256
+01:56:35,420 --> 01:56:36,420
+Love?
+
+2257
+01:56:36,545 --> 01:56:38,003
+No, sir... No.
+
+2258
+01:56:38,083 --> 01:56:39,924
+Or any other extra
+curricular activities?
+
+2259
+01:56:40,004 --> 01:56:41,117
+It's nothing like that.
+
+2260
+01:56:41,197 --> 01:56:42,340
+Then?
+
+2261
+01:56:42,420 --> 01:56:45,087
+He messages
+and calls once in a while.
+
+2262
+01:56:45,645 --> 01:56:47,712
+We are friends.
+
+2263
+01:56:49,645 --> 01:56:50,799
+Okay.
+
+2264
+01:56:50,996 --> 01:56:53,004
+What did he tell you when he
+spoke to you for the last time?
+
+2265
+01:56:53,754 --> 01:56:58,332
+He asked me if I can book
+him a ticket to Mangalore.
+
+2266
+01:56:58,587 --> 01:56:59,863
+For what?
+- Just look for the train time.
+
+2267
+01:56:59,943 --> 01:57:01,410
+I just know that there's
+something wrong.
+
+2268
+01:57:01,490 --> 01:57:02,572
+And not the details...
+
+2269
+01:57:02,652 --> 01:57:04,049
+Did you book him the tickets?
+
+2270
+01:57:04,129 --> 01:57:05,125
+No, sir.
+
+2271
+01:57:05,205 --> 01:57:07,276
+He told he will go by bus.
+
+2272
+01:57:07,356 --> 01:57:10,465
+Sir, there's a Kollur-Mookambika bus
+from Ernakulam stand at 2.30.
+
+2273
+01:57:10,545 --> 01:57:12,030
+That goes via. Mangalore.
+
+2274
+01:57:42,795 --> 01:57:45,132
+Has the Mookambika bus going
+via Mangalore reached?
+
+2275
+01:57:45,212 --> 01:57:46,545
+No, sir. It's running late, today.
+
+2276
+01:57:46,856 --> 01:57:48,879
+How long will it take?
+- Another half an hour or more.
+
+2277
+01:57:59,754 --> 01:58:01,170
+Sir, he might have gone
+to the other side.
+
+2278
+01:58:06,212 --> 01:58:07,340
+Hey, what's your name?
+
+2279
+01:58:07,420 --> 01:58:09,379
+Sir, shall we check the CCTV
+footage here?
+
+2280
+01:58:10,087 --> 01:58:11,129
+Okay.
+
+2281
+01:58:23,837 --> 01:58:26,129
+Sir, is there an exit that side?
+Just show the lights there.
+
+2282
+01:58:26,212 --> 01:58:28,337
+The railway police is there.
+So, he won't go that way.
+
+2283
+01:58:48,254 --> 01:58:50,461
+Just show the Cam B.
+- Please zoom it.
+
+2284
+01:58:54,170 --> 01:58:56,011
+He's the one...
+- Wait, just pause.
+
+2285
+01:58:56,091 --> 01:58:57,754
+Yes, sir.
+
+2286
+01:58:57,837 --> 01:58:58,879
+See...
+
+2287
+01:58:59,539 --> 01:59:00,629
+Is he the one?
+
+2288
+01:59:01,117 --> 01:59:02,970
+Zoom it, please.
+- Dasan, we found him.
+
+2289
+01:59:03,050 --> 01:59:04,924
+Is he anywhere there?
+- No, sir.
+
+2290
+01:59:05,004 --> 01:59:07,295
+Sir, we found the guy.
+He is there.
+
+2291
+02:00:25,943 --> 02:00:26,985
+You are Dany, right?
+
+2292
+02:00:28,152 --> 02:00:29,155
+Let's go?
+
+2293
+02:00:29,235 --> 02:00:30,235
+What?
+
+2294
+02:00:33,402 --> 02:00:35,527
+Stop there.
+- Catch him.
+
+2295
+02:00:37,238 --> 02:00:39,995
+Hold him!
+- Sir, I have reformed now.
+
+2296
+02:00:40,075 --> 02:00:42,184
+Sir, I'm telling you. I'm not my
+old self.
+
+2297
+02:00:42,264 --> 02:00:44,377
+Sir, please listen to me.
+
+2298
+02:00:44,457 --> 02:00:47,537
+Let me go.
+- Stay quiet.
+
+2299
+02:00:47,617 --> 02:00:49,710
+Why did you catch me now?
+
+2300
+02:00:49,927 --> 02:00:52,776
+Sir, please don't...
+- You better confess...
+
+2301
+02:00:53,555 --> 02:00:56,371
+Sir, I don't know anything.
+
+2302
+02:00:58,039 --> 02:01:01,277
+Sir, I swear, I don't know anything.
+- Check his mobile, sir.
+
+2303
+02:01:01,649 --> 02:01:03,401
+I swear upon my mom,
+I don't know anything, sir.
+
+2304
+02:01:03,481 --> 02:01:04,905
+He knows everything,
+just ask him, sir.
+
+2305
+02:01:04,985 --> 02:01:07,081
+We have got proof confirming
+that you have done it.
+
+2306
+02:01:07,161 --> 02:01:09,447
+Don't try to make a
+fool out of us.
+
+2307
+02:01:09,527 --> 02:01:10,568
+Do you hear it?
+
+2308
+02:01:11,321 --> 02:01:13,163
+I don't know anything about it.
+
+2309
+02:01:13,243 --> 02:01:16,402
+We have got A-Z details of
+your chat with your aunt.
+
+2310
+02:01:18,318 --> 02:01:19,485
+Tell me the truth.
+
+2311
+02:01:20,402 --> 02:01:21,735
+Tell me.
+
+2312
+02:01:22,902 --> 02:01:24,193
+Tell me, you scumbag.
+
+2313
+02:01:24,485 --> 02:01:27,651
+I'll tell you everything.
+I'll say it...
+
+2314
+02:01:37,720 --> 02:01:40,700
+I had indeed gone to the
+flat to deliver food.
+
+2315
+02:01:40,783 --> 02:01:43,620
+But when I went there, I saw an
+ambulance and a huge crowd.
+
+2316
+02:01:43,700 --> 02:01:45,745
+When I asked a guy about it,
+he told me that,
+
+2317
+02:01:45,825 --> 02:01:47,578
+a lady from the flat,
+I had gone to,
+
+2318
+02:01:47,658 --> 02:01:49,245
+deliver food has been
+attacked by someone.
+
+2319
+02:01:49,325 --> 02:01:51,033
+So, I didn't stay there any longer.
+
+2320
+02:01:51,116 --> 02:01:53,866
+And, at the same time, I got a
+food order from Vennala.
+
+2321
+02:01:54,116 --> 02:01:57,408
+So, I went to Kakkanad, collected
+food, and went directly to Vennala.
+
+2322
+02:01:57,575 --> 02:01:59,450
+I go there often.
+
+2323
+02:01:59,575 --> 02:02:02,325
+I know the old couple over
+there very well.
+
+2324
+02:02:02,616 --> 02:02:06,033
+But when I went there,
+what I saw was...
+
+2325
+02:02:10,303 --> 02:02:11,219
+Madam.
+
+2326
+02:02:20,779 --> 02:02:22,108
+Madam.
+
+2327
+02:02:22,314 --> 02:02:26,284
+Trust me, sir!
+I don't know anything else.
+
+2328
+02:02:43,830 --> 02:02:44,955
+Get him out.
+
+2329
+02:02:45,455 --> 02:02:46,747
+Just get out, you...
+
+2330
+02:02:47,664 --> 02:02:48,527
+Get walking.
+
+2331
+02:02:48,607 --> 02:02:49,710
+Sir, please tell him.
+
+2332
+02:02:49,790 --> 02:02:50,831
+Sir.
+
+2333
+02:02:51,520 --> 02:02:53,145
+Sir, I don't know anything.
+
+2334
+02:02:57,312 --> 02:02:59,688
+Sir, please don't trap me in it.
+
+2335
+02:03:00,276 --> 02:03:01,312
+Sir.
+
+2336
+02:03:16,970 --> 02:03:17,857
+No, sir.
+
+2337
+02:03:17,937 --> 02:03:19,115
+She is dead.
+
+2338
+02:03:21,814 --> 02:03:23,284
+Sir, here he is.
+
+2339
+02:03:37,893 --> 02:03:41,271
+'Control Bravo Team!'
+- 'Control Bravo responding.'
+
+2340
+02:03:41,649 --> 02:03:45,581
+'The accused has confessed
+to murdering,'
+
+2341
+02:03:45,661 --> 02:03:50,353
+'an additional person in the second
+house from the church in Venella.'
+
+2342
+02:03:50,641 --> 02:03:52,976
+'Send the officer in-charge?'
+
+2343
+02:03:53,160 --> 02:03:54,760
+'Yes, sir.'
+
+2344
+02:03:54,933 --> 02:03:57,592
+'You mentioned the second
+house from the Church at Venella'
+
+2345
+02:03:57,672 --> 02:03:59,841
+'It's clear, sir. I'll inform.'
+- 'Control Bravo!'
+
+2346
+02:03:59,921 --> 02:04:02,793
+'We're sending two corpses
+recovered from Venella.'
+
+2347
+02:04:03,106 --> 02:04:05,204
+'Call me once you see it.'
+
+2348
+02:04:06,004 --> 02:04:07,355
+This is also a theft, sir.
+
+2349
+02:04:07,435 --> 02:04:10,328
+He has snatched the jewels
+from the old lady.
+
+2350
+02:04:10,674 --> 02:04:13,344
+It is definitely him.
+He's trying to fool us.
+
+2351
+02:04:13,424 --> 02:04:14,976
+Does he have any family
+or relatives here?
+
+2352
+02:04:15,056 --> 02:04:16,219
+Sir.
+- None, sir.
+
+2353
+02:04:16,299 --> 02:04:19,243
+The woman in the flat is dead, sir.
+Rayeesha called.
+
+2354
+02:04:24,478 --> 02:04:28,046
+We have got a few details
+from her phone.
+
+2355
+02:04:28,237 --> 02:04:31,799
+It is at 10.30 pm, she
+has placed the order.
+
+2356
+02:04:31,879 --> 02:04:33,755
+From the testimony we
+got from the flat,
+
+2357
+02:04:33,835 --> 02:04:36,255
+it is at 10.30 pm that lady
+was taken to the hospital.
+
+2358
+02:04:36,335 --> 02:04:38,088
+Given the details,
+it's possible that,
+
+2359
+02:04:38,168 --> 02:04:40,588
+Dany collected food from
+the hotel at 10.15.
+
+2360
+02:04:41,211 --> 02:04:42,543
+If that is true,
+
+2361
+02:04:42,918 --> 02:04:45,504
+who delivered food to her,
+
+2362
+02:04:45,584 --> 02:04:46,946
+in between the calls she made
+to her mom and her husband?
+
+2363
+02:04:47,026 --> 02:04:49,936
+From the time of the attack, and
+the time that Dany said,
+
+2364
+02:04:50,016 --> 02:04:52,626
+chances are less that he
+did the crime.
+
+2365
+02:05:02,444 --> 02:05:04,664
+Sir, Irumbanam-Vennala...
+
+2366
+02:05:04,744 --> 02:05:06,773
+Numbers common to
+these two towers...
+
+2367
+02:05:06,853 --> 02:05:08,310
+'Common numbers?'
+- Yes, I need the list of,
+
+2368
+02:05:08,390 --> 02:05:10,468
+common numbers that fall under
+Irumbanam-Vennala towers.
+
+2369
+02:05:10,548 --> 02:05:12,576
+In both of the crime scenes,
+
+2370
+02:05:12,797 --> 02:05:14,917
+we don't have any other common
+link other than Dany.
+
+2371
+02:05:14,997 --> 02:05:17,294
+Sir, he has committed
+both the crimes.
+
+2372
+02:05:17,432 --> 02:05:19,247
+He's simply making a
+fool out of us.
+
+2373
+02:05:20,581 --> 02:05:23,286
+But, these guys say that
+it's not him.
+
+2374
+02:05:23,366 --> 02:05:25,334
+Alright, please send all the
+details on WhatsApp.
+
+2375
+02:05:25,414 --> 02:05:27,206
+'I have sent it in our group.'
+- Okay, thanks.
+
+2376
+02:05:29,470 --> 02:05:31,876
+Sir, between the stipulated time,
+
+2377
+02:05:31,956 --> 02:05:35,372
+There is a number, active under both
+Irumbanam and Vennala towers.
+
+2378
+02:05:35,452 --> 02:05:37,501
+Later, it was moving…
+
+2379
+02:05:37,581 --> 02:05:38,894
+I have taken the details
+of the number.
+
+2380
+02:05:38,974 --> 02:05:41,581
+The number got switched off
+at Kalamassery.
+
+2381
+02:05:41,661 --> 02:05:44,164
+That is in the name of a lady.
+
+2382
+02:05:44,539 --> 02:05:45,747
+Kavitha David.
+
+2383
+02:05:55,338 --> 02:05:56,706
+Give me his mobile phone.
+
+2384
+02:05:58,122 --> 02:05:59,414
+What is the number, you said?
+
+2385
+02:05:59,864 --> 02:06:02,001
+8281...
+- 8281...
+
+2386
+02:06:02,081 --> 02:06:04,372
+91...
+- 5667.
+
+2387
+02:06:08,403 --> 02:06:09,584
+Who is this?
+
+2388
+02:06:09,664 --> 02:06:11,626
+Sir, she is my sister.
+- Your sister?
+
+2389
+02:06:11,706 --> 02:06:13,584
+Are you both messing with us?
+
+2390
+02:06:13,664 --> 02:06:15,456
+What is this, sir?
+- Where is she?
+
+2391
+02:06:15,581 --> 02:06:17,648
+She is at her house.
+- Place?
+
+2392
+02:06:17,728 --> 02:06:19,616
+Sir... Sir, Kalamassery.
+
+2393
+02:06:19,800 --> 02:06:21,410
+Kalamassery.
+
+2394
+02:06:24,068 --> 02:06:26,221
+Sir, my nephew
+won't be asleep.
+
+2395
+02:06:26,654 --> 02:06:29,757
+Sir, he will get scared.
+Please, sir.
+
+2396
+02:06:30,708 --> 02:06:31,997
+Zip your mouth, you...
+
+2397
+02:06:38,331 --> 02:06:39,417
+We are cops.
+
+2398
+02:06:39,497 --> 02:06:40,497
+Open the door!
+
+2399
+02:06:42,305 --> 02:06:44,070
+Two of you go to the back door.
+
+2400
+02:06:49,899 --> 02:06:51,414
+What's the matter, sir?
+
+2401
+02:06:53,721 --> 02:06:55,289
+Kavitha David?
+
+2402
+02:06:57,034 --> 02:06:58,414
+That's me.
+
+2403
+02:06:58,608 --> 02:06:59,568
+What's the matter?
+
+2404
+02:06:59,648 --> 02:07:01,376
+How did your phone number,
+
+2405
+02:07:01,456 --> 02:07:04,001
+come under Irumbanam-Vennala
+mobile tower last night,
+
+2406
+02:07:04,081 --> 02:07:05,831
+between 10 -11.15.
+
+2407
+02:07:06,539 --> 02:07:07,698
+I don't know, sir.
+
+2408
+02:07:07,778 --> 02:07:10,581
+I hardly use my phone
+because I'm carrying.
+
+2409
+02:07:10,661 --> 02:07:12,497
+It's my husband who uses
+my phone these days.
+
+2410
+02:07:12,664 --> 02:07:13,747
+Where is your husband?
+
+2411
+02:07:30,039 --> 02:07:31,206
+What is your name?
+
+2412
+02:07:31,872 --> 02:07:32,792
+Jhony.
+
+2413
+02:07:32,872 --> 02:07:34,497
+Where were you last night?
+
+2414
+02:07:34,997 --> 02:07:36,251
+I was here.
+
+2415
+02:07:36,331 --> 02:07:38,872
+Some people have seen you
+around Irumbanam-Vennala at 10.00 pm.
+
+2416
+02:07:39,500 --> 02:07:42,334
+No, sir. He was here at home
+from 8.00 pm yesterday.
+
+2417
+02:07:42,414 --> 02:07:43,751
+He has not gone anywhere.
+
+2418
+02:07:43,831 --> 02:07:45,042
+Sir, I was here only.
+
+2419
+02:07:45,122 --> 02:07:47,450
+I was watching cricket on the TV.
+
+2420
+02:07:47,530 --> 02:07:49,251
+And, I slept around 12-12.30.
+
+2421
+02:07:49,331 --> 02:07:50,956
+Where did you go just now?
+
+2422
+02:07:51,831 --> 02:07:53,955
+I had gone to see off someone
+at the bus stand.
+
+2423
+02:07:54,100 --> 02:07:56,706
+Who's that?
+- My brother, Jakes.
+
+2424
+02:07:57,765 --> 02:07:59,494
+He was here for the last one week.
+
+2425
+02:07:59,574 --> 02:08:01,581
+He's working in Technopark,
+Thiruvananthapuram.
+
+2426
+02:08:01,661 --> 02:08:03,164
+He was...? What about now?
+
+2427
+02:08:03,244 --> 02:08:06,126
+Dear, sir, no one is sure
+about his things.
+
+2428
+02:08:06,206 --> 02:08:08,331
+He was working in
+a call centre there.
+
+2429
+02:08:08,488 --> 02:08:10,497
+His salary was very less.
+
+2430
+02:08:10,849 --> 02:08:14,747
+But his lifestyle is that
+of a rich guy.
+
+2431
+02:08:15,052 --> 02:08:16,917
+He has not been getting a salary
+for the past 3-4 months.
+
+2432
+02:08:16,997 --> 02:08:18,372
+That's what he said.
+
+2433
+02:08:18,539 --> 02:08:20,251
+He has taken some
+money from me.
+
+2434
+02:08:20,331 --> 02:08:23,247
+How much?
+- Around two and a half lakhs.
+
+2435
+02:08:23,327 --> 02:08:26,459
+Last day, he quarrelled with
+me as I asked for my money.
+
+2436
+02:08:26,539 --> 02:08:28,206
+Was he out of the house
+last night?
+
+2437
+02:08:28,539 --> 02:08:30,292
+He comes and goes at odd hours.
+
+2438
+02:08:30,372 --> 02:08:31,751
+He comes home at midnight and all.
+
+2439
+02:08:31,831 --> 02:08:34,039
+What I asked is about
+the last night?
+
+2440
+02:08:34,624 --> 02:08:36,334
+He was out last night.
+
+2441
+02:08:36,414 --> 02:08:39,914
+It was around 12-12.30 am
+when we reached back.
+
+2442
+02:08:40,178 --> 02:08:41,956
+Does he use this scooter?
+
+2443
+02:08:42,289 --> 02:08:44,664
+Yes, he uses it when
+he comes here.
+
+2444
+02:08:45,331 --> 02:08:47,164
+What about your sister's mobile?
+
+2445
+02:08:47,746 --> 02:08:49,751
+He was using her mobile
+phone this time,
+
+2446
+02:08:49,831 --> 02:08:51,664
+saying that his SIM card
+is blocked.
+
+2447
+02:08:52,494 --> 02:08:55,372
+Take down the details.
+- Okay, sir.
+
+2448
+02:08:56,914 --> 02:08:59,292
+It's both of you together
+doing all these, right?
+
+2449
+02:08:59,372 --> 02:09:01,372
+No, sir. Please trust me.
+
+2450
+02:09:01,456 --> 02:09:03,456
+True that he had come
+to my room.
+
+2451
+02:09:03,956 --> 02:09:05,501
+He comes with a huge
+list of impossible plans.
+
+2452
+02:09:05,581 --> 02:09:06,706
+What plan?
+
+2453
+02:09:06,953 --> 02:09:10,459
+He has loaned money from
+a girl who works with him.
+
+2454
+02:09:10,539 --> 02:09:13,542
+He has invested it in a money
+chain like Bitcoin or something.
+
+2455
+02:09:13,622 --> 02:09:15,959
+Now, the girl is after him
+asking for her money...
+
+2456
+02:09:16,039 --> 02:09:18,792
+Her husband has filed a
+police case against him.
+
+2457
+02:09:18,872 --> 02:09:20,376
+If you are not together,
+
+2458
+02:09:20,456 --> 02:09:23,084
+how is he able to get to all
+places before you reach there?
+
+2459
+02:09:23,164 --> 02:09:24,872
+That's what even I
+don't understand?
+
+2460
+02:09:25,747 --> 02:09:28,751
+He had indeed come with
+me that day to deliver food.
+
+2461
+02:09:28,831 --> 02:09:29,667
+For what?
+
+2462
+02:09:29,747 --> 02:09:32,084
+He was so adamant about
+coming with me.
+
+2463
+02:09:32,164 --> 02:09:34,292
+Why did you take him
+along with you?
+
+2464
+02:09:34,372 --> 02:09:37,039
+He was so adamant about
+coming with me.
+
+2465
+02:09:37,119 --> 02:09:40,209
+I took him along just to save him
+from getting bored of sitting alone.
+
+2466
+02:09:40,289 --> 02:09:42,247
+My dear, sir, I don't know
+anything other than this.
+
+2467
+02:09:42,747 --> 02:09:43,751
+Don't know, means?
+
+2468
+02:09:43,831 --> 02:09:45,126
+Please trust me, sir.
+
+2469
+02:09:45,206 --> 02:09:47,706
+Can we check Dany's phone
+once more?
+
+2470
+02:09:49,289 --> 02:09:50,667
+In which office is he working?
+
+2471
+02:09:50,747 --> 02:09:51,834
+In Techno Park.
+
+2472
+02:09:51,914 --> 02:09:54,167
+Hey, this is a problematic App.
+
+2473
+02:09:54,247 --> 02:09:55,622
+Let me search for it.
+
+2474
+02:09:56,289 --> 02:09:58,292
+Did you see him today?
+- No, sir, I haven't.
+
+2475
+02:09:58,372 --> 02:10:01,696
+Did he call or message you today?
+- Sir.
+
+2476
+02:10:02,247 --> 02:10:03,701
+An unauthorized
+App called Mobile Spy,
+
+2477
+02:10:03,781 --> 02:10:05,164
+has been installed on this phone.
+
+2478
+02:10:05,632 --> 02:10:08,356
+The person who has installed
+the app in this phone,
+
+2479
+02:10:08,436 --> 02:10:11,675
+can access all the Apps in this
+phone via another phone.
+
+2480
+02:10:11,848 --> 02:10:14,334
+For example, Facebook,
+WhatsApp...etc.
+
+2481
+02:10:14,414 --> 02:10:17,584
+Jakes, what are you doing with
+my phone all the time?
+
+2482
+02:10:17,664 --> 02:10:19,626
+Dude, you keep aside all your
+unworkable plans,
+
+2483
+02:10:19,706 --> 02:10:21,501
+and start doing some job like this.
+
+2484
+02:10:21,581 --> 02:10:22,667
+You will get quite a good salary.
+
+2485
+02:10:22,747 --> 02:10:24,292
+Which bus did you see him off?
+
+2486
+02:10:24,372 --> 02:10:26,247
+The Thiruvananthapuram bus, sir.
+
+2487
+02:10:26,713 --> 02:10:30,000
+'Bravo 18 responding.'
+- 'Noted!'
+
+2488
+02:10:30,422 --> 02:10:33,146
+'A boy aged between
+18 and 25 years has boarded,'
+
+2489
+02:10:33,226 --> 02:10:35,243
+'the super-fast bus from Aluva
+to Thiruvananthapuram...'
+
+2490
+02:10:35,323 --> 02:10:36,584
+Hello, KSRTC here!
+
+2491
+02:10:36,664 --> 02:10:38,414
+Sir, this is from Cyber Cell, Kochi.
+
+2492
+02:10:38,700 --> 02:10:40,897
+There's something urgent
+regarding a case.
+
+2493
+02:10:40,977 --> 02:10:43,251
+Sir, I need the number of either
+the driver or the conductor of the,
+
+2494
+02:10:43,331 --> 02:10:45,459
+Thiruvananthapuram super-fast bus
+that left at 4.00 am from the stand.
+
+2495
+02:10:45,539 --> 02:10:47,164
+I want it now, it's urgent.
+
+2496
+02:10:48,039 --> 02:10:50,206
+Sir, what's Ajayan's number... Who's
+gone in the Thiruvananthapuram bus?
+
+2497
+02:10:57,683 --> 02:11:00,042
+This is from Cyber Cell, Kochi.
+- Cyber Cell?
+
+2498
+02:11:00,122 --> 02:11:01,997
+Sir, don't panic.
+
+2499
+02:11:02,546 --> 02:11:04,477
+We have information
+that a suspect related to,
+
+2500
+02:11:04,557 --> 02:11:07,334
+a murder case in Kochi
+has boarded your bus.
+
+2501
+02:11:07,414 --> 02:11:08,649
+We need to know about it.
+
+2502
+02:11:08,729 --> 02:11:10,292
+This vehicle?
+- Yes, yes.
+
+2503
+02:11:10,372 --> 02:11:12,042
+We will send the photo
+on WhatsApp.
+
+2504
+02:11:12,122 --> 02:11:13,542
+Can you see if he's there
+inside the bus...
+
+2505
+02:11:13,622 --> 02:11:16,045
+You need not hang up the call.
+- I'll call you back, sir.
+
+2506
+02:11:16,184 --> 02:11:17,626
+Can you check that photo
+and tell me?
+
+2507
+02:11:17,706 --> 02:11:18,706
+Okay.
+
+2508
+02:11:42,039 --> 02:11:43,331
+Hey, hello.
+
+2509
+02:11:50,956 --> 02:11:52,122
+Ask him, what's it?
+
+2510
+02:11:53,081 --> 02:11:54,081
+Sir.
+
+2511
+02:11:54,247 --> 02:11:56,501
+No such man is there
+inside this vehicle.
+
+2512
+02:11:56,581 --> 02:11:58,456
+You must have gotten
+the wrong bus.
+
+2513
+02:11:58,802 --> 02:12:00,747
+Okay, sir.
+- Okay, alright.
+
+2514
+02:12:06,378 --> 02:12:08,039
+Sir.
+- Sir.
+
+2515
+02:12:09,247 --> 02:12:11,102
+He is not on the bus,
+said the conductor.
+
+2516
+02:12:11,182 --> 02:12:13,164
+Maybe he got into another
+bus in between.
+
+2517
+02:12:25,747 --> 02:12:27,501
+Sir, we had called
+up Aluva stand,
+
+2518
+02:12:27,581 --> 02:12:29,539
+and had taken the number of
+the KSRTC conductor.
+
+2519
+02:12:29,708 --> 02:12:31,956
+There's no such a man
+in the bus, it seems.
+
+2520
+02:12:32,121 --> 02:12:34,122
+Maybe he got into another
+bus in between.
+
+2521
+02:12:59,431 --> 02:13:00,882
+Hey, he's calling back. Hello.
+
+2522
+02:13:00,962 --> 02:13:03,251
+'Sir, he's there inside the bus.'
+
+2523
+02:13:03,331 --> 02:13:04,539
+'Come fast!'
+
+2524
+02:13:06,372 --> 02:13:08,039
+Sir, he's there inside
+the bus, it seems.
+
+2525
+02:13:21,664 --> 02:13:22,667
+Where did he go?
+
+2526
+02:13:22,747 --> 02:13:24,569
+Towards that side.
+We couldn't catch him.
+
+2527
+02:13:24,649 --> 02:13:25,648
+Downwards...
+
+2528
+02:13:26,105 --> 02:13:28,626
+Get the vehicle down.
+- Come on, fast.
+
+2529
+02:13:28,706 --> 02:13:29,997
+Come on, sir.
+
+2530
+02:13:32,497 --> 02:13:34,403
+He won't go beyond this, sir.
+
+2531
+02:13:34,483 --> 02:13:36,126
+It's a swamp over there.
+
+2532
+02:13:36,206 --> 02:13:38,042
+Sir, be careful.
+- Show the lights towards there.
+
+2533
+02:13:38,122 --> 02:13:39,931
+There will be snakes over there.
+
+2534
+02:13:40,011 --> 02:13:42,372
+It's a swamp, no place
+beyond this to run.
+
+2535
+02:13:42,854 --> 02:13:44,463
+Sir, we can hear some
+sound from there.
+
+2536
+02:13:44,679 --> 02:13:46,244
+He must be somewhere here. Come!
+
+2537
+02:13:47,122 --> 02:13:49,459
+Sir, the gate is lying open.
+
+2538
+02:13:49,539 --> 02:13:50,792
+He has gone this way for sure.
+
+2539
+02:13:50,872 --> 02:13:52,331
+See, the gate is open.
+
+2540
+02:13:59,247 --> 02:14:00,539
+He must be somewhere inside this.
+
+2541
+02:14:00,789 --> 02:14:01,872
+Do one thing.
+
+2542
+02:14:02,331 --> 02:14:04,158
+Both of you, go that side.
+- Okay, sir.
+
+2543
+02:14:04,238 --> 02:14:06,463
+You, towards that side. Go.
+
+2544
+02:14:09,978 --> 02:14:11,206
+Watch your way and go.
+
+2545
+02:14:14,071 --> 02:14:15,325
+Be careful.
+
+2546
+02:14:53,414 --> 02:14:54,581
+You go that way.
+
+2547
+02:14:57,544 --> 02:14:58,831
+Is he over there, Danesh?
+
+2548
+02:15:10,001 --> 02:15:11,342
+How dare you?
+
+2549
+02:15:12,622 --> 02:15:14,066
+Damn! Leave me.
+
+2550
+02:15:14,831 --> 02:15:15,872
+Sir...
+
+2551
+02:15:18,114 --> 02:15:19,809
+Sir, please come.
+- Leave me.
+
+2552
+02:15:22,015 --> 02:15:23,039
+Antony...
+
+2553
+02:15:24,664 --> 02:15:26,126
+You go catch him.
+
+2554
+02:15:29,206 --> 02:15:30,414
+Sir...
+- What is it?
+
+2555
+02:15:30,497 --> 02:15:32,042
+Are you hurt?
+- What did he run?
+
+2556
+02:15:32,122 --> 02:15:33,497
+He ran towards that side.
+
+2557
+02:15:35,045 --> 02:15:37,216
+Sir, we got him. Come fast.
+
+2558
+02:15:37,956 --> 02:15:39,622
+Stop there!
+- Sir...
+
+2559
+02:15:44,997 --> 02:15:46,456
+Sir!
+
+2560
+02:15:47,245 --> 02:15:48,214
+Thrash him, sir.
+
+2561
+02:15:52,969 --> 02:15:54,872
+Are you playing with cops?
+
+2562
+02:16:02,331 --> 02:16:04,247
+Don't wriggle, you idiot!
+
+2563
+02:16:07,290 --> 02:16:09,622
+Are you trying to make
+a fool out of us?
+
+2564
+02:16:11,122 --> 02:16:12,247
+Please leave me, sir.
+
+2565
+02:16:22,113 --> 02:16:23,001
+Wahab.
+
+2566
+02:16:23,081 --> 02:16:24,956
+Get up, and stand straight.
+
+2567
+02:16:25,036 --> 02:16:26,459
+Stand up.
+
+2568
+02:16:26,539 --> 02:16:28,688
+Stand straight, I say!
+
+2569
+02:16:28,768 --> 02:16:30,664
+Sir, please...
+- Come on.
+
+2570
+02:16:31,141 --> 02:16:32,206
+Walk, fast.
+
+2571
+02:16:32,823 --> 02:16:34,206
+Is it locked from inside?
+
+2572
+02:16:34,636 --> 02:16:35,542
+Drag him inside.
+
+2573
+02:16:35,622 --> 02:16:37,747
+Did you think you can
+make a fool out of us?
+
+2574
+02:16:38,581 --> 02:16:39,444
+Get inside, all of you.
+
+2575
+02:16:39,524 --> 02:16:40,831
+I got in, sir.
+
+2576
+02:16:42,789 --> 02:16:43,914
+Did they get in?
+
+2577
+02:16:44,539 --> 02:16:45,956
+What's their name?
+
+2578
+02:16:46,799 --> 02:16:48,289
+Hey, show me your hands.
+Let me see.
+
+2579
+02:16:50,258 --> 02:16:51,167
+Yes, sir.
+
+2580
+02:16:51,247 --> 02:16:53,075
+How is your hand?
+- That's okay, sir.
+
+2581
+02:16:53,372 --> 02:16:54,783
+Get into the vehicle.
+We will drive you to the hospital.
+
+2582
+02:16:54,936 --> 02:16:56,444
+No, sir...we have a bike...
+
+2583
+02:16:56,524 --> 02:16:57,997
+We will go by ourselves.
+
+2584
+02:16:58,247 --> 02:16:59,581
+What is your name?
+
+2585
+02:17:00,347 --> 02:17:01,372
+Antony.
+
+2586
+02:17:01,789 --> 02:17:02,831
+Vinay Dasan.
+
+2587
+02:17:47,414 --> 02:17:49,706
+Okay, sir. Thank you, sir.
+
+2588
+02:17:51,539 --> 02:17:52,545
+Come on in.
+
+2589
+02:17:55,539 --> 02:17:56,747
+Good morning, sir.
+- Good morning.
+
+2590
+02:17:57,215 --> 02:17:59,081
+Did you go to the hospital?
+- Yes, we did.
+
+2591
+02:18:00,456 --> 02:18:01,706
+Dasan.
+
+2592
+02:18:04,372 --> 02:18:05,223
+What is your plan?
+
+2593
+02:18:05,303 --> 02:18:07,039
+Nothing, we want to sleep
+for some time.
+
+2594
+02:18:07,119 --> 02:18:08,497
+You should give us a
+day's leave, okay?
+
+2595
+02:18:08,982 --> 02:18:10,831
+My body hurts.
+
+2596
+02:18:11,914 --> 02:18:12,997
+That's not it.
+
+2597
+02:18:13,328 --> 02:18:15,247
+I asked you about your
+plans.
+
+2598
+02:18:16,090 --> 02:18:17,997
+Just go on... like this...
+
+2599
+02:18:26,740 --> 02:18:28,872
+Joy. Please come here.
+
+2600
+02:18:34,301 --> 02:18:35,831
+You want a smoke?
+- No.
+
+2601
+02:18:35,956 --> 02:18:36,956
+No, sir.
+
+2602
+02:18:39,620 --> 02:18:43,914
+How long can you continue doing
+a worthless job like this?
+
+2603
+02:18:44,459 --> 02:18:46,168
+The government has
+decided to lay off,
+
+2604
+02:18:46,248 --> 02:18:48,189
+temporary employees
+from KSRTC and KSEB.
+
+2605
+02:18:48,581 --> 02:18:49,835
+It's the same here as well.
+
+2606
+02:18:49,915 --> 02:18:50,997
+Isn't it?
+
+2607
+02:18:52,331 --> 02:18:53,831
+Are you sending us away?
+
+2608
+02:18:55,831 --> 02:18:58,917
+Secure your life somewhere else,
+without getting insulted here.
+
+2609
+02:18:58,997 --> 02:19:00,501
+Go.
+- Dear, sir...
+
+2610
+02:19:00,899 --> 02:19:02,664
+We love working here, sir.
+
+2611
+02:19:03,431 --> 02:19:05,164
+We will somehow stay here.
+
+2612
+02:19:05,372 --> 02:19:06,497
+We don't want any salary.
+
+2613
+02:19:07,622 --> 02:19:09,376
+Please. Sir.
+
+2614
+02:19:09,456 --> 02:19:10,539
+Dear, you can't...
+
+2615
+02:19:11,194 --> 02:19:12,622
+It's an order from the government.
+
+2616
+02:19:13,664 --> 02:19:14,622
+Sir.
+
+2617
+02:19:14,747 --> 02:19:15,831
+You go, dear.
+
+2618
+02:19:16,664 --> 02:19:18,164
+It's nothing, but...
+
+2619
+02:19:18,831 --> 02:19:23,414
+We will become a zero
+in front of everyone.
+
+2620
+02:19:23,706 --> 02:19:24,667
+That's why.
+
+2621
+02:19:24,747 --> 02:19:26,331
+This is the nature of our system.
+
+2622
+02:19:27,747 --> 02:19:28,831
+Go and find something better.
+
+2623
+02:19:30,851 --> 02:19:32,164
+You may go.
+
+2624
+02:19:33,155 --> 02:19:34,164
+Sir...
+
+2625
+02:22:27,247 --> 02:22:29,414
+'In life, there's a blockade
+everywhere, isn't it?'
+
+2626
+02:22:30,352 --> 02:22:32,334
+'Only those blocked
+somewhere have succeeded in life.'
+
+2627
+02:22:32,414 --> 02:22:33,872
+'Fresh proverb, huh?'
+
+2628
+02:22:34,149 --> 02:22:35,251
+'Where did you get it from?'
+
+2629
+02:22:35,331 --> 02:22:36,872
+'My friend who's a moron told me.'
+
+2630
+02:22:36,952 --> 02:22:38,456
+'But, that's true.'
+
+2631
+02:22:39,226 --> 02:22:40,497
+'Get lost, brat!'
+										
+
+   
+ 
+
+
+ 
+  
+  
+     
+
+
+ 
+
+
+ 
+										
+
+  
+    
+ 
+ 
+
+
+ 
+
+  
+ 
